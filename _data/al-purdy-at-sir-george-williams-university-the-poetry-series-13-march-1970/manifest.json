@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Al Purdy at Sir George Williams University, The Poetry Series, 13 March 1970" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3895.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/al_purdy_i006-11-037-1.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3895.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
