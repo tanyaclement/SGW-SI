@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-george-bowering.json",
+  "type": "AnnotationPage",
+  "label": "George Bowering",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-george-bowering-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Welcome to the...welcome to the fourth—third week of the fourth series of our readings here at Sir George <sup><a href=\"https://www.wikidata.org/wiki/Q326342\">w</a></sup> and this one is a special one, partly in that it was, it is being presented by a combination of the daytime Arts Student Association and the evening Arts Student Association, and not simply on the normal schedule. I'm certain that you don't have to be told who Allen Ginsberg <sup><a href=\"https://www.wikidata.org/wiki/Q6711\">w</a></sup> is, and you might think on how lucky it is that you happen to be in Montreal <sup><a href=\"https://www.wikidata.org/wiki/Q340\">w</a></sup> and he is here at the same time. Last night he was at York University <sup><a href=\"https://www.wikidata.org/wiki/Q849751\">w</a></sup> in Toronto <sup><a href=\"https://www.wikidata.org/wiki/Q172\">w</a></sup>, and tomorrow he's going to be in Ottawa <sup><a href=\"https://www.wikidata.org/wiki/Q1930\">w</a></sup>, and we're going to sap an awful lot of his energy. Allen is, I think, the most noted poet we've had over the last couple of decades, in the world, and as you're going to find out and as you already know, one of the super-poets in terms of writing poetry, as well. I'd like to give you, without any more cogitation, Mr. Allen Ginsberg. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1001.0"
+        }
+      }
+    }
+  ]
+}

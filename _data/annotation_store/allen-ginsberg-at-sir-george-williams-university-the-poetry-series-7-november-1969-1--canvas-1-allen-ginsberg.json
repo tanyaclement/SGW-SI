@@ -1,0 +1,671 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg.json",
+  "type": "AnnotationPage",
+  "label": "Allen Ginsberg",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "George Bowering <sup><a href=\"https://www.wikidata.org/wiki/Q1239280\">w</a></sup>, who I've known a long time, asked me to read a poem that I haven't read through but once before, called \"Angkor Wat\". So I'll try that. It's middle-sized, like, ten minutes, probably. What it is, is notations taken down in the course of one night in Cambodia <sup><a href=\"https://www.wikidata.org/wiki/Q424\">w</a></sup>, in Siem Reap <sup><a href=\"https://www.wikidata.org/wiki/Q11711\">w</a></sup>, which is outside of Angkor Wat <sup><a href=\"https://www.wikidata.org/wiki/Q43473\">w</a></sup>, a town outside of the ruins.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1103.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Angkor Wat\" [from Angkor Wat]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1136.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I want to read a couple poems from a book published in Toronto by Anansi Press, or one poem from that. This is written in Saigon <sup><a href=\"https://www.wikidata.org/wiki/Q1854\">w</a></sup>, so it's about a week, yes it's about...the same week, I think. Oh this is...a week before. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2505.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Understand that this is a Dream” [from Airplane Dreams].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2539.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I've been working on Blake's <sup><a href=\"https://www.wikidata.org/wiki/Q41513\">w</a></sup> Songs of Innocence <sup><a href=\"https://www.wikidata.org/wiki/Q20644964\">w</a></sup> and Experience <sup><a href=\"https://www.wikidata.org/wiki/Q27890603\">w</a></sup>, making tunes, or tuning the songs, so I'd like to sing some. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"(a) Introduction / (b) The Shepherd”, accompanying himself on harmonium [recorded later on Songs of Innocence and Experience]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2988.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Singing them in the order in Experience, that they're in the book, what follows is \"The Echoing Green\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3150.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"The Echoing Green\", accompanying himself on harmonium [recorded later on Songs of Innocence and Experience]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "“The Little Boy Lost\" and \"The Little Boy Found\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3269.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"The Little Boy Lost\" and \"The Little Boy Found\", accompanying himself on harmonium [recorded later on Songs of Innocence and Experience]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3281.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"The Blossom\", accompanying himself on harmonium [recorded later on Songs of Innocence and Experience]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3374.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "From Experience, the first song is \"Hear the Voice of the Bard\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3436.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"Hear the Voice of the Bard\", accompanying himself on harmonium [recorded later as “Introduction” on Songs of Innocence and Experience]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3442.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And the last song in Experience...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3566.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"Introduction\", accompanying himself on harmonium [recorded later on Songs of Innocence and Experience].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3573.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And last from Innocence, \"The Laughing Song\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3647.46"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1--canvas-1-allen-ginsberg-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"The Laughing Song\", accompanying himself on harmonium [recorded later as “b) Laughing Song” on Songs of Innocence and Experience].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Allen Ginsberg",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/allen-ginsberg-at-sir-george-williams-university-the-poetry-series-7-november-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3650.0"
+        }
+      }
+    }
+  ]
+}
