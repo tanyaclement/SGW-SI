@@ -41,6 +41,14 @@
               "none": ["Unknown"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-1--canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
