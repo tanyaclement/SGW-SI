@@ -33,6 +33,14 @@
               "none": ["bill bissett"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/bill-bissett-at-sir-george-williams-university-the-poetry-series-31-october-1969-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
