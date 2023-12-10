@@ -1,0 +1,2777 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney.json",
+  "type": "AnnotationPage",
+  "label": "Earle Birney",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you very much, George <sup><a href=\"https://www.wikidata.org/wiki/Q1239280\">w</a></sup>. I should, in all fairness to George, say that he actually wrote all this information about me and probably a good number of the poems, which I will be reading under my own name tonight. I would also like to say that I have, was recently corresponding with a man who had just resigned as president of a University to become a Dean of another University and had said, well, at least I will show them that if a Dean is a mouse in training to be a rat, then some rats can revert to being mice. Now, if we apply this to the world of poetry, I would say that I am a mouse in training to be less than a mouse, to be something in another category--I think I'd like to be Bursar of Canadian Poetry. But nobody has really set me up for that. I'm going to start by making sure that I read one good poem tonight by reading a poem of W. B. Yeats <sup><a href=\"https://www.wikidata.org/wiki/Q40213\">w</a></sup> [audience laughter] called \"A Prayer for Old Age\", which has, I think, I'm afraid, more and more pertinence to my condition. He wrote it at 69. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "146.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Prayer for Old Age\"  by W. B. Yeats.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "250.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That I will use as an excuse for some of the poems I now shall read you, if I can find my list. The last thing. Ah yes, here it is. Now there's no mic and I want to make sure that everyone is hearing me. If I'm not talking loud enough, those that cannot hear, would you please put a hand up now. I'm very sorry, I'm very sorry--well, you will have to go to the back and then somebody who's standing can come here. I'm sorry there aren't, that some of you have to stand, and I'll try to make it as fast as possible so we can all get out of here. [Audience laughter]. I'm going to begin with some poems that are, alas, too well known to my fellow poets, most of them in this room, but I had planned it this way and I'm stuck with it now and so are they. I'm going to begin with a series that came out, some members of a series that came out in Ice Cod Bell or Stone, and later others in, Near False Creek Mouth, that have to do with wandering around the global village, and this one begins in, well it since begins in Vancouver, but it's about Honolulu <sup><a href=\"https://www.wikidata.org/wiki/Q18094\">w</a></sup>. I got a fellowship to go to England <sup><a href=\"https://www.wikidata.org/wiki/Q21\">w</a></sup> and I was in Vancouver and I discovered that it only cost me two hundred dollars and some odd cents more to go to London <sup><a href=\"https://www.wikidata.org/wiki/Q84\">w</a></sup> and back to Vancouver by way of going around the world, you know, just heading west. The air tickets were accommodating me that way. So I decided to go west, and my first stop, I noticed, was Honolulu, and I began to get a bit of a temperature about that, and I thought, how 'bout, I might as well live it up, I'm going to Honolulu tomorrow morning, going to be there tomorrow night, and so I will engage a room in Hawaiian Village Hotel for the one night, because first night, I know I have a little money. After that, God knows what's going to happen to me because I intend to stay in a lot of places before I get to London. So I did this, I reserved a room before I left Vancouver, not realizing that this had put me in a bit of a box, because this is one of the Kaiser-Hilton hotels on Waikiki Beach <sup><a href=\"https://www.wikidata.org/wiki/Q254861\">w</a></sup>, and they have a special greeter who meets all the planes, just for people coming to them. And it happened, through another mischance, that I was the only one for that hotel, and this unsettled me so much I had to write about it. [Audience laughter]. Something which I call \"Twenty-Third Flight\" for reasons, well, the poem is imitative of another poet, much older, much greater, by the name of David. Not the one that I pushed off the cliff [audience laughter], the one who was a harpist.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "294.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Twenty-Third Flight\" [from Selected Poems 1940-1966; audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "519.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you very much, I hesitate to look as if I anticipated more applause, but I would much prefer it if you'd just let me rattle ahead here, for one thing it's getting hotter in here and more and more uncomfortable and as I say, let me get ahead with it, and so if at the end, of course, if anybody is still here with enough energy left, fine. Is there anybody who knows where water is available, any water hole out there in those vast cement deserts?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "666.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Uh, well, there's a water pitcher, and a water glass…[audience laughter]. I'll prove it... [audience laughter].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "712.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah! ...Well, while George is away I'll read one of his poems. This one is called \"Honolulu\" and follows immediately after the other, but in between was about forty, twenty-four hours, I guess, in which I visited the very famous outdoor aviary, one of the world's famous aviaries, and also the aquarium and so on, and I also encountered a type, a Honolulu type of sorts. So this poem, which is perhaps about the involvement of people with animals through self-projection, and the involvement of human animals with each other. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "726.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Honolulu\" [from Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "785.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then I went to Japan <sup><a href=\"https://www.wikidata.org/wiki/Q17\">w</a></sup>, and I want to read you one little poem, this is my Zen poem, I guess. [Audience laughter]. Every poet has to have a Zen poem. Thank you, George. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "881.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Good gin, thank you. \"Windchimes in a Temple Ruin\"--you know these little glass-leave things, which one expects to see in Japan, but not suddenly to hear when you're all alone in an old ruin. Some left up in the rafters.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "903.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Windchimes in a Temple Ruin\" [from Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "931.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But I think I'm going to leave Asia <sup><a href=\"https://www.wikidata.org/wiki/Q48\">w</a></sup> for the moment, and get on to Europe <sup><a href=\"https://www.wikidata.org/wiki/Q46\">w</a></sup>, briefly, been around to Spain <sup><a href=\"https://www.wikidata.org/wiki/Q29\">w</a></sup>, at any rate. I was sitting, more or less minding my own business, on a plaza in Madrid <sup><a href=\"https://www.wikidata.org/wiki/Q2807\">w</a></sup> one morning, having my coffee, and something happened, which again I felt I should chronicle. Desmond Pacey <sup><a href=\"https://www.wikidata.org/wiki/Q5264782\">w</a></sup> says I'm a chronicler, and so I, having learned that, I now use the word [audience laughter] to explain what I'm doing. I renamed the plaza, it had a rather dull name, I call it Plaza de Inquisicion. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "972.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Plaza de Inquisicion” [from Near False Creek Mouth and collected in Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1029.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I also went to the Prado <sup><a href=\"https://www.wikidata.org/wiki/Q160112\">w</a></sup> of course, and saw, for the first time, the original of one of the three studies by El Greco <sup><a href=\"https://www.wikidata.org/wiki/Q301\">w</a></sup> of The Espolio <sup><a href=\"https://www.wikidata.org/wiki/Q52301456\">w</a></sup>, or the taking-off and rending of Christ's garments, which was one of El Greco's themes. And I was struck, as I had never been really before, I suppose because I never had really looked at these paintings properly, I had looked at them in small illustrations--I was struck by the extraordinary amount of space which had been taken up, which El Greco had devoted to the carpenter who was making the holes in the cross preparatory to having Christ nailed to the cross. In fact, the whole lower third of the canvas is devoted to him in one of these three versions, and not only that but he is, they're facing us, with his back to Christ, and on the right and left are two of the Marys, whose eyes are on him. I felt that perhaps El Greco was trying to say something here, apart from what he was saying about the actual scene of the crucifixion, in a symbolic way, perhaps about something that happened to do, really, with this religion, but with, whatever we'd call it, religion, whatever we'd call it, of art. Or if not of art, but craft. It's a little, perhaps, exaggerated, to call the carpenter an artist, but it's obvious that he'd been very much at that moment a craftsman. And so I wrote \"El Greco: Espolio\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1064.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"El Greco: Espolio\" [from Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1204.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When I come to Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup>, now, I'm going to kind of sneak in on the side by reading you a poem that has to do with a very remote, I suppose the most remote part of Canada, in fact, the piece of land that is even nearer to the North Pole <sup><a href=\"https://www.wikidata.org/wiki/Q934\">w</a></sup> than Greenland <sup><a href=\"https://www.wikidata.org/wiki/Q223\">w</a></sup> or anything the Russians have, Ellesmereland <sup><a href=\"https://www.wikidata.org/wiki/Q146841\">w</a></sup>. And I will read it first of all in English, and then, more or less for the hell of it, I'm going to read it in a translation into Spanish, but anyway, because I think I like the sound of it in Spanish. It's short, so I've practiced my Spanish on it, and maybe I won't make too many boobs.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1349.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Ellesmereland\" in English [published later in The Collected Poems of Earle Birney, Vol 1].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1410.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Ellesmereland\" in Spanish.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well I'll get down and turn to more familiar territory. \"Canada Case History\". This is a poem written quite a long time ago, in 1945, in fact, when I'd just got back from World War Number Two <sup><a href=\"https://www.wikidata.org/wiki/Q362\">w</a></sup>, I always have to be careful to name which one it is, people getting confused about how far back I go now. And I found that in 1967 I had to do a little patching and changing of this, because history had not only caught up with me, it had changed me. But here, first of all is the original. No, I don't think, I can't, I don't think I can bear to read the original, I think I'll just read you what, what happened to this poem in 1967 in the centennial year.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1499.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Canada: Case History\" [from Selected Poems 1940-1966; audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1569.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well now I'm going to read you other various scrappy things about Canadian literature which have never been published and never will be, I think, sneak them out like this once in a while. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1695.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1718.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then there's John, Jean Cabot, as I think my school teacher, trying very hard to be bilingual, made us say, but it turns out he wasn't French at all, but Italian. His name was Giovanni Caboto <sup><a href=\"https://www.wikidata.org/wiki/Q85642\">w</a></sup>. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1769.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"John Cabot\" [published later as “giovanni caboto - john cabot” in Rag & Bone Shop].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1788.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is something to my publisher, when they brought out a book of mine, Ice Cod Bell or Stone, full of beautiful artwork, except that the man in charge of the artwork had never read the little poem, the \"Klein Ellesmereland\" that I've just read to you, and so never discovered that when I was talking about bells, I was talking about harebells, or flowers, and he put very large iron church bells into all the illustrations. [Audience laughter]. I had asked to see the artwork in advance and was told that the authors, that this was not the custom to show authors the artwork in advance, so I didn't see it. So all I could do at the end was write something. \"To the reader”, which was not included in the volume.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1836.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"To the reader\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1905.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I went to spend a weekend a couple of years ago for the first time with Al Purdy <sup><a href=\"https://www.wikidata.org/wiki/Q4704621\">w</a></sup> in his shack in Ameliasburg <sup><a href=\"https://www.wikidata.org/wiki/Q4742321\">w</a></sup>, and I had read a lot of his Ameliasburg poems before, and I knew Al, but this was a new experience to be actually in the country of the poet, particularly as it was so well staked out--nobody else has ever written about Ameliasburg and the country north of there. Or ever will, I think. But Al has used it, and the country, and developed it into part of the remarkable fineness of his poetry. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1959.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"In Purdy's Ameliasburg\" [published later in Rag & Bone Shop]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2013.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now a poem about another part of Canada. Still Ontario <sup><a href=\"https://www.wikidata.org/wiki/Q1904\">w</a></sup>, part of the north. This is a poem about driving west with somebody else, another guy, and...well there it is. It's called \"Way to the West\". Summertime.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2233.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Way to the West\" [from Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2266.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, I'm going to get out to the West Coast very briefly. I'm going to read you something toward the end of a long poem. The trouble with long poems is, you could never dare to read the whole thing to any audience. So I'll read you, it's toward the end of the thing called \"November walk near False Creek mouth\". The last page.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2505.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads final section of \"November walk near False Creek mouth\" [from Near False Creek Mouth and collected later in Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2546.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm going to read you a few odd things which are to some extent experimental, I suppose. Most of these have not been published, and some of them I haven't read before. This one is called a \"Swahili Serenade\" and I'll tell you about it after I read it. It's Swahili Found Serenade, really. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2707.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Swahili Serenade\" [published later as “found swahili serenade” in Rag & Bone Shop; audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2744.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, as some of you have already perceived, already noticed, this is made up, each line is a juke-box tune, it's just a very easy kind of poem to make up; I offer it to you as a formula for quick poetry, just sit down by a jukebox and pick off some titles. [Audience laughter]. Five minute poem. Here's another kind of found poem of a different sort, called, I call it \"Space Conquest\". That's about all that I've contributed to it. \"Space Conquest\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2773.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Space Conquest\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2816.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well those ten lines, each of five syllables, came out of a computer at the University of Waterloo <sup><a href=\"https://www.wikidata.org/wiki/Q1049470\">w</a></sup> last week, into which we had programmed a hundred and eleven, the one hundred and eleven words of George Meredith's <sup><a href=\"https://www.wikidata.org/wiki/Q90238\">w</a></sup> \"Lucifer in Starlight,\" and the last thirty-three words of Archibald MacLeish's <sup><a href=\"https://www.wikidata.org/wiki/Q633354\">w</a></sup> \"The End of the World.\" Don't ask me why we picked those two poems, I had nothing to do with the picking of the poems. But some of us, two linguists, two linguist-isists, a mathematician, and myself, and masses of computers are producing this sort of poetry. It took point eight-three seconds, not even one second, to produce the hundred-some-odd lines, out of which I chose those ten. So you can see it doesn't take very long, once you've programmed the machine, to find the, you know, the entire text of Hamlet <sup><a href=\"https://www.wikidata.org/wiki/Q41567\">w</a></sup>, but this is what we have done so far, we haven't put too much time on it yet. Some things that I haven't had computers write for me, although perhaps I might have, or should have. This one's called \"Kooks of the Monk\". ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2853.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Kooks of the Monk\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2964.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That is sometimes called \"concrete\". Fun anyway, to do. This is something that I may not be able to finish, but I'll try it. It's the train from Cardiff <sup><a href=\"https://www.wikidata.org/wiki/Q10690\">w</a></sup> to London. English trains sound different, of course. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2979.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"Train from Cardiff to London\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3003.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a found collage from one issue of the Toronto Daily Star <sup><a href=\"https://www.wikidata.org/wiki/Q1067299\">w</a></sup>, called \"Toronto Daily Tele-Starlings\", and this is only a small part of the poem which has no beginning or end, it goes on forever if you read the whole of the Star.  ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3059.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Toronto Daily Tele-Starlings\" [audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3082.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A series of poems with reference back to the Yeats poem I read at the beginning, perhaps. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3206.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Like an eddy\" [published later in Rag & Bone Shop and collected in Ghost in the Wheels: Selected Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3216.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And, two short haikus.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3342.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [two of three haikus from “hokkai in the dew line snow”, published later in Rag & Bone Shop and collected in Ghost in the Wheels: Selected Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3347.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"BUILDINGS\", published later in Rag & Bone Shop and collected in The Collected Poems of Earle Birney, Vol 1].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3376.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And, a poem that is written in kind of an attempt to write something to express a tiny little bit of the pleasure I've had, through most of my life, in reading Chaucer <sup><a href=\"https://www.wikidata.org/wiki/Q5683\">w</a></sup>. Called \"I'm always going back to Chaucer\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3410.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"I'm always going back to Chaucer\" in Middle English.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now something that has to do with my Shetland <sup><a href=\"https://www.wikidata.org/wiki/Q47134\">w</a></sup> grand-aunt. Tea with my Shetland grand-aunt. This is a little, slightly different dialect. And there's a kind of an opposition of styles going on here. It's a very old poem, refurbished.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3546.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Tea at my Shetland Aunt’s\" in a Shetland dialect [published later in The Collected Poems of Earle Birney, Vol 1].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3572.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well now I'm going to turn back to older poems. To conclude. Hum...I'm going to read two or three poems that, who have some relationship to California <sup><a href=\"https://www.wikidata.org/wiki/Q99\">w</a></sup> and Oregon <sup><a href=\"https://www.wikidata.org/wiki/Q824\">w</a></sup>. First of all, a poem that, when I wrote it, I wrote it on the day of its date. I thought the date was going to be very significant. August the seven, 1964, Florence <sup><a href=\"https://www.wikidata.org/wiki/Q862740\">w</a></sup>, Oregon. And that was because on that day, the American fleet moved into the coast and shelled the coast of North Vietnam <sup><a href=\"https://www.wikidata.org/wiki/Q881\">w</a></sup>, against the international agreements into which the United States had entered some years before. And I thought that this would surely go down in living memory, as a deed of aggression and perfidy. But there have been so many since, almost every day, that everybody has forgotten about that first shelling of the shore from the Gulf of Tonkin <sup><a href=\"https://www.wikidata.org/wiki/Q212428\">w</a></sup>. But I happened to be on the shore of the Pacific <sup><a href=\"https://www.wikidata.org/wiki/Q98\">w</a></sup> almost directly across from the Gulf of Tonkin, in fact, the waves that were coming in perhaps had their pulsing first on the other side. And this, one couldn't get it out of one's mind, having seen the morning papers and heard the radio, and I went, I had gone fishing with an American poet and his two boys. The salmon were running, coming in, but I have got less and less interested in killing even fish as I get older and softer, and I soon gave up even wanting to cook fish, and left it to the others, and I went up, because I had nothing to do then, I went up and I sat on a cliff, and started thinking about the sea out there, and cormorants fishing, and once in a while the flash of a seal coming up, also fishing, and I also suddenly realized I was sitting there just staring out at the sea and I began to think, I remembered Frost's <sup><a href=\"https://www.wikidata.org/wiki/Q168728\">w</a></sup> poem about how odd human beings are, you know, they go down to the sea and they sit and they all, they always look out at the sea, although they can't look very far out or very far in. And I thought that was exactly what I was feeling, the whole thing. But I thought well it's not really Frost's ocean, this is Robinson Jeffers' <sup><a href=\"https://www.wikidata.org/wiki/Q734955\">w</a></sup> ocean, and here is this great eye of indifference, so I began my poem, called \"Looking from Oregon\" with a line from Robinson Jeffers about the Pacific: \"And what it watches is not our wars\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3681.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Looking from Oregon\" [from Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3894.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And another little poem which is really a video poem, and I should put it on a screen but I forgot to bring my slides. Brought them as far as the hotel, but I forgot to bring them up here.  o you'll just have to visualize a poem shaped like a pair of stairs but coming up at you, and visualize yourself at the top of these stairs with your back against the side of a theatre, a campus theatre at the University of Oregon <sup><a href=\"https://www.wikidata.org/wiki/Q766145\">w</a></sup>, with signs of last week's shows, this one to go on tonight, that I'm waiting to go into, waiting for my friends, who have the tickets, and watching people come up these steps, the cars coming by and discharging people. \"Campus Theatre Steps\". Summertime, a beautiful summer night. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3980.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Campus Theatre Steps\" [from Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4034.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then I was driving along the coast, a long time, and I was confronted with a sign that hadn't been there before. A billboard, with the same message multiplied up and down the coast and everywhere I went, since the last time I was there. Now I, this is my favourite state of the American Union, Oregon, absolutely beautiful, still, despite whatever, all the attempts of man to un-beautify it, there's still this great volcanic, snow-covered mountains, such, shaped a bit like Fujiyama <sup><a href=\"https://www.wikidata.org/wiki/Q39231\">w</a></sup>, there is also all those beautiful rocks and sea-lion caves and the pounding surf and the rhododendrons, the whole works. And there's these, this sign saying, \"Billboards Build Freedom of Choice, Courtesy of Oregon Chamber of Commerce\". I brooded about this, and being alone, I couldn't get the answer. What is the philosophy behind this? So I invented a hitchhiker, and I picked him up, and he told me, and this is what he said. This poem is dated 61-62, and Khruschev <sup><a href=\"https://www.wikidata.org/wiki/Q35314\">w</a></sup> is still in power in Russia <sup><a href=\"https://www.wikidata.org/wiki/Q159\">w</a></sup>. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4084.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Billboards Build Freedom of Choice\" [from Near False Creek Mouth and collected later in Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4176.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, I think we'll slip down into Mexico <sup><a href=\"https://www.wikidata.org/wiki/Q96\">w</a></sup> for a moment before we wind this show up. There's a very short little thing called Irapuato <sup><a href=\"https://www.wikidata.org/wiki/Q816845\">w</a></sup>. Well it's all part, it's like, poetry is like guidebooks, you know, guidebooks are always pointing out irrational connections between things, and so is poetry, so sometimes they get together, and in this case the guidebook had told me that there were two things, sort of, that this place was famous for, and I had discovered they were right.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4302.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Irapuato\" [from Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4349.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Memory No Servant\" [from Near False Creek Mouth and collected later in Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4386.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A poem addressed to friend and writer George Lamming <sup><a href=\"https://www.wikidata.org/wiki/Q1340511\">w</a></sup>, who's perhaps best known for his autobiography of his child as a poor negro boy on the island of Barbados <sup><a href=\"https://www.wikidata.org/wiki/Q244\">w</a></sup>. George Lamming who wrote In the Castle of My Skin <sup><a href=\"https://www.wikidata.org/wiki/Q23307454\">w</a></sup>, and who happened to be in Jamaica <sup><a href=\"https://www.wikidata.org/wiki/Q766\">w</a></sup> when I went there, and was extremely hospitable to me, and so were all his friends. And when I left I wrote him this poem, which had to do with a split-second feeling, something, thing happening inside me, an internal happening, the night of the last party, the last night of the last party. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4460.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"For George Lamming\" [from Near False Creek Mouth and collected later in Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4518.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well just in case you would think that I am soft about this and I'm going to like anybody if their skin is darker than mine, I'll read you a counter-poem that happened to come out of the island of Trinidad <sup><a href=\"https://www.wikidata.org/wiki/Q128323\">w</a></sup>, out of some little external happening, perhaps in part, perhaps really just an internal happening.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4592.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Meeting of Strangers\" [from Near False Creek Mouth and collected later in Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4640.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And then a very brief little, Irving Layton <sup><a href=\"https://www.wikidata.org/wiki/Q1673289\">w</a></sup>-type poem from Curacao <sup><a href=\"https://www.wikidata.org/wiki/Q25279\">w</a></sup>. Very much a...very pallid compared with Irving's, I must say.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4746.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Curacao\" [from Near False Creek Mouth and collected later in Selected Poems 1940-1966].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4762.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now I'm going to conclude with two pieces. One is about the farthest back of these poems. Although some things I've read tonight began earlier but have been revised, this one has not been particularly revised. It's called \"The Road to Nijmegen\" and was written in Holland <sup><a href=\"https://www.wikidata.org/wiki/Q55\">w</a></sup> in January of 1945, the last winter of the war. Which was the coldest winter, and in this part of Holland, first the Germans in coming and then in retreating had cut down every tree anywhere around. The trees were used for fuel and for mine props and...And then we had come in, and if there were any trees left, we'd got them. And in fact, it was no longer a matter of trees, it was a matter of trying to find bits and pieces of coal and getting the coal working and getting the coal out of the hands of black marketeers. And meantime the people were cold, even colder than we were, and they also lacked food. This is a letter home to a friend.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4794.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Road to Nijmegen\" [published later in The Collected Poems of Earle Birney, Vol 1].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4930.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And finally, “From The Hazel Bough”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5078.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"From the Hazel Bough\" [from Selected Poems 1940-1966 and collected ater in The Collected Poems of Earle Birney, Vol 1].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5088.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you very much.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Earle Birney",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5141.0"
+        }
+      }
+    }
+  ]
+}

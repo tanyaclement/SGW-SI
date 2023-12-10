@@ -8,6 +8,48 @@
         "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5185.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-end.json",
+            "label": {
+              "none": ["END"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-george-bowering.json",
+            "label": {
+              "none": ["George Bowering"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-earle-birney.json",
+            "label": {
+              "none": ["Earle Birney"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-audience-.json",
+            "label": {
+              "none": ["Audience "]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/paintings",
