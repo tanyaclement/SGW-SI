@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Jackson Mac Low at Sir George Williams University, The Poetry Series, 26 March 1971 (1)" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1677.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/jackson_maclow_i006-11-031-2.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1677.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
