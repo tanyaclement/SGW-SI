@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1--canvas-1-roy-kiyooka.json",
+  "type": "AnnotationPage",
+  "label": "Roy Kiyooka",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1--canvas-1-roy-kiyooka-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now perhaps some of you are wondering what these readings are all about and how the choices made, I have here a slight commentary on that which I would like to read to you. Our answer to this is that we have not attempted to make the series an exhaustive coverage of any particular school or faction of poetry. Nor has our concern been an attempt to seek out the so-called \"great poets\". Our choices have been made with the desire to present to you, hopefully, the possibilities of utterance that is more than parochial. In short, this is our attempt to sound just that diversity that so much characterizes the North American Poetry scene. Now tonight it is my very great pleasure to introduce to you two poets whose distinctiveness is more than the fact of their sex. I want to introduce each poet in turn, Phyllis Webb <sup><a href=\"https://www.wikidata.org/wiki/Q7188637\">w</a></sup> will begin the readings and after the intermission, I shall introduce to you Gwendolyn MacEwen <sup><a href=\"https://www.wikidata.org/wiki/Q4276487\">w</a></sup>. Now Phyllis Webb has published three books of poems, they are Even Your Right Eye in 1956, The Sea is Also a Garden in ‘62 and Naked Poems in ‘65. Her earlier work appeared in Trio along with Eli Mandel <sup><a href=\"https://www.wikidata.org/wiki/Q3050883\">w</a></sup> and Gael Turnbull <sup><a href=\"https://www.wikidata.org/wiki/Q5516589\">w</a></sup>. She is currently a program organizer for CBC's <sup><a href=\"https://www.wikidata.org/wiki/Q461761\">w</a></sup> Ideas Series <sup><a href=\"https://www.wikidata.org/wiki/Q5988057\">w</a></sup>. Ladies and Gentleman, Ms. Phyllis Webb.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
