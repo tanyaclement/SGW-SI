@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-2--canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-2--canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "About seven years ago, our lives intersected for about two years at the University of Iowa <sup><a href=\"https://www.wikidata.org/wiki/Q182973\">w</a></sup>, where Christopher <sup><a href=\"https://www.wikidata.org/wiki/Q5112730\">w</a></sup>, along with two or three other poets suddenly arrived, in that middle state <sup><a href=\"https://www.wikidata.org/wiki/Q1546?wprov=srpw1_0\">w</a></sup> in the United States <sup><a href=\"https://www.wikidata.org/wiki/Q30?wprov=srpw1_0\">w</a></sup>, with not just English accents, but a whole body of literatures and languages behind them. Christopher was not just in the poetry workshop, but was doing a lot of translations from German and Dutch, writing his own poetry, was a kind of formidable character with these obscure languages, at least obscure to me at the time. He has since come on, after doing his Ph.D. at Carleton <sup><a href=\"https://www.wikidata.org/wiki/Q1041737\">w</a></sup> where he is an Assistant Professor of English. His third book of poems, Stills, is being published in the next few weeks by Chatto and Windus <sup><a href=\"https://www.wikidata.org/wiki/Q3666843\">w</a></sup>, and should be looked for at your bookstores. He's asked for it to come but it hasn't arrived yet. So without any further delay, Christopher Levenson. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
