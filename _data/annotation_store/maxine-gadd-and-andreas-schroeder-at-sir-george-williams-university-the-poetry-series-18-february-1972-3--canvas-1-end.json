@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-end.json",
+  "type": "AnnotationPage",
+  "label": "END",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-end-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Unknown amount of time elapsed before start of next recording].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "END",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1892.0"
+        }
+      }
+    }
+  ]
+}

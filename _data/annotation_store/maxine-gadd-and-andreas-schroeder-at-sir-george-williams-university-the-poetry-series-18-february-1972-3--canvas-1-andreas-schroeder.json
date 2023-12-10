@@ -1,0 +1,632 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder.json",
+  "type": "AnnotationPage",
+  "label": "Andreas Schroeder",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Right. Normally they hang you after a reading. Jesus. I'm going to read from, oh, just kind of a merry jaunt through various books. I think what I'll do is I'll read some of the, some poetry first, and then I'll slip over into fiction. I've just, two days ago, published a book called The Late Man of short fictions and extended prose poems and so on. The work that I've done is gone cyclic in terms of form. I started out with prose poems and went into much more of a linear poetry, and then went back to a fiction which was kind of a half prose poem, half short story, half God knows, film script. And right now I'm working hard at both styles. First book I published was called The Ozone Minotaur, and it was more surreal than anything I'm doing now. I really get very excited about illusions, and I guess that's probably what most of my work is all about. At first I was very interested in surreal illusions; now I'm very interested in real illusions, and I'm not sure there's any difference. Here's a prose poem from way back called \"Introduction\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "40.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Introduction\" from The Ozone Minotaur.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "130.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "After I found out that you couldn't live by writing poetry, I took a job with CPAir <sup><a href=\"https://www.wikidata.org/wiki/Q986941\">w</a></sup>. That doesn't really sound like a very logical progression, but anyway, it was a teletype machine that they put me on, I think I lasted about four days, but I got a poem out of it, and it's entitled \"Cables\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "195.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Cables\" [from The Ozone Minotaur].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "215.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This next book, File of Uncertainties, I supposed was kind of created when I woke up one morning and was overwhelmed with my own ignorance, so I decided to write a book about it. [Audience laughter]. And then I figured the best way to do it was to go up north and I did that, and I spent a winter up in Alaska <sup><a href=\"https://www.wikidata.org/wiki/Q797\">w</a></sup>. And that was where I really got into this illusion thing, because, you know, all the different, very very strange things that happen there, like white-outs, which you probably are familiar with here, as well, where a man suddenly loses all sense of up and down and forward and backward. They have better ones than that, though. They have, until the snowmobile rolls around, when people used to mush with dogs, they'd continually have this happening: a man would set off from one village for another, with his dogs, and he'd be perfectly well-dressed and perfectly well-fed, and apparently perfectly sane, and the dogs would arrive, and the sled would arrive but the man wouldn't, and they possibly found him and possibly not. But no one could ever understand what would make a man suddenly step off his sleigh and walk off in an entirely different direction to die. When he certainly didn't have it on his list of things to do when he left. They still haven't figured that out. Maybe it has something to do with the fact that man's body is made up of such an incredible percentage of water, and very strange things happen to water up there. [Audience laughter]. Anyway, I almost got caught by an avalanche, so I thought I'd check into it and I'd find out what you do if you do get caught by one, cause I figured by that time that survival was probably a good thing. So, they said, one of the things you do is, if you get caught by an avalanche, you make swimming motions with your hands. I guess the idea is that kind of tends to keep you close to the surface, which is a good place to be. Now...[audience laughter] the lovely illusion part, which really intrigued me, was that a man can survive under the snow up to a depth of approximately six feet, but only for a certain period of time, and apparently the closer you are to the surface, the better your chances are, and the way they dig for, well, it's not necessarily logical up there, at least it didn't seem like it, but the way they dig for a man like this is they use sounding rods, and these are very sensitive rods, like, almost like tuning forks, and they walk along, in a very definite rhythm, it's almost like a musical score, and they ram these poles in, one foot deep, about a foot at a time, and attempt to hit somebody that's buried underneath it. And then they go back again and they do it at two feet, and then at three feet and four feet to six feet, they don't go any deeper. Now the peculiar part of it is that they of course can't hear anyone, but the poor bugger that's under the snow can hear very, very clearly. And, you know, and he'll hear people saying, like I wonder where, I think there's a place he might be, and he'll be shouting in there, saying, \"I'm here,\" you know, \"I'm here!\" and they can't hear him, and it's really quite terrifying. Sound only travels one way through an avalanche, I don't...[Audience laughter]. Anyway, I'll, let me read some poems about it, I'll...File of Uncertainties was written in a very short time and mostly about the same thing, and you'll find recurring images all the way through, stylistic things that are similar all the way through, and the poems, because they match together fairly tightly, I didn't even bother naming them, I just numbered them, because they're all part of the same sequence. This is number four. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "329.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"File of Uncertainties: #4\" from File of Uncertainties.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "567.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"File of Uncertainties: #3\" from File of Uncertainties.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "625.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"File of Uncertainties: #5\" from File of Uncertainties.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "733.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"File of Uncertainties: #8\" from File of Uncertainties.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "774.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I took up sky-diving after I came back and, because...yeah, believe it or not, it had very similar illusions going for it again. When...it's much like the white-out. When you jump off an aircraft, and it banks away, generally to your left, then you suddenly lose all points of reference. And because the earth below you is much too far away to really mean anything, and your parachute is still on your back, in other words not opened, so you can't, you haven't got anything above you either, you suddenly get hit with this incredibly stony silence, and absolutely nothing happens. I mean, you don't fall, you're not moving, you're not even really thinking because it's so suddenly quiet. It seems like everything just freezes. And in fact you're falling at about three hundred feet a second, but you have no sense of it whatsoever. And you just stand there in the sky, and kind of look around, and nothing is going on. Which is why you're not supposed to be stoned when you skydive because, [audience laughter] sometimes people tend to forget, you know. So I wrote a poem about it, and, actually it's not...well anything. It's “#9”, is what it is. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "830.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"#9\" [from File of Uncertainties].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "918.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Alright, here's another poem from the north--\"#12\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1051.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"# 12\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1058.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I'll just let that go for a minute there and go into some prose and then I'll just read some unpublished poems. This first story that I'm going to read is entitled \"The Tree\", and I wrote it after I met a very lovely old man down in Australia <sup><a href=\"https://www.wikidata.org/wiki/Q408\">w</a></sup>. Very old. He was an aborigine, and we tried to communicate; he didn't know my language and I didn't know his, which is maybe why we got along so well, but anyway, I built a story up on him. This was on a coral island...of course all islands down there are coral islands. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1109.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Here's another short one, entitled \"The Pub\", sort of a frenzied affair. They don't--it's sort of illegal to have fights in pubs, and in Vancouver I was the very happy observer of one, finally. Pub fights have sort of a beautiful ritualistic thing as long as you're not involved, like if you're just kind of watching, and the Cecil Hotel staged one one night and after that I wrote this, although it has nothing to do with that. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1554.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3--canvas-1-andreas-schroeder-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Pub\" [from The Late Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Andreas Schroeder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1583.0"
+        }
+      }
+    }
+  ]
+}
