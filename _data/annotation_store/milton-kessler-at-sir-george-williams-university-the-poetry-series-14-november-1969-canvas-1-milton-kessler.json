@@ -1,0 +1,1529 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler.json",
+  "type": "AnnotationPage",
+  "label": "Milton Kessler",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm going to read my most personal poems, and start with the things that mean the most to me. These are poems that will soon be published in a collection that I think it's going to be called The Grand Concourse, that some of you will know is the main street in the Bronx. When I find out what people think of the sight of the Grand Concourse who don't know that it's the main street in the Bronx, you know, they think I'm pretty pompous, but you know it's just another version of something like Flatbush Avenue or something like that. How they got this kind of name for the Bronx, I don't know. This is a poem called, by the way, I don't think I'm going to say too much in between these poems, I'm just going to read them, unless something happens that I will particularly want to say. \"Letter\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "13.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Letter\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "99.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is called \"A Bombadier's Landscape\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "257.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Bombadier's Landscape\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "268.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is titled \"Called Home\" and it was the title of another collection of poems that I put together. \"Called Home\", I always liked this title, you know, and sort of found out later on what it meant, I always liked it, I wish I could have other titles that were sort of, that I liked as much.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "354.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Called Home\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "387.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Something\" [published later under a different title in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "459.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Lost Song\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "486.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a little poem called \"Davey\" for my son, Davey.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "544.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Davey\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "556.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem I recently finished, it's called \"The Quiet\", and it's his reply to me. Because you understand that, all of this weight of seriousness, is supposed to lift the whole scene, which is what it's all about, you know, just lift the whole thing. Not to go down, you know, but to just lift it. So this is his, I never read this one before, but this is his response to me.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "614.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Quiet\" [published later in Woodlawn North and Sailing Too Far]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "652.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is called \"I Am No One Else\", which is very important to me, you know, I'm sort of a, I have a kind of involuntary independence and sometimes I would like to try to imitate somebody else's life or lifestyle, or anything but it's just a hopeless case and I can't ever manage it. This is \"I Am No One Else\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "728.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"I Am No One Else\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "761.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I didn't read that too well, I really like that poem I don't want to mess it up, you know, but it's really very hard to be, to say a very, very tender kind of poem, because I'm not so tender, so I have a lot of trouble to be quiet, you know, because I can scream from here back to Brooklyn <sup><a href=\"https://www.wikidata.org/wiki/Q18419\">w</a></sup> if I wanted to. This is the last of the poems in this particular part of the sequence. It's a little poem called \"Surprise\", I read it this afternoon. I've had the most amazing response sometimes, at places, when I go very often to the anti-war readings I read these poems, very often this one. And it always sort of surprises me you know, that it's alright. \"Surprise\". Let me tell you a little about this situation--but if I tell you too much about it then I'll read it, you know, I can talk more and it's a little poem. But it was after a big war-type reading at the Loeb Center in New York, and after that, everyone went out, you know, and roaming around all night, and then about 4 am or something like that I got on the subway and went out to my parents' place in Rockaway <sup><a href=\"https://www.wikidata.org/wiki/Q62569\">w</a></sup>, New York, on the ocean. And when I walked into the place, to their new house, I went to the--I walked in and saw that they were sleeping. And I had such a strong feeling, because when I was a kid, you know, and I used to come in late, either the door was locked, you know, the door was locked or there was this always this--come in after eleven, and you know, you won't get, you know, after eleven the door is locked, climb in through the fire escape or something. But here, you know, it was alright, and there it was and I stood and looked at them sleeping. They're both about 70. And by the way, extraordinarily happy. The poem is called \"Surprise\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "848.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Surprise\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1013.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now I have these three poems that I call the “Willow Poems”. One of them isn't finished, because the last two lines of the middle one are just, I got into a kind of pleasure in saying \"O\", you know, “Oh, Joy, Oh”, and like that and sometimes I just enjoyed it so much I was just kind of, and then it didn't mean anything, it you know, I was just kind of enjoying it, which is great, you know, but it's great to enjoy it and also is maybe good, so you make them together like that, so here are the three \"Willow Songs\". This one, well here it is, it's perfectly clear.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1085.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Willow Songs\" [part 1, published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1138.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's just like that beautiful girl, and you know, if you teach some place, what do you do? The last thing you do is hang around the school, stay away from it, you know, and so here I stay around the house, and here, I'm around the house during the day, you know, and so is this beautiful fifteen year old girl, and I'm watching her walk back and forth, you know, of course this is a song of innocence, you understand, this what she's got to worry about is me. Well I won't read the second one because the end of it isn't any good. But here is a little lyric, it's one of the Willow poems. I've written, it seems to me, an unusual number of poems that have something to do with my family. And whenever there's ever any suggestion of that kind coming from the world of important poetry, I really feel like just smashing somebody's head right in, nothing bothers me more than that, you know. The implication that something is important to you really isn't important, you know, just do what you please, that's all. But nevertheless, I do notice that there's a certain--sometimes I write a lot of these things. Here's a lyric. This is the last of them. It's a little poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1193.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Willow Songs\" [part 3, published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1298.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now this is a little different kind of series here. And this one is called, the first of these is called \"Summer's End\". This is a long poem that I wrote at a time, it's only some times that it's of any interest what these things develop out of, you know, but this one I think is kind of interesting. I had this very bad, I pulled a muscle in my calf, climbing a mountain, actually, in New Hampshire <sup><a href=\"https://www.wikidata.org/wiki/Q759\">w</a></sup>, where the mountains aren't too high, you know. And I was in a barn, I was at the MacDowell Colony <sup><a href=\"https://www.wikidata.org/wiki/Q3273867\">w</a></sup>, and I was in a barn, and I couldn't get out, I couldn't move any place, I had one big jar, you know, next to the floor, sort of thing, and I just stayed there, and they would come around and bring me some food, finally about a week later I couldn't do anything and somebody--Hortense Calisher <sup><a href=\"https://www.wikidata.org/wiki/Q436082\">w</a></sup>--I don't know if you know who she is, just finally came along and took my car, drove me to the airport, and that was that, kept the car. But while I was lying there, I said there's no big deal about it, but I have had asthma since I was seven, and the one thing about that, you know a little bit like Proust <sup><a href=\"https://www.wikidata.org/wiki/Q7199\">w</a></sup>, if you just lie around, you just lie there and then you sort of, alright, so here you are. So you just do something I guess, so this poem, \"Summer's End\", there are a lot of things you do with these things lying around. I'll tell you--\"Summer's End\" alright, \"Summer's End\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1346.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Summer's End\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1475.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Little poem, \"Russian Joke\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1700.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Russian Joke\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1706.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Confusion: May 1969\". I’ve never read this one before, nor is it finished, nor is it any good, as far as I can tell.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1742.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Confusion: May 1969\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1757.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is called \"A Dream of Weeping\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1808.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Dream of Weeping\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1814.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Here's a brand new one, this is the last poem I've written, this one. We could stop for a few minutes, you know, if you're tired. I'm really terrified usually before this begins, but once it's going, you know, then it's alright, it's really very good. It's called \"The Moment of No Recovery\". Excuse me, \"The Moment of No Recovery\". Maybe the first one is better than this one. \"The Moment of No Recovery\", \"The Moment of No Discovery\", no this is better. It has only the slightest bit to do, by the way, with a woman in my family who I've recently come to know about, her name is Minnie, she is an aunt, she's my father's sister, she's been in the Rockland State Hospital <sup><a href=\"https://www.wikidata.org/wiki/Q22061059\">w</a></sup> for over forty years. Only recently did I find out about her existence. And I remember when I talked to Allen  <sup><a href=\"https://www.wikidata.org/wiki/Q6711\">w</a></sup>, oh a few months ago, and he said something, he was just talking about the kind of people who are locked up, and he said it's like mini, you know, like mini, and I said that's it! My aunt Minnie, I have this aunt, and he said, well, go, go and see her. You know, what's happening there, how many times she could have been alright, well of course, this is just a little bit to her maybe, but I think I may have been thinking about it a little. Other things too. \"The Moment of No Recovery\". I have to learn, I think, how to read this poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1884.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Moment of No Recovery\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2029.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I've written quite a lot about women, and I have read so many of those, I know, but here is one that is a poem about--titled \"Anne\". When I read this poem in a Pittsburgh <sup><a href=\"https://www.wikidata.org/wiki/Q1342\">w</a></sup> high school, about three weeks ago, the teacher decided to call the whole thing off. After I read it, after I read it, and somebody asked me about why I read it and I said I read it because I liked it very much and because I--it was about women, you know, and it was kind of a poem of praise about women, and at that point this woman got up and called and said we have to move the chairs into another room, that's actually what she said, we have to take some of these chairs into another room now, sorry. What a bitch. The worst I've ever seen, she was just unbelievable. Let's not have any doubts about her, it was the Langley High School <sup><a href=\"https://www.wikidata.org/wiki/Q15241542\">w</a></sup> in Pittsburgh. This poem is titled \"Anne\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Anne\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem is titled \"Chad Gadya: One Little Goat\"--a Chad Gadya is a passover song and I assume it's a round that has its sense, the idea that God makes it right. It has just the tiniest little autobiographical fact about it, which is that my grandfather actually sold papers in Brooklyn, so this is the beginning of the thing.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2335.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chad Gadya: One Little Goat\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2378.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is titled \"The Voice of the Soldier\", no one's saying anything about it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2464.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Voice of the Soldier\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2520.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That's a song of innocence. I remember I showed this poem to a student of mine who was in the Israeli army <sup><a href=\"https://www.wikidata.org/wiki/Q58967\">w</a></sup>, and he immediately said \"No, it's not like that, that's not--it's not like that\" and he described how someone had had his leg blown off and what he said, he didn't say anything like this at all, he said to me, he said something else, and so of course I didn't mean that's the way I thought war was. This is the last one I'm going to read and it's one I haven't read. It's called \"A Good Death\", and it's a poem for Henry Thoreau <sup><a href=\"https://www.wikidata.org/wiki/Q131149\">w</a></sup>, it's \"A Good Death\" and it's for Henry Thoreau, and it's a century later. And it's the only time I tried, somebody just asked me, you know, it's to, to write something about Thoreau, which I thought would be absolutely impossible, but then as I started to read him, and I started to think of how I could never believe what he was saying, ever, like I could never believe so many affirmative, you know, things, and then I began to sort of see what--and I wrote this anyway. It was between Thoreau and me. You'll see what it sounds like.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2580.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Good Death\" [published later in Woodlawn North and Sailing Too Far].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2691.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-milton-kessler-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "--oh damn it. That's the trouble, that's the way I am, you know, make the last one you're going to read, you know, something you don't know.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Milton Kessler",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2720.0"
+        }
+      }
+    }
+  ]
+}
