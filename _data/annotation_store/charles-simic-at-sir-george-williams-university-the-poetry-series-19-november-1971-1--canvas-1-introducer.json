@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1--canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1--canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A short quotation which appears in the Contributors' Notes to Paul Carroll's <sup><a href=\"https://www.wikidata.org/wiki/Q15459057\">w</a></sup> anthology The Young American Poets. Quote: “As far back as I can remember there was a kind of dumbness within me, a need that sought expression. How it eventually materialized in the act of writing a poem belongs to a biography which I have only been able to recount in a few successful poems. As for the finished product, the poem, my need requires it to be of, as Whitman <sup><a href=\"https://www.wikidata.org/wiki/Q81438\">w</a></sup> said, the thoughts of all men in all ages and lands, and further, if they are not yours as much as mine, they are nothing, or next to nothing. On a subjective level, I write to give being to that vibration which is my life, and to survive in a hard time”. Charles Simic <sup><a href=\"https://www.wikidata.org/wiki/Q722555\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5.0"
+        }
+      }
+    }
+  ]
+}
