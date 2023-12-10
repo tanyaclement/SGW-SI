@@ -57,6 +57,14 @@
               "none": ["Michael McClure and George Montana"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
