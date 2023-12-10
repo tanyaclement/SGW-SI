@@ -60,6 +60,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-audience.json",
             "label": {
               "none": ["Audience"]
