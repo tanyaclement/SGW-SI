@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Roy Kiyooka and Richard (Dick) Sommer at Sir George Williams University, The Poetry Series, 2 December 1966 (2)" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2532.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/richard_sommer_i086-11-046.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2532.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
