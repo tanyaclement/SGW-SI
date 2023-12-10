@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Gladys Hindmarch and Stan Persky at Sir George Williams University, The Poetry Series, 21 November 1969 (2)" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2752.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/gladys_hindmarch_i086-11-020.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2752.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
