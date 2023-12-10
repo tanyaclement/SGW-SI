@@ -1,0 +1,1178 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt.json",
+  "type": "AnnotationPage",
+  "label": "Daphne Marlatt",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Lagoon\" [published later in Vancouver Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "102.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The first poem in the book is sort of a, an entranceway to the book as a whole, it in some ways it sets up my method, I originally had, I'd been reading a lot about Japanese Noh plays, and I'd especially been interested in the Spirit Plays and my original figure in here was a Shite, who is the doer, the central figure in the Noh, who performs the dance and who the particular Noh is about. He usually first appears in the spirit plays as an old man, an old fisherman, or salt-gatherer, some kind of beat down, destitute person, an anonymous person, and the Waki comes along and somehow starts up a conversation and begins to wonder about this man, and usually asks him to tell him the story of the place where he is, assuming that this is some sort of historical shrine, which it often is, and the Waki has come specifically to see this place and as the old man begins to tell the story, he, well, there's actually a scene change, an act change, he reappears in all his glory as the original person whose life was lived out, usually tragically and very dramatically, often in a battle, who died in this place and whose spirit consequently haunts the area. Then I started reading about the Kwakiutl who are a tribe of the Indians somewhat to the north of Vancouver, about the furthest south they reach is the Campbell River <sup><a href=\"https://www.wikidata.org/wiki/Q270481\">w</a></sup> on Vancouver Island <sup><a href=\"https://www.wikidata.org/wiki/Q170479\">w</a></sup> which is, I don't know how many miles north of Vancouver, 100? 80, about 80. But I always figured that there must have been some sort of interchange between the Kwakiutl and the Salish, the particular tribe around the Fraser Delta <sup><a href=\"https://www.wikidata.org/wiki/Q269710\">w</a></sup>  in Vancouver. The thing that interested me the most about the Kwakiutl were one particular secret society called the \"Hamatsa\" and in the Hamatsa it writes, one goes into a sort of frenzy and is possessed by the original spirit, who then passed on the rituals, and the frenzy denotes the acquirement of a certain kind of power. I guess the Salish have something a little corresponding to that in that they have, I don't know what you call them, they're certain kinds of dances which are meant to perform the meeting between the individual who dances, the initiate, and the spirit of the particular place whom he encounters and who gives them, in result of this dance, particular powers. \"Wet fur wavers\", this is a Spanish Banks <sup><a href=\"https://www.wikidata.org/wiki/Q7573148\">w</a></sup> poem, about a walk, a Sunday walk along the Spanish Banks.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "220.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Wet fur wavers\" [published later in Vancouver Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "416.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And straight from that to another one that's somewhat linked up to that in terms of its content. This is about the public library, the old Carnegie Library <sup><a href=\"https://www.wikidata.org/wiki/Q1376408\">w</a></sup>, which is, has since been closed down because the library rebuilt in an up-town area, the old Carnegie Library is located in the heart of skid row and used to be frequented mainly by old men reading who were reading newspapers who were trying to escape from the eternal rain and the cold.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "496.15"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Go on\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "534.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next one which is also linked, I should have mentioned before the last one that the White Lunch--it must be a Vancouver phenomenon because I don't think I've seen it anywhere else. It's a chain of self-serve cafes, restaurants, and they're inexpensive of course, and their symbol outside is a huge white teacup and saucer, with these little coloured stooped figures running, eternally running around the saucer. This next poem is about a woman whose name I didn't know, I attributed a name to her, Emma. She could be seen, often around Berrard and Granville streets, and instead of going into the White Lunch, she used to go into the Bay, Hudson's Bay <sup><a href=\"https://www.wikidata.org/wiki/Q641129\">w</a></sup>, and sit on the benches outside the elevator, and wait to warm up, I guess. Often, she seemed to me to be just to be interested in watching the weird kind of people who used to shop at the Bay, all those people with money. \"Razor Back Woman\" is taken from a John Stewart <sup><a href=\"https://www.wikidata.org/wiki/Q1393453\">w</a></sup> album, lyric of his.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "634.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"razorbackt woman\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "725.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "One last one that connects with the Kwakiutl Hamatsa society, this is going to need some explanation. Baxbakwalanuksiwe’, is--and I'm not responsible for my pronunciation for any people here who know how Kwakiutl sounds, because I don't--I'm just picking it up from various spellings and he was the original spirit who informed the Hamatsas, who gave them their cannibal right because an Indian managed to overcome him, through a trick.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "836.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Hamatsa--Baxbakwalanuksiwe’. He was supposed to have been the first man, the first one to eat man at the mouth of the river, that's a quote. He was a sort of bird-like, obviously inhuman creature whose body was covered all over with mouths and he used to have various attendants around, and one of whom was a woman who was rooted to the floor of his cabin and she was very beautiful, and she used to lure people in who then became his victims. But in this particular occasion, these three Indian brothers somehow won her sympathy or something, but she told them, Baxbakwalanuksiwe’ was out at the moment, she told him that he would be expected back and that they were supposed to be his victims, and that the only way to overcome this was to build, to dig a deep pit in the floor, cover it over with boughs and then and have a trap that he could spring, that could release the boughs, and then when he did his dance, prior to killing and eating his victims, they would just pull the string or whatever it was and he would then fall into the pit. And then they could set fire to him. Qominaga is the woman, and I don't know if I should explain the B.C. <sup><a href=\"https://www.wikidata.org/wiki/Q1974\">w</a></sup> liquor laws or not. [Audience laughter]. Well, for those of you who don't know B.C., up until not so very long ago, what, five? No, must be longer than that, maybe ten years, the beer parlors used to be segregated, and men, alone, sat on one side, and women, alone, and women would be the escorts sat on the other side and you had to enter the beer parlor from different doors, one of which was marked \"Men\", and the other was \"Ladies and Escorts\". The men's side also used to have, in some of the beer parlors, used to have a wooden floor covered with sawdust, which was simply easier to keep clean because of course when expected, there were constant brawls on the men's side and a lot of broken glass and spilled beer, I suppose that was the rationale. This is dedicated to the Alcazar, Cecil, Belmont, [New Fountain (?)] [audience laughter].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "890.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem  “names stations of the way to\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1053.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Little poems, for my niece who has, or had, she's probably over it by now, a thing about bugs. That bugs are horrible--any bug, no matter what. So I wrote these four poems to try and explain to her what it was like to be a bug, although it's very human, called \"Bugs in the Heart\", for Karen.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1233.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Bugs in the Heart\" [published later in What Matters: Writing 1968-1970].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1257.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "These are all fairly recent poems. \"Agenda\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Agenda\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1326.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Last Easter, we were in [Tousse (?)], took our swimsuits, expected to come back with a tan. Snowed every night, it was beautiful in the morning. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1344.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem. \"Points west, or south-west, wet downpour...\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1357.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "We're living on a farm and this is a poem, for practically the first time in our lives, this is a poem that I wrote last year, Phil's our landlord and he's always coming up with useful bits of information about, speaking of David, books, about what birds are what.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1380.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem. \"Depressed area space, lived in...\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1409.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem that I wrote when I was about, oh I don't know, seven or eight months pregnant. \"Bird of Passage\", I wrote it in Vancouver. Spring time again.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1482.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Bird of Passage\" [published later in What Matters: Writing 1968-1970]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1502.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "One of the in fact, the original Vancouver poem which was written in Bloomington <sup><a href=\"https://www.wikidata.org/wiki/Q490385\">w</a></sup>, Indiana <sup><a href=\"https://www.wikidata.org/wiki/Q1415\">w</a></sup>, probably out of a sense of nostalgia, it's about the man who used to collect the rents on the house that I lived in on Comox Street, and he had a little room up in the attic and he was kind of old, he was also the man who I met at the door when I first came to inquire about their rooms.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1658.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem. \"Old Bird, he...\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1689.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "About Vancouver's fire, in 1868? 1886. There are a lot of quotes in here, and I think all of them, yes all of them are taken from a historical journal put out by the city archives and the body of it is concerned with W.H. Gallagher's eye-witness account. He was in a little office and had control of payroll for men who were working for the CPR clearing the land, the fire was caused by the clearing of the land, because the trees were knocked down bowling-pin method, that is a tree, a very large tree was chosen and then cut so that it would bring down a pile of trees as it fell and then the stuff was left because they didn't get around to burning it. And it was left over the summer, and got as dry as tinder. Not only that, but they were using gunpowder to blow up stumps. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1771.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Our city is ashes\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1846.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is \"Bowen Island\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2025.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Bowen Island\" [published later as “Bowen” in Vancouver Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2030.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I know that there was a bridge in Vancouver with a jack-knife span that opened like London Bridge <sup><a href=\"https://www.wikidata.org/wiki/Q130206\">w</a></sup>. And I asked everyone I knew…What?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2148.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Your\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2201.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is also a skid row poem, it's a combination of present and past, Water Street, which is a block below Cordova, where there used to be a couple of very popular beer parlours, before they were closed down, Water, the other side of Water, used to be the shore line, that is, the harbour came right up to Water street, and houses, the first houses were built on the southern side of Water. That's where Gassy Jack Deighton <sup><a href=\"https://www.wikidata.org/wiki/Q720322\">w</a></sup> built his saloon, the first saloon in Vancouver. That's how Vancouver got its original name, Gastown <sup><a href=\"https://www.wikidata.org/wiki/Q1495636\">w</a></sup>, because this man was an eternal talker apparently. I use a word that's very foreign to me here, Leman, which means like his woman, and is a word that Alan Morley uses in his book about Vancouver and which I think captures the feeling of Gastown with all its small town morality and prudery. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2355.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-daphne-marlatt-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Trails\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daphne Marlatt",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2432.0"
+        }
+      }
+    }
+  ]
+}

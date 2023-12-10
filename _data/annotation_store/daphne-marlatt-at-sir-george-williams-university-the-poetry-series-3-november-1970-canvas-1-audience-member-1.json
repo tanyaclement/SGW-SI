@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-audience-member-1.json",
+  "type": "AnnotationPage",
+  "label": "Audience Member 1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-audience-member-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Which one is that? Which name?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "888.0"
+        }
+      }
+    }
+  ]
+}
