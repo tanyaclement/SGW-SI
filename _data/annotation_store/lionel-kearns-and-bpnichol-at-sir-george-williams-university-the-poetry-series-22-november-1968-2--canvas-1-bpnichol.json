@@ -1,0 +1,671 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol.json",
+  "type": "AnnotationPage",
+  "label": "bpNichol",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Historical Implications of Turnips\" [from Konfessions of an Elizabethan Fan Dancer].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "377.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called, for a reason I cannot remember at all, \"Cycle Number 22\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "421.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Cycle Number 22\" [from Konfessions of an Elizabethan Fan Dancer and published later in Selected Writing: As Elected].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "433.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This next poem's called \"The Child in Me\". It's kind of what all sound poetry's about anyways. Enough said.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "469.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Child in Me\" [from Konfessions of an Elizabethan Fan Dancer].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "489.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem called \"The New New Captain Poetry Blues\" and it's for David McFadden <sup><a href=\"https://www.wikidata.org/wiki/Q5237344\">w</a></sup>. Captain Poetry is kind of this person that happened a long time ago in a magazine I used to edit called Ganglia, and David McFadden is still happening in Hamilton <sup><a href=\"https://www.wikidata.org/wiki/Q133116\">w</a></sup>, and is probably Canada's <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup> best poet and what else is there to say? Oh yes, a little footnote, there's a place in here called Plunkett <sup><a href=\"https://www.wikidata.org/wiki/Q2202272\">w</a></sup> which really exists and my mother was born there strangely enough. This is all about that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "550.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [sections of \"The New New Captain Poetry Blues: An Undecided Novel\" from The Captain Poetry Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "588.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one's called \"Alimony, Old Baloney\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1182.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Alimony, Old Baloney\" [most likely from the Captain Poetry series]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1191.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed “Captain Poetry” poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1455.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm going to do that dangerous thing and read a poem I wrote last night. That's [inaudible]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1912.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm going to do that dangerous thing and read a poem I wrote last night [laughter]. That's waking Lionel up at 7:30 this morning which he didn't quite forgive me for. It starts off with a quote from a poem by Bobby Hoat [?.] Well, yesterday we were up at Carlton doing a reading there. It's a poem called \"Zero Phase\". There's a town referred to in here called Vars <sup><a href=\"https://www.wikidata.org/wiki/Q3554856\">w</a></sup> which happens to be where he lives. It's a very groovy little place, just outside of...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1941.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Is that okay? If I talk kind of into it like this?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1972.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Zero Phase\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1984.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem called \"Returning\". It sort of was written after I wrote a book of poetry called Journeying and the Returns.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2076.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Returning\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2098.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "bpNichol",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2765.0"
+        }
+      }
+    }
+  ]
+}

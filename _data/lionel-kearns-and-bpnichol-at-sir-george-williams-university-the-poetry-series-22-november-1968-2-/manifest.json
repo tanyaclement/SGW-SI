@@ -8,6 +8,40 @@
         "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2807.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-lionel-kearns.json",
+            "label": {
+              "none": ["Lionel Kearns"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-bpnichol.json",
+            "label": {
+              "none": ["bpNichol"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/paintings",

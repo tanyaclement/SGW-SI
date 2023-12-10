@@ -1,0 +1,203 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-unknown.json",
+  "type": "AnnotationPage",
+  "label": "Unknown",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-unknown-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Cut or edit made in tape. Unknown amount of time elapsed].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Unknown",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1454.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-unknown-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Cut or edit made in tape. Recording cuts back to 00:31:40].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Unknown",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1919.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-unknown-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Cut or edit made in tape. Recording cuts back to 00:31:52]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Unknown",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1938.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-unknown-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Cut or edit made in tape. Unknown amount of time elapsed].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Unknown",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2526.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2--canvas-1-unknown-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Cut or edit made in tape. Unknown amount of time elapsed]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Unknown",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2764.0"
+        }
+      }
+    }
+  ]
+}
