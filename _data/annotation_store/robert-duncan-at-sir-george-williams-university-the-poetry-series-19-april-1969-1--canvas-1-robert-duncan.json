@@ -1,0 +1,1178 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan.json",
+  "type": "AnnotationPage",
+  "label": "Robert Duncan",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In the early 50's, I belonged to a, not a group, because as a matter of fact we were scattered, some in Europe and some in America and didn't know each other, but we were all reacting to a, we all had response of a feeling of poetic responsibility and also a poetic mission, arising out of our response to the publication of Ezra Pound's <sup><a href=\"https://www.wikidata.org/wiki/Q163366\">w</a></sup> \"Pisan Cantos\" <sup><a href=\"https://www.wikidata.org/wiki/Q2701465\">w</a></sup> and the publication that came year after year of the parts of William Carlos Williams's <sup><a href=\"https://www.wikidata.org/wiki/Q178106\">w</a></sup> \"Paterson\" <sup><a href=\"https://www.wikidata.org/wiki/Q7017378\">w</a></sup> but in the same period in magazines, some of the poetry of the later William Carlos Williams was appearing. And it does interest me, although the command of the Modernists had been to write in a natural speech, that in response to features that were appearing in Williams more than Pound, because Pound's lines are all syntactic utterances, but in Williams there's a kind of enjambment and there was a juncture appearing at the end of lines. And we, we took that juncture over and imposed it upon the language, but even in imposing it, found that we had arrived at something that's quite common indeed in our English speech, the stutter is at one end of it, but it is one of the forms we have when we are emotionally excited and things are broken up into phrases and words become almost painful and impossible to say, and this encounter we explored for some time. Later, I'm going to be reading, in passages, which will bring into question radically something related to his. My poetry developed along lines that I began to see as allied to the collage, things that were appearing in American painting, that is whole elements and bits would be taken from anywhere, and very early, at the time, as a matter of fact that I was writing The Opening of the Field, I viewed myself as a kind of jackdaw of poetry and gave up entirely worrying about if I had any originality or had a voice of my own. I was much more attracted picking up things and building them into something, so I was a weaver, I felt in some ways, almost before I was a speaker, and I was a weaver of voices and did not care, or- I decided well, I happen to be the one who is doing this, so certainly that's one thing that I don't have to have an effort about. There's nothing else that's going to be moving out from here. In passages, you'll find a new feature about that collage, but it's already contained in the thing I was suggesting that we took over- the juncture, Creeley <sup><a href=\"https://www.wikidata.org/wiki/Q918620\">w</a></sup> for instance built a whole personal style from that juncture and by making its articulation radical, and forcing it into a depth of an emotional statement, and of course of an intellectual statement, because the whole framework of thought changes. Very striking to us in the very beginning was that form was the content, not, it was very hard to determine it, you could say that it even determined content, there was no cause to effect relationship for us, between form and content. Structure determined the nature of what was to thought, like the structure of a body is to what we are, and we didn't think of them as divided, so we were incarnationists in that sense. I feel very strongly that you'll find that repeatedly a theme of my poetry the incarnation of Christ <sup><a href=\"https://www.wikidata.org/wiki/Q302\">w</a></sup>, the incarnation of spirit and the body, that spirit, that the divine world is manifest and incarnate, and that in its- led us back to the poem as the incarnation and place in which- the spirit doesn't enter poetry, incarnate, it exists. But it was also a collage and you will hear Greek and French entering this world of a collage, and it will be as reformed as the American language is when it enters my collage. And reformed to American contours, the contours of French, and the contours of Greek disappear, forced back into an American stress system, which I find analogous. The French poets were extremely disturbed when Stravinsky set them, she could not bear to hear [Persephone (?)] and because they all came out, French all came out to be Russian in its entire tonation and the French not very happy when the French language turns up in an intonation. I'm thinking of the Parisian, but no Frenchman's very happy about the French language turning up, turning out to be American or Russian. Now my poetry doesn't turn out to be exactly American either, it turns out to be strictly forced back to conform to my poetic patterns, and Greek is not intoned but is forced into a stress pattern. However, with Greek I'm in for free because there's no man who can say what you do with it anyway. In America, we have one system, in Germany, they have another system, and in England, they have, still, a third system of what to do with vowels and what to do with the whole thing. And there's a controversy about whether you do have pitch or whether you do have stress and that arises from the fact that the Hellenistic Greeks <sup><a href=\"https://www.wikidata.org/wiki/Q428995\">w</a></sup> already couldn't figure out exactly what you did with those Greek choruses, and they had to put those marks in to instruct their readers what to do, and we don't know what those marks meant for sure [audience laughter]. But they certainly didn't know what it had been like 500 years before. They did poorer, I take it, than the poorest, and that would include me, informed of us do with Middle English <sup><a href=\"https://www.wikidata.org/wiki/Q36395\">w</a></sup>, and I guess we're nearer to it than they were. Okay, well, we'll just start out and I want to take a path, I'm going to take a path through beginning with a small group of poems from The Opening of the Field.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "44.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Law I Love is Major Mover” from The Opening of the Field.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "466.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When I was about 30, a great Medieval Historian was teaching at the University of California <sup><a href=\"https://www.wikidata.org/wiki/Q184478\">w</a></sup>, where I made my living teaching, typing thesis and term papers when I was really hard out of luck and the rumour was very thick indeed that something extraordinary had happened, I think, and my impression is that Universities kill off scholars today much faster than they- they certainly don't kill off poets, they give them very handsome fees to come for a week or so, but they certainly kill off scholars, but the existence- perhaps only the World War with its refugee professors from Europe brought this kind of scholarship onto the scene at the University of California and I returned to school to take up Medieval Studies. One of the, clearly, in my work I, the one course, and I studied with that man until he left for the Princeton Institute of Advanced Learning, studied for him--with him for two and a half years, the course that most changed my poetry was a course on Medieval law, and the growth of constitutional law, because the very basis of poetry I think is a- of art, is the discovery of laws, the laws that finally we can trace through from those Medieval concepts of law and constant meditations upon law so I'm going to read a couple of more poems of our- in which this concept of law moves. This is \"Structure of Rime XIII\" and it's part of an open construct that is a construct that has nothing in its concept, does not belong to a world of cause or effect. It has a chronology, but its chronology is like our chronological time, that is seen by contemporary physics as an anomaly within a time--within a physical time that cannot possibly have the character of a chronological sequence. The best they can explain is that we must inhabit a thread that is suspended in actual time, because actual physical time cannot really be one directional, and we experience one directional time because we are really caught in some isolated thread, in the medium of time. So in \"Structure of Rime\" I conceive of myself not in a chronology, although I experience it, being human as such, but as entering such a domain in which real law exists and real time exists, and the real form to which the poem refers and from which it derives its form. The real form has no beginning or end, and is much faster, is universal, so the--in writing the poem I do not create a form, but participate in a form which is of the nature that we believe the physical world to be and I am much for a convert of Whitehead's process and reality in which we believe the spiritual world to be. And that's where \"The Structure of Rime\" takes place. When I say 'thirteen',  that's of course, in my own sequence then and I conceive of that sequence as actually existing in a part of the mosaic that does not have the character of sequence.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "644.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Structure of Rime XIII\" from The Opening of the Field. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "869.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Some time shortly after The Opening of the Field was published, I was invited up to Portland <sup><a href=\"https://www.wikidata.org/wiki/Q6106\">w</a></sup> by a lawyer and his wife to talk to a small group and I learned in correspondence that he had been attracted to my poetry because of the concepts of law as they move through poems, and so I wrote, for them, the poem called \"The Law\", a series and variation.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1019.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Law\" [from Roots and Branches].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1055.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When Adams <sup><a href=\"https://www.wikidata.org/wiki/Q11806\">w</a></sup> said, “the which”, meaning, he said, \"Democracy, the which requires the continual exercise of virtue beyond the reach of human infirmity, even in its best estate\" he was writing to Jefferson and talking about something that was absolutely necessary, he did not mean that we could escape from what required what was impossible. We had to live in the impossible, which is where I found myself entirely in concord with certainly a poet understands what it is to live in the impossible. He speaks in the first place in a voice which is impossible for himself to speak in, and before which he must always be a flunk out and in some sense, a political- a poetical failure in relation to what everywhere's own poetics is to point out what is necessary. Let me in relation to the law again, read the opening of a poem that I will be later be reading entire, but I want to bring it in context with these poems and the law, and close it with a John Adams that I discovered only a passage of John Adams that I discovered for myself, only about what, it's two or three years ago, two years ago. \"Reading on Myth\", this was from a book called I think it's called 18th Century Against the Gods, or confronts--The 18th Century Confronts the Gods and the chapter on John Adams's mythology was a fascinating chapter, and this passage of the poem is built up entirely with no interpolations at all of--it's built up to the place where I cease to read it, with no interpolations at all of passages of the marginalia that John Adams writes in an Encyclopedia of Mythology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1407.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"John Adams’s Marginalia...\"].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1532.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Move back to another early poem in The Opening of the Field that was formative to, throughout my work and the last I guess it must be, each one of these is about three, this is the last ten years. The Field began in 1956, so it must be the last 14 years. And this poem is written in 1956. Take my coat off. In articulating the line, we were opening up- Pound had very early said [unintelligible] by the musical phrase and as I said, since his phrases were identical with syntactic utterances, with sentence utterances, the phrase is- the phrase is simpler than the phrases we use, where often they are enjambed, where often they disturb the meaning of the sentence and suspend elements so that they operate in various parts we did not want what was called an ambiguity by Mr. [Adams (?)], we wanted a multi-phasic area of meanings which is something very different. We wanted all parts to operate within all other parts. And I think this is a crucial difference from what let's say fascinated the metaphysicals of the post-Eliot <sup><a href=\"https://www.wikidata.org/wiki/Q37767\">w</a></sup> period in their idea of ambiguities. We wanted one meaning operating within another meaning and they wanted one meaning secretly giving another meaning, I may have such things too, but I mean it's a very different feeling for us. Certainly they did not have to come to articulate as we did, and with these poems, when I get to, as you'll see in passages, when I get into rhythmic articulations where only my body is intelligent enough to keep them, so I have to throw them back into my hands and to my body, a dance can carry them and a dance is really in a sense, the poem in which I moved straight forward and realized how un-literary this was and not exactly song either, and that this dance centre was going to be for whole sections of poems. So, there's a key poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1613.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Dance\" [from The Opening of the Field].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1767.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"The Dance\" [from The Opening of the Field].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1893.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Someone said this evening I probably wouldn't read The Pindar poems, I will. Oh let me sing a song for you, songs, I have a couple of songs that are in books. Songs for me are not that quaint form that, a few of them are like the night nurse's songs, the song the night nurse sang. But a song of the old order and some of the other songs are actual songs, that means when I was writing them, a tune came. And they had only one voice to be in, mine, and we could even say unhappily, but there they were. And startled I was when, this is I think, one of the first songs that came that really belonged in a book of poetry. I had early had some songs in Faust Foutu in a sort of a long play that would never get performed in my mind so I was able to whatever I wanted to in it, and- which is a great kind of play to write, because you don't have to worry about anyone else solving any problems, you can name it, they can be on the moon, or whatever, have no stage dimension problems, but also of course I had no song dimension problems but when I wrote this song, \"Gee, I know I'm going to have to get up and sing it\", well of course now you'll get away with it because how rare you'd hear a poet's voice, unless a poet's already like your happy rock-n-roll singer, which I ain't as you will hear. My idea of song is exceedingly primitive indeed, my impression is very, I think you will hear it in this song, it comes from a brief period in which to much the horror of my theosophical parents, but because we were living in a small town and all your friends went to a Sunday School, I went for several years to a Methodist Sunday school and somebody along the line gave me the hint that hymns would come out much better if I just moved my mouth and didn't join in, happily, the lovely music that was going on and so of course I always wanted to write a hymn and there's something in the Methodist hymnal for sure in the song I'm going to sing. \"A Song of the Old Order\". It's not strictly Methodist in theology, but I meant that it's something of the Methodist hymn. However, I will sing also, by following another song that is certainly Calvinist <sup><a href=\"https://www.wikidata.org/wiki/Q101849\">w</a></sup>, it's a Halloween song, and like only the scotch can possibly dig out of there- the Calvinist counter hymnal.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1929.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sings \"A Song of the Old Order\" [from The Opening of the Field].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2092.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That was considerably higher than I've ever tried to do it before. [Audience laughter]. But, like a poem, when you're writing it, when you're in it, you're in for it. You can't re-model it to something you think you might get through with. So I will now do the Pindar poem. That somewhat determines what long poem we're going to do. And since this is the first time I've read here in Montreal, some other places I read, I try and give them new stuff, but I take it outside of some tapes that might be available, you haven't really heard these poems. And this will be the last one from The Opening of the Field. I'll pick up a couple from Roots and Branches and then I will be reading from the current, the Bending the Bow and then after the break I'll read some of the new poems that I've written since Bending the Bow. [Take off Biney's Law (?).] No, this is not the beginning of a Ginsberg <sup><a href=\"https://www.wikidata.org/wiki/Q6711\">w</a></sup> round [laughter.] \"Beginning with a Line by Pindar\", I am ending up with an exhibition by Ginsberg, [laughter.] We've gotten so [unintelligible] in San Francisco <sup><a href=\"https://www.wikidata.org/wiki/Q62\">w</a></sup> since all barriers of all kinds were down you really couldn't compete with the show, so you've got, I mean what to do. Common, ordinary people are just left out, you've got to be somebody extraordinary now to [audience laughter], and poetry has to be my extraordinary thing. Believe me, the rest of me is just me. \"A Poem Beginning with a Line by Pindar\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2285.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Poem Beginning with a Line by Pindar\" [from The Opening of the Field].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2417.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll read two poems from--that were requested from Roots and Branches.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3255.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Risk”] from Roots and Branches.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The other poem I will read from Roots and Branches is \"The Continent\". My poetic thought continuously arises from the ground of my happy and, believe me, wildly misunderstanding readings of contemporary science. And the one real poetic source I have is not a literary magazine but Scientific American <sup><a href=\"https://www.wikidata.org/wiki/Q39379\">w</a></sup> which I avidly read. So I'm more likely to be studying language than I am to be studying poems and more likely to be studying the world, than I am to be- well, I can't say that, language and the world get even treatment. The poem \"The Continent\" came from the re-assertion that has come in recent years of evidence which has rebuilt the picture of the continental drift. And I was happy at the coordinates to find that Charles Olson <sup><a href=\"https://www.wikidata.org/wiki/Q922978\">w</a></sup>, who also ransacks the same magazine, but does not have the same misunderstandings of the magazine by any means, we have quite a, we sometimes come to [loggerheads (?) ] in our very positively taken misunderstandings of what is. He also had built sections of “Maximus [Poems]” on the continental drift. I love puns of course right away, and so does he, and if you get my drift in poetry, you will see something of what is revealed when we begin to get the drift of those continents and the fittingness of poetry is of course the logic whereby we identify that the continents originally fitted together and identified the sequence of things that happened. They do fit together, but they must have- I mean, the universe- the Neo-plateness, [unintelligible], well no, it isn't a neo-plate, well, it's a near neo-plate, and it's [unintelligible] Judas <sup><a href=\"https://www.wikidata.org/wiki/Q81018\">w</a></sup> refers to the masterpiece which is the Universe, that's the only masterpiece and the rest of us compose masterpieces because we are children of the universe, although we may not recognize that that's what we are doing. Some of us don't have entire respect for what we belong to. \"The Continent\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3562.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Continent\" from Roots and Branches.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3709.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"The Continent\" from Roots and Branches.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3820.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Unintelligible] break in tone I'll sing that song I mentioned, the second one that comes from a Calvinist anti-hymnal. It's a song from my Halloween masque. And it's “A Country Wife’s Song”, the country husband is lying in bed, snoring away and the wife rises silently, puts a stick in the bed and a stone on the pillow and sings the following song.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs “A Country Wife’s Song” [from Roots and Branches].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4070.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "We seem to be close to 10:30 so I'm going to just--I won't read--well, I'd like to read one passage before the intermission and I would also like to read the poem \"Epilogos\", then we'll have a break, I would suggest about 10 minutes and I will then read in the second part, I will be reading from \"Passages\", well let me add one more poem to this first part because I want to give you a sample of what I've been--so there will be one \"Passages\", so those of you with great relief run out into the world will at least have been subject to something of what \"Passages\" is like, and I will read \"Epilogos\" and then I will read one of the poems that I have written, post-Bending the Bow and then you will have a sample of everything and you won't be missing a thing if you don't stay for the second part. [Audience laughter]. Okay, well a few things, but you might be missing them anyway.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4178.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Transgressing the Real, Passages 27\" [from Bending the Bow].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4239.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Epilogos\" [from Bending the Bow].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4454.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now the one poem from, poetry I've written since then, a poem called \"Achilles' Song\". One note before I read it, the island that we would ordinarily in American call ‘Leuke’ a [unintelligible], like in Leukemia--leuke. In Greek would be ‘Lay-okay’ and so I was very alarmed indeed when in this poem, as I was writing it came out ‘Loy-kay’ and it took me quite some time of sheer stage fright and horror at the mis-pronunciation recall the ‘Lauke’ in German is the [unintelligible] and so forth in German, and that I have had for years now, for some years now a tape of H.D. <sup><a href=\"https://www.wikidata.org/wiki/Q236469\">w</a></sup> reading from her \"Helen in Egypt\", a poem which is really the mother poem of this poem, and not too much hidden in the poem, for those who know of  my closeness to H.D. who was certainly a surrogate mother for me. Thetis of the poem would certainly be the poetess H.D. and in that tape, H.D. who had lived for most of her life from the 20's on in Switzerland, uses the German pronunciation throughout, ‘Aloike’ and that's how I heard it in association with this poem. So I've finally recognized where it came from but it's an example of the fact that you cannot correct things in poems because it's sewn into a rhyme and absolutely belongs in the music here. Play it differently--I mean, it's what fits a poem not what fits some other system outside the poem that the poem must adhere to. Okay, \"Achilles' Song\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4857.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Achilles' Song\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4964.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So we'll take a break of ten minutes and then I'm going to read a rather short section because we're almost at 11 and that would seem, I want to read as many, something like four passages to give you of a feeling of moving through that and that would give you something like Passages are like.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5116.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Two aspects of the art, seem particularly mysteries to me as I've been working at the art of poetry since I was 19 and it's now 30 years. In relation to that thing we call rhyme, meter and so forth, I have come to think more and more that it's ratios and numbers that may be the heart of the matter. And at the same time as I begin to feel that at the heart of the matter, as one begins to, as one does with mysteries, be fearful about approaching the question. Some years ago, two years ago or so, with the poet Zukofsky <sup><a href=\"https://www.wikidata.org/wiki/Q975481\">w</a></sup>, who knows much more than I do of the art, and performs really awesomely in it, I said it had begun, I said \"Zuk,” I said, “I had begun to feel that it isn't a question about syllables or stresses and so forth, it's a question of numbers\". And he said \"Yes, I've decided by now I ought to, certainly if I don't know syllables and stresses and so forth, by now, I mean know them only in my hand, I certainly shouldn't be thinking about them. And I am now only dealing with 8's. All of these lines are 8's, straight through. I have not yet really phased the initiations of the question of numbers but I know that this is central as one moves into the period of working in the art that I'm in.\" The other thing, and that is that I have indicated it earlier, is that the nature of the time of the art is increasingly mysterious, the one thing I'm sure of it cannot be, positive absolutely defined in one area, for a long time I was doing happily enough with the formula that Christians made for themselves of time and eternity and their term of eternity which is the very present moment of any work of art and is also of course somehow containing the ensemble of all of the things created must also be like that time that physics talks about. That makes them puzzle why in the world our own time goes from a thing we call the past to the future. Whitehead <sup><a href=\"https://www.wikidata.org/wiki/Q183372\">w</a></sup> solves it in Process and Reality by suggesting that we create, in every moment that we live a past and a future, and we live in a history consequently because that's what we create what we are, is pastness and future, and sum it up in a material, that is still persuasive. But a mystery is when none of the answers are answers and as long as they're not answers the artist has them as really, forces that move as art. Now I make this remark because, well I said something about chronologies I, in the past I have not read these two poems as they appear in the book, in readings, but I want to read them today and I'm going to just underline the transition I want you to see and share with me at this point. I arranged, for all that what I've said about chronologies, I arranged the poems in my volumes chronologically and largely because it seems to me a mystery as they go and the rhymes appear from one to the other, and one poem will be an announcement of a succeeding poem or themes will flow out of it. The one I'm going to read first is not a “Passages\" it's called \"Reflections\" and at the close, and as a theme of it, you will find the old man, who is as a matter of fact, I structure rhyme preceding it had a fire master appearing, who seems very close indeed to the master of fire, and the poem that came next, it may have been in a couple of weeks of so, this was a very productive period, concludes with a figure of an old man tuning a drum between a bowl of fire and a bowl of water, and it was followed by a \"Passages\" which is called \"The Fire\", and from it we can learn that the fire that you see in \"Passages\" which is catastrophic, and is held in a polarity with an ideogram with the natural world, that that which may have indeed be--is indeed a bowl of water, as you will see, I mean it's a stream of water that the fire is composed between a world of water and its own world of fire, but that fire that looks like a catastrophe you will find is the creative fire--if you go under \"Reflections\" and let the reflections that came first reflect into the poem following. Now these are things that you realize afterwards, in your own chronology. I am one of those poets who has the characteristic I find in my study of Whitman <sup><a href=\"https://www.wikidata.org/wiki/Q81438\">w</a></sup> in the last three years that Whitman certainly was another poet who studied himself all the time. We have a great prohibition in our contemporary world against studying yourself, but I am not short on the world of ego, so I'm not really very disturbed about the fact that I study myself in the poetry. But the one thing I search to find is not something we would ordinarily call ourselves, I study the poet, the thing that the poems are creating in order for them to come into being. That I can sharply distinguish from myself. As sharply as you can do it, it takes office, the idea of office, and this again I got from my Medieval Studies. Okay, I'm going to read \"Reflections\" and then I'm going to read \"The Fire\" and then I will, the poems I will be reading from then on will be \"Passages\", \"Fire\" is one of \"Passages\". And \"Passages\" is as I explained, an open form that exists in these other universe of time, of something, like, you call eternity.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5145.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-robert-duncan-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Reflections\" [from Bending the Bow].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5527.0"
+        }
+      }
+    }
+  ]
+}

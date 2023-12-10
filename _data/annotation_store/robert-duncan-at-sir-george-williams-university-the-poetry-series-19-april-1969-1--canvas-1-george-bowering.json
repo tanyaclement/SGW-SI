@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-george-bowering.json",
+  "type": "AnnotationPage",
+  "label": "George Bowering",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1--canvas-1-george-bowering-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "...say anything about Robert Duncan's credentials, so I'll make this as brief as possible. M.L. Rosenthal <sup><a href=\"https://www.wikidata.org/wiki/Q6723336\">w</a></sup> said, a little while ago in the Reporter that Duncan <sup><a href=\"https://www.wikidata.org/wiki/Q57421163\">w</a></sup> was the best of the poets in the experimental tradition and Warren Tolman says he's the best poet writing in the English Language, and I'd probably go further than that. And it's the reading we've been waiting for, most of us, all year, so I'd like to give him as much time as there possibly is. Robert Duncan.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
