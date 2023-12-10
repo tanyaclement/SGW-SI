@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Phyllis Webb and Gwendolyn MacEwen at Sir George Williams University, The Poetry Series, 18 November 1966 (1)" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1963.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/phyllis_webb_i006-11-130.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1963.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-1-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
