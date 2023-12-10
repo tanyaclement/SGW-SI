@@ -1,0 +1,1022 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman.json",
+  "type": "AnnotationPage",
+  "label": "L.E. Sissman",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you. Well let me begin by refuting one of those statements that Stanley just made, Stanton, I'm sorry, just made. I was not a singing vacuum cleaner salesman, that was a canard that was incorporated into my vita by my publisher, who misread a biographical note I wrote. I once worked for a vacuum cleaner company that made its salesmen sing pep songs before they went out to tackle the ladies in the neighbourhood, so we'd get up in the morning and sing all these ridiculous songs and then go out and try to sell vacuum cleaners but the two were not really related, it was just hyping oneself up for the gritty day of trying to sell these poor ladies on a vacuum cleaner. Now I've seen you've kindly reproduced, and incidentally you've been most kind here in Montreal, I've been received royally, more so than any place I've been lately to read poetry and I greatly appreciated, I feel it's kind of a homecoming since my mother is a Canadian, from Ontario <sup><a href=\"https://www.wikidata.org/wiki/Q1904\">w</a></sup>, not Quebec <sup><a href=\"https://www.wikidata.org/wiki/Q176\">w</a></sup>, but I've been in Montreal <sup><a href=\"https://www.wikidata.org/wiki/Q34\">w</a></sup> many times before and I'm very fond of this city and if I finally lose patience with the U. S. and A. <sup><a href=\"https://www.wikidata.org/wiki/Q30\">w</a></sup> as Walt Kelly <sup><a href=\"https://www.wikidata.org/wiki/Q933892\">w</a></sup> says in Pogo <sup><a href=\"https://www.wikidata.org/wiki/Q2100584\">w</a></sup> I'll migrate up here, I feel it an eminently sensible thing to do. So it's nice to have a pleasant reception here. And since you've kindly reproduced one of the poems from a group called \"Mouth Organ Tunes: the American Lost-and-Found\" on your mimeographed sheet, I thought I'd start off by reading that poem. I'm going to say a few words at the risk of being dull about what each one of these poems I'm going to read is for, what I meant it to mean. This particular one is talking about the well, kind of what James Atlas was talking about in his comment on my second book, this is in my third book, the terminal flatness and greyness of American life, United States life, and the attempts to alleviate this barrenness by all sorts of temporizing accommodations, going to Howard Johnson's <sup><a href=\"https://www.wikidata.org/wiki/Q5919997\">w</a></sup> on a Sunday, or having a kinky party in New York <sup><a href=\"https://www.wikidata.org/wiki/Q60\">w</a></sup> to show off one's new paintings or celebrating the death of a genuine antique American and New Englander and looking at the house that he lived in and so on. Anyway the tune is called, the poem is called \"Mouth Organ Tunes\", and I use the mouth organ as an instrument here to suggest the, well the mouth organ is something that can be played in a band, but is better not, it's a very solitary instrument and to me it always conveys the loneliness of an individual against insurmountable odds. The poem is called \"Mouth Organ Tunes: The American Lost-and-Found\" and the first section is called, as promised, \"In a Ho-Jo's by the River\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "45.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Mouth Organ Tunes: The American Lost-and-Found, part 1: In a Ho-Jo's by the River\" from Pursuit of Honor. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "260.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Let me contrast that with a poem about Middle America in the best sense. The old Middle America of people who knew their own way and found their own way in the land, and lost their own way in recent years because of encroachments on the land. The poem is called \"The Big Rock Candy Mountain\" and it's dedicated to the memory of my half-brother, Winfield Shannon, itinerant farm worker, 1909-1969. And it has an epigraph by Basil Bunting <sup><a href=\"https://www.wikidata.org/wiki/Q2886803\">w</a></sup> which goes \"a mason times his mallet to a lark's twitter, ‘til the stone spells the name, naming none, a man abolished\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "602.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Big Rock Candy Mountain\",  parts 1-5 [from Pursuit of Honor].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "664.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Let me change to a slightly lighter vein, and read a poem that is a joke, essentially. It's called \"The Birdman of Cambridge, Mass.\" It's about a man I once roomed with in college, who was an Audobonophile, or whatever the word is, a bird nut and has since become a bird expert. Anyway, this is how the poem goes, it's called \"The Birdman of Cambridge, Mass.\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1285.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Birdman of Cambridge, Mass.\" [from Dying: An Introduction].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1325.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That is also a description I should say, of the Least Bittern. This is another poem about being in college...good lord, twenty seven years ago, I can't believe this, 1945, yeah that is damn near twenty seven years ago. It's called \"A College Room, Lowell R-34\", a building at Harvard <sup><a href=\"https://www.wikidata.org/wiki/Q13371\">w</a></sup>, 1945.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1375.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A College Room, Lowell R-34, 1945\" [from Dying: An Introduction].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1406.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And there's a footnote to this poem, dedicated to the maid, good lord, this is a long time ago, we had maids in those rooms. It was a very capable lady named Mrs. Circassian. And it's called \"Footnote, Mrs. Circassian\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1512.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Footnote, Mrs. Circassian\" [from Dying: An Introduction].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1528.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you, she was a very nice lady, and deserved a much less ironic tribute than that, she was a home away from home herself. Let's see now, I've got all sorts of possible choices here. Why don't I read a poem about a shattering experience I had which I think maybe all of you may have had at one time or another, going back to a place where you had lived as a kid, and finding how puny it was and how destroyed it was by the passage of time. This is a poem about a place in Detroit where I had lived in the 30's and went back to in 1964 when the poem was written. It's called \"East Congress and McDougall Streets, Detroit, May 25\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"East Congress and McDougall Streets, Detroit, May 25\" [from Dying: An Introduction].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1623.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And finally, one more poem from this rue, if I can find it, called \"The Museum of Comparative Zoology\" and it is about indeed falling in love with an old beat up museum of Comparative Zoology, and finding one's place in the philia.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1770.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Museum of Comparative Zoology\" [from Dying: An Introduction].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1796.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Let me get onto a poem that is now again a little bit more serious, although not ultimately so, I hope. It's about being very sick at the hospital and knowing one is in good hands. It's called \"A Deathplace\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1939.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Death Place\" [from Scattered Returns].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1961.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Small Space” [from Scattered Returns].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2128.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem about the same thing the last poem was about, called \"Getting On\", and I'll read only one part of it since that's all I've written so far. It's called \"Grave Expectations\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Getting On: Grave Expectations\" [published later in Hello, Darkness: The Collected Poems of L.E. Sissman].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this is a poem that is sort of mysterious and I'm not sure that I understand it either but I'll read it, called, if I can find the end of it, yeah. \"On Meeting No One in New York\". This is about doing a very daring thing in middle age, not taking a girl up on it. \"On Meeting No One in New York\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2355.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Mid-Forties: On Meeting No One in New York\" [published later in Hello, Darkness: The Collected Poems of L.E. Sissman].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2385.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And finally, not finally, there are two more I think. One is a true story, the other is a dream, but they are both nice to end on April 7th, even though there still may be snow on the ground, with a note of spring. This really happened to a friend of mine in Berlin <sup><a href=\"https://www.wikidata.org/wiki/Q64\">w</a></sup> in 1945 in April, and it's called \"A Comedy in Ruins\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2506.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Comedy in Ruins\" [published later in Hello, Darkness: The Collected Poems of L.E. Sissman].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2544.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And finally, an all nice sweet, pleasant poem, except for the passage of time which none of us can do anything about, based on a dream. It's called \"Cockaigne: A Dream\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2739.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Cockaigne: A Dream\" [published later in Hello, Darkness: The Collected Poems of L.E. Sissman].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2756.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-l-e--sissman-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "L.E. Sissman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3038.0"
+        }
+      }
+    }
+  ]
+}
