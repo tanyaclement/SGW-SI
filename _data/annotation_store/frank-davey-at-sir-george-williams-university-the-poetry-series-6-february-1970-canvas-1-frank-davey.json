@@ -1,0 +1,1997 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey.json",
+  "type": "AnnotationPage",
+  "label": "Frank Davey",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The first poems I'm going to read this evening are ones which came out of my experiences in my first marriage. My own feeling about reading poetry is that the poem is exposed to the audience at a much faster rate than what the poem is when it's on the page, and excuse me, I'm going to give you a fair bit of background material on some of these poems. These are a collection of prose poems.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "36.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "80.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Counting” [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "133.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Bandit\" [from Weeds]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "191.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "To me some of these poems are remarkable because at the time I didn't know this marriage was breaking up and some of the, some of the poems as you can see are about experiences other than marriage and suddenly I realize of course as these poems were progressing, in particular toward the end, that the message was certainly that there was something rather infertile in my whole life, I mean even in the next poem I'm going to read, I didn't catch on, I thought, 'oh well, I'll write this poem, I can't really show it to my wife, but you know, so what'.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "248.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Mealtimes\" [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "284.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Place\" [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "346.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "These poems actually form a sequence, I'm only giving you certain examples of them and jumping ahead and now the cat is suddenly in the next poem as if it hadn't left.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "399.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Calling\" [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "412.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well by this point in the sequence, the message was beginning to become more available to me. I was, I admit beginning to understand what I was writing by this point. I've always felt that it's important to write a poem whether or not you realize its significance or its relevance to your own life that you go ahead and write the poem anyway. And in this particular sequence, my own faith that poetry can reveal things to you, that the process of writing poems is a process of discovery, that in fact poems teach the poet, rather than the poet teaching the poems. The poems are wiser than the poet, if you want to look at it that way. This was--seemed to be borne out. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "488.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Leaves\" [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "555.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Letter\" [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "625.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Them Apples\" [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "695.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"I Do Not Write Poems\" [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "759.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Red\" [from Weeds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "820.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Many ways experience played into the hands of the poems, very nice that the most disastrous years of that marriage happened to begin in a summertime situation, and to end in winter, so that the seasonal, the cycle of the seasons could play its part in the poem. But on the other hand, perhaps that wasn't accidental. One doesn't want to question these things after they've worked for you. Group of poems that are collected in the book, which Howard Fink spoke about in his introduction, Four Myths for Sam Perry.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "881.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Sentences of Welcome\" from Four Myths for Sam Perry.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "939.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I had the fortune, I was going to say good fortune, I had the fortune of being in Los Angeles <sup><a href=\"https://www.wikidata.org/wiki/Q65\">w</a></sup> during the Watts Riots in 1965 <sup><a href=\"https://www.wikidata.org/wiki/Q377682\">w</a></sup>, and living in the riot area. I was very busy at the time and that particular experience I haven't really even begun to deal with.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1020.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Watts, 1965\" [from Four Myths for Sam Perry].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1046.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "At that time, in Vietnam <sup><a href=\"https://www.wikidata.org/wiki/Q881\">w</a></sup>, the most contested piece of property was Hill 488. And most of us know that mountains have a peculiar history of being sacred to human beings, Olympus <sup><a href=\"https://www.wikidata.org/wiki/Q80344\">w</a></sup>, Fuji <sup><a href=\"https://www.wikidata.org/wiki/Q39231\">w</a></sup>, Sinai <sup><a href=\"https://www.wikidata.org/wiki/Q377485\">w</a></sup>, there's a mountain in China <sup><a href=\"https://www.wikidata.org/wiki/Q148\">w</a></sup> called Tai Shan <sup><a href=\"https://www.wikidata.org/wiki/Q216059\">w</a></sup>, I believe Confucius <sup><a href=\"https://www.wikidata.org/wiki/Q4604\">w</a></sup> made a pilgrimage up this mountain, which is apparently so sacred that the Chinese had carved thousands of steps all the way up to the summit of the mountain. There are mountains, of course, in the Himalayas <sup><a href=\"https://www.wikidata.org/wiki/Q5451\">w</a></sup>, which house monasteries and which monks so far have successfully prevented anyone from climbing.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1114.12"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Hill 488\" [from Four Myths for Sam Perry].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1179.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Drongo is a purple bird that is peculiar to Southeast Asia <sup><a href=\"https://www.wikidata.org/wiki/Q11708\">w</a></sup>, one of the things which is never really thought of in times of conflict are all of the more, well very specific natural features of the landscape which of course are threatened by destruction in such times. We think of the problems of the defoliant in South Vietnam, when what they estimate now that more than 10% of the country has been treated with defoliant. We don't think of the individual examples of the flora and fauna which may be threatened with extinction because of this defoliation. Man of course is only one of the many inhabitants of this planet and although it is certainly a despicable thing that the biological function of human beings have been interfered with by the defoliation, children are being born malnourished, these are not the only sufferers. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1227.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Drongo\" [from Four Myths for Sam Perry].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1318.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And of course in the middle of this, there are tankers sinking.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1408.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Torrey Canyon\" [from Four Myths for Sam Perry].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1415.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well actually for the past three years I've been writing poems, from the tarot pack. I've been somewhat disappointed to learn that all kinds of other poets have been doing this at the same time. They're getting their stuff into print but I haven't bothered because I was going to do all 88 cards and publish them all at once. At any rate, I'm going to say some more about the tarot pack later but this particular poem comes out of the tarot pack from the Emperor card and has a peculiar affinity to the poems I've just been reading.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1469.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Emperor\" [published later as “Manuscript, 4 December, 1970, title ‘The Emperor’” in Arcana].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1520.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"When\" [from Four Myths for Sam Perry]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1623.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "But there is also of course, another side of the coin.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1676.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"For her, a Spring\" [from Four Myths for Sam Perry].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1679.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next poem is entitled \"A Light Poem\". For lack of a better descriptive term, I might call myself an anti-humanist, this is of course the--it's almost become a category, I thought it was unique at one point, but it's become of late a category. I think more and more people are realizing that man is not capable of appointing himself as manager, or he's capable of appointing himself, he's not capable of acting out his self-appointment as manager of this planet. That in fact, his capabilities at managing certain areas create problems that are multiples of the ones he has solved. And that the humanist dream of man through his own rationality creating a nearly utopian existence, coming to understand the workings of the universe in such a way that he can bend them to his own use, but this dream has not going to come true. And of course, one of the ways that this feeling in men has been manifested has been his utilization of light and energy, and well, to the poem. \"A Light Poem\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1839.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Light Poem\" [from Four Myths for Sam Perry]..",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1945.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Recently I have been writing poems from tarot cards. I have noticed a couple of things about the tarot cards that are very important for the poems. One of these is that the female symbol seems to be the most important symbol in the deck and it seems to suggest that the universe itself is essentially feminine in nature, that the fertility of the universe is feminine. Another aspect of the cards suggests that the nature of the universe is such that all sorts of mysterious things can happen to it without our understanding them. That there are all sorts of forces indicated in these cards that are essentially outside of our control. This poem, entitled \"To Win at Cards\". Tarot cards are not cards whose primary purpose is to play a game. The decks of cards with which we are all familiar with are cards where you play a game, the object of course of playing cards is to win at cards. And winning of course, is something which we are all brought up to wish, so one of the things about our competitive society that makes it work is that we all want to win. And card games help indoctrinate us in this direction. Cards, can also tell you things, this is the thing that the tarot cards have in common with poetry, is that people don't win in poetry, you don't write a better poem than somebody else in order to win prizes or to--you don't use poems in order to seduce a girl, or you don't use poems in order to accomplish any kind of end outside of the end of writing the poem. If you do, your allegiance is not to the poem and it's to something else and you're prostituting the poem. The only thing which can win at poetry is the poem itself, and this is where the poet ought to apply his effort to, is to helping the poem win.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2245.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"To Win at Cards\" published later in Arcana].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2415.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem, entitled \"The Hermit\", one of the figures on the cards. The card happened to cause me to recall a childhood memory of an earthquake.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Hermit\" [published later in Arcana].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2495.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It became very clear to me writing these Tarot poems that indeed there were many things outside of one's control and my wife and I were putting together a jigsaw puzzle of the moon, I think it was a satellite photograph of one side of the moon, and things started to go wrong.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2569.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“Luna”, published later in Arcana].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2596.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Throughout history of course, men have been obsessed with the idea of being displaced by another man. Either in the seat--in the kingdom, or in the favors of the special woman in their lives. We have in mythology of course, many myths of Gods being displaced very often by their children. In Greek drama of course, the classical example is the Oedipus <sup><a href=\"https://www.wikidata.org/wiki/Q130890\">w</a></sup> myth where Laius <sup><a href=\"https://www.wikidata.org/wiki/Q463898\">w</a></sup> and Jocasta <sup><a href=\"https://www.wikidata.org/wiki/Q131445\">w</a></sup> have their married lives disrupted by their son, Oedipus. This is a poem about this particular fear. Fear of being displaced by someone younger, very often, fear of being displaced by one's own son, although that's not necessarily integral to the poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2692.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Menelaus, To You\", published later in Arcana].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2753.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "If you choose to go to war with the natural environment, strange things happen. “King of Pentacles” is wrapped in a coat of binds.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2839.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"King of Pentacles\" [published later in Arcana].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2854.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Times when men do the right things, or seem to do the right things. A poem called \"The Caughnawaga Bell\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2924.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Caughnawaga Bell\" [published later in Arcana].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2935.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'd like to conclude with a couple of poems about the whole problem of writing. It's always a problem for a poet to keep the process of writing going. One of the tricks of poets of course is always to write poems about the fact that the process of writing isn't going. I have a number of these. \"The Mountain\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3032.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Mountain\" [from Four Myths for Sam Perry].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3066.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Of course, the thing is, as soon as you begin to pay homage to the fact that you're having trouble writing a poem and express your will to, you are in fact being repaid. As soon as I remembered this myth of Popocatepetl <sup><a href=\"https://www.wikidata.org/wiki/Q1782392\">w</a></sup> and you know, the earth literally repaying the boy for his homage representing him with a mountain. If you couldn't grow corn on it, at least you could lure the Yankees down to look at. [Audience laughter].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Bells\" [from Four Myths for Sam Perry].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3144.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem, entitled \"The Making\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3213.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Making\" [from Four Myths for Sam Perry].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3221.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And so, I wish you all good winds!",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Frank Davey",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3334.0"
+        }
+      }
+    }
+  ]
+}

@@ -8,6 +8,24 @@
         "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3337.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-frank-davey.json",
+            "label": {
+              "none": ["Frank Davey"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/frank-davey-at-sir-george-williams-university-the-poetry-series-6-february-1970/canvas-1/paintings",
