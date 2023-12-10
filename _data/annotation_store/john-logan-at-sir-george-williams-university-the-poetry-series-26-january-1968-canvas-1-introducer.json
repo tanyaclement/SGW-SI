@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thanks very much John <sup><a href=\"https://www.wikidata.org/wiki/Q6245151\">w</a></sup>, just several announcements before we go. Fred Cogswell <sup><a href=\"https://www.wikidata.org/wiki/Q5494855\">w</a></sup>, who is visiting us this year, has been invited by the Sir George Williams Student Literary Society to read his poetry, next Friday evening, in the students' lounge on the sixth floor. Jorge Luis Borges <sup><a href=\"https://www.wikidata.org/wiki/Q909\">w</a></sup>, the distinguished--[audience laughter] you're not making it easier--the distinguished author will be coming here, to Sir George Williams <sup><a href=\"https://www.wikidata.org/wiki/Q326342\">w</a></sup>, on Thursday February the 29th and I think I have this right. He's changed the title of his talk, it will be \"Beginnings of English Poetry\". Our next reading, John Newlove <sup><a href=\"https://www.wikidata.org/wiki/Q6250356\">w</a></sup> and Joe Rosenblatt <sup><a href=\"https://www.wikidata.org/wiki/Q1691575\">w</a></sup>, two weeks from...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4084.0"
+        }
+      }
+    }
+  ]
+}

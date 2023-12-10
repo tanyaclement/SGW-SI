@@ -1,0 +1,866 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan.json",
+  "type": "AnnotationPage",
+  "label": "John Logan",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now, can you see over there? I'm still concerned about the situation of the lights. Light's one of the big problems in poetry. [Audience laughter]. This is \"Two Preludes for La Push\", and it’s dedicated to Michael Ross <sup><a href=\"https://www.wikidata.org/wiki/Q21280686\">w</a></sup>. It was written when I was teaching [Wetky's (?)] courses a couple of years ago in Seattle <sup><a href=\"https://www.wikidata.org/wiki/Q5083\">w</a></sup> for a couple of quarters. The physical beauty of the North West got me very involved and I wrote a number of poems about it, of which this was the first. La Push <sup><a href=\"https://www.wikidata.org/wiki/Q554902\">w</a></sup>, Washington <sup><a href=\"https://www.wikidata.org/wiki/Q1223\">w</a></sup> is a city on the coast--city, no it's a hamlet on the coast, very poverty stricken Indian populated, really a ruined community with dead cars lying around and houses falling apart, but in the summer many people come there because of its superb beauty. I found that I couldn't write about the Indian community, I wrote rather about the sea and myself.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "217.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Two Preludes for La Push\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "338.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm sorry it bothers me when people come in late, I'm temperamental about that, you'll just have to excuse me. It's not that they're late, you know, it has no respect for the poem, they could wait until it's over. I'll go back to the second part.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "468.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"Two Preludes for La Push\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "493.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is another poem about a superb place in the North West called Deception Pass <sup><a href=\"https://www.wikidata.org/wiki/Q1181773\">w</a></sup>, which is a pass really--a water pass between islands, Deception Island <sup><a href=\"https://www.wikidata.org/wiki/Q49636439\">w</a></sup> is the name of the poem which the poem takes its name.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "657.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Pass\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "699.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I lived on a houseboat for a while, in Seattle, which I certainly think that everybody who considers going to Seattle ought to do. In fact, I was living on a houseboat when the tidal wave struck in the spring of that year. That is a marvelous thrill, it woke me up. I became friends with ducks there, I was living alone, and the poem is partly about that. \"Three Moves in Six Months\". You'll have to forgive me, I don't have this poem with me, I wanted to remember it, I'll see if I can.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "812.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Three Moves\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "869.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm sorry, I can't remember this poem now. I'll try it again in the second half of the program, I'm screwing it up. [Audience laughter]. I'll read you another poem, I'll try that one later. This is called \"Poem, Slow to Come, on the Death of Cummings, (1896-1962)\". There are two epigraphs, one from a student of mine who said  \"I care more about strawberries than about death\", and one from Rilke <sup><a href=\"https://www.wikidata.org/wiki/Q76483\">w</a></sup>, who wrote \"Heir, es ist zeit\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "945.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poem, Slow to Come, on the Death of Cummings, (1896-1962)\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1003.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll read one more poem then would like to take a break, and begin again. It's called \"Love Poem\". I said that as though it didn't matter that it's called that. It does.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1347.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Love Poem\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1397.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I was just asked to read another, earlier poem, which I'm glad to do. Why not? I still like this poem. Then I'll come back and read some more recent things. Did we decide we'll try this without the lamp at all? I think we did, because it seems to get in the way of people. I think that people are more important than I am. Is that worse? Probably if you can't see me it should be marvelous. It’s called \"A Trip to Four or Five Towns\" and I dedicated it to James Wright <sup><a href=\"https://www.wikidata.org/wiki/Q6145850\">w</a></sup>, simply because he liked it. There's a reference toward the end of the poem to a visit to William Carlos Williams <sup><a href=\"https://www.wikidata.org/wiki/Q178106\">w</a></sup>, and there's also a reference to a story about e.e. cummings <sup><a href=\"https://www.wikidata.org/wiki/Q298703\">w</a></sup>, told by Charles Norman in his biography of cummings about a long night spent at [Archebold (?)] and [unintelligible] with them living in France <sup><a href=\"https://www.wikidata.org/wiki/Q142\">w</a></sup>, cummings was working for the New York Herald Tribune <sup><a href=\"https://www.wikidata.org/wiki/Q532494\">w</a></sup>, I think, perhaps another New York <sup><a href=\"https://www.wikidata.org/wiki/Q60\">w</a></sup> paper, there aren't that many. But on the way back from the party, cummings had the urge to take a leak, and so he did so, but it was Champs-Élysées <sup><a href=\"https://www.wikidata.org/wiki/Q550\">w</a></sup> or some extraordinary [audience laughter] place like that and the cops saw him. They brought him to jail, and they said, 'You piss on Paris <sup><a href=\"https://www.wikidata.org/wiki/Q90\">w</a></sup>' [audience laughter]. He said, 'No ,it's not the point, I just had to take a leak', but they kept him there the whole night and when he finally got back to his office in the morning they had signs posted up around, which said--and I don't read French, I'm sorry because I know that many of you know French--but it was something like this, “[unintelligible] pisseur Americain”, which I guess translated \"Let the American pisser go\". [Audience laughter]. This was \"A Trip to Four or Five Towns”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1587.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Trip to Four of Five Towns\" [from Ghosts of the Heart]..",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1741.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I realize reading the poem now how dated it is with the reference to the capital of [Viscount(?)] claim, which sold out some time ago to I don't know, somebody that sold out to somebody else. Williams by the way, did not read his Sixteen new poems, he had them, but he couldn't read them because he'd had a stroke and had never heard them. I visited him with Galway Kinnell <sup><a href=\"https://www.wikidata.org/wiki/Q2425705\">w</a></sup>, and he asked us to read the poems, and we did. But I thought that, you know, one of the great things about poetry is that you can make it the way that it should be, so I had him read the poems. This is \"Big Sur: Partington Cove\". I went with a couple of students to, well we were in the Big Sur <sup><a href=\"https://www.wikidata.org/wiki/Q859413\">w</a></sup>, and this is a very hidden place, Partington Cove <sup><a href=\"https://www.wikidata.org/wiki/Q21551591\">w</a></sup>. A marvelous place, accessible only by a tunnel shored up by ancient timbers, I feel I am sort of repeating the poem by telling you this, but there is such a cove, and you can only reach it through a tunnel, it's very beautiful. Smugglers used the cove and a cave nearby to hide booze during the prohibition, it was used for other purposes before and since, and there are--well why not? [Audience laughter]. But you can't get there at all now, I tried to revisit when I was back there last spring, but it's all roped off. And even the one time I did get to go there, there was a sign that was supposed to scare you away. The, one of the motivating things behind the poem was my understanding for the first time of what happens in some paintings that a friend of mine Jim Johnson <sup><a href=\"https://www.wikidata.org/wiki/Q100239918\">w</a></sup> does, where he uses combinations of landscape and the human body. He will have for example, mountains coming off an arm, and the figure of a clown. I had an experience which this poem talks about that made me see for the first time the kind of rapport between body and landscape. It was important to me, and part of what happens to the poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2314.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Big Sur: Partington Cove\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2514.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Three Moves\" [in full, published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3045.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm glad I finally read a poem you liked. [Laughter]. I'll read two more, they're both new, one is fairly long and one is fairly short. This one is called “Lines on Locks (or Jail and the Erie Canal)”. It's based on an experience of being in jail along the Erie Canal <sup><a href=\"https://www.wikidata.org/wiki/Q459578\">w</a></sup>. The name of the town is Herkimer <sup><a href=\"https://www.wikidata.org/wiki/Q3134036\">w</a></sup>, New York [audience laughter] and I guess I won't go into the background of it, it's not that interesting. But it was written there. Not long ago.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3236.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Lines on Locks (or Jail and the Erie Canal)\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3300.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And finally, read \"The Search\". Which is my most recent poem. If you knew how few poems there have been lately, that would mean more but...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3751.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Search\" [published later in The Zigzag Walk].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3783.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968-canvas-1-john-logan-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you [audience applause continues throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Logan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4068.0"
+        }
+      }
+    }
+  ]
+}
