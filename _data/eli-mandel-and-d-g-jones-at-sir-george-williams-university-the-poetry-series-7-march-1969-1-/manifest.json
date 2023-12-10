@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Eli Mandel and D.G. Jones at Sir George Williams University, The Poetry Series, 7 March 1969 (1)" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3717.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/eli_mandel_i086-11-034.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3717.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
