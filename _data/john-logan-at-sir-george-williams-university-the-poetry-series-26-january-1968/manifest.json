@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "John Logan at Sir George Williams University, The Poetry Series, 26 January 1968" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 4154.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/john_logan_i006-11-163.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 4154.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/john-logan-at-sir-george-williams-university-the-poetry-series-26-january-1968/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
