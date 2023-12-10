@@ -8,6 +8,48 @@
         "id": "https://tanyaclement.github.io/SGW-SI/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2445.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-tom-raworth.json",
+            "label": {
+              "none": ["Tom Raworth"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-introducer.json",
+            "label": {
+              "none": ["Introducer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-tom-raworth-.json",
+            "label": {
+              "none": ["Tom Raworth "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-david-ball.json",
+            "label": {
+              "none": ["David Ball"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970/canvas-1/paintings",

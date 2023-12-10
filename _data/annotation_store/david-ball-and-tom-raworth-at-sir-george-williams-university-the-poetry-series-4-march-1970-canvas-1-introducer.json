@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Tom Raworth is a central figure in the emergence of the British Avant-Garde, he is also well represented in most forward North American publications, he was the editor of the underground Goliard Press before it was taken up as the revolutionary branch of Johnathan Cape <sup><a href=\"https://www.wikidata.org/wiki/Q3277534\">w</a></sup> books, and his own publications include The Relation Ship, The Big Green Day and most recently, Lion, Lion , poetry that along with that of Anselm Hollo <sup><a href=\"https://www.wikidata.org/wiki/Q252476\">w</a></sup>, and Turnbull <sup><a href=\"https://www.wikidata.org/wiki/Q5516589\">w</a></sup> will define what happened in the British verse of the 60's. Cape Goliard has also published his Serial Biography which is a most exciting experiment on the British prose scene, and he is also one of the first poets to be heard on Steam Records, a series of LPs presenting leading American and British poets reading their works. This year, he is poet in residence at Essex <sup><a href=\"https://www.wikidata.org/wiki/Q1075104\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1106.0"
+        }
+      }
+    }
+  ]
+}
