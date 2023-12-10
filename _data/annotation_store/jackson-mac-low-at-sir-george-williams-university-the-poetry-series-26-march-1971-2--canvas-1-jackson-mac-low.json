@@ -1,0 +1,1022 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low.json",
+  "type": "AnnotationPage",
+  "label": "Jackson Mac Low",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Glass Buildings\" accompanied by music. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "36.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “5.2.3.6.5., the 3rd biblical poem” [accompanied by music and other voices]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "88.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "From “Judges 6:4 to First Samuel 1:10”, written Saturday, 1st January 1955.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "327.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“On the Glorious Burning of the Stars and Stripes in the Sheep Meadow in Central Park around about Noon on April 15, 1967 1967 May”].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "340.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Next is a “Word event for George Brecht” on the words 'anti-personnel bombs', this is a kind of poem that can be done on any words. I did it first on these words at a reading in New York <sup><a href=\"https://www.wikidata.org/wiki/Q60\">w</a></sup> where the Russian poet Voznesensky <sup><a href=\"https://www.wikidata.org/wiki/Q236619\">w</a></sup> joined some American poets in an anti-war reading.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "440.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs “Word event for George Brecht” accompanied by recording.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "463.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "All the people who are going to read the \"Number to Symmetries\" please come up for the microphone...These were a group of a hundred poems, of the form that has holes in it, that is the format of the poems are used to indicate silences, where there's white space on the page, they're silences. Some of the phonemes on the ends of words are prolonged, and others are stuttered. I'm not sure that any of them that are stuttered are in this particular batch. I wrote about 500 of these in late 1961, early--late, let's see, late ‘60 and early ‘61. I wish you'd say your own names, because I didn't get all your names down in the book, be sure to write your names in my book when you leave. Would the people participating just tell their names to the audience because I don't know all of them?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1272.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Remember when you get to the end of one, then the next person will take the mic.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1379.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah, if you want. Yeah, that would be very nice.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1386.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah, just go after...Would you rather have these than the book? Would you rather have papers or the book? Probably easier for you to just put the book down and say “I’m here.”...No, I’m just going to do these. Alright, does anybody have a lot of short ones? I have a few more...So, you prolong those phonemes and [unintelligible] repeated this one...Yeah...Do you need any...Anybody have lots of short ones? Alright. [Unintelligible]. Okay, I would say move a little bit that way. Now those without mics, I think you might be picked up by the mics of those who have them to at least to get on the tape. Okay.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"Number to Symmetries\" accompanied by audience members. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1523.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In 1960, just before I wrote this group, I wrote a group of poems called the...Stanzas for Iris Lezak, they're--this is the summer of ‘60, they're presently being published this year by the Something Else Press <sup><a href=\"https://www.wikidata.org/wiki/Q2299703\">w</a></sup>, which is nominally in New York and really in Newhall <sup><a href=\"https://www.wikidata.org/wiki/Q7018086\">w</a></sup>, California <sup><a href=\"https://www.wikidata.org/wiki/Q99\">w</a></sup>, at the centre of the earthquake. I'll first read a short group, solo, and then read one in a duet with the--of the earlier performance of it. \"Poe and Psychoanalysis\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2461.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poe and Psychoanalysis\" from Stanzas for Iris Lezak.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2550.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Marseille\" from Stanzas for Iris Lezak.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2577.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"London\" from Stanzas for Iris Lezak.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2651.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Sydney\" from Stanzas for Iris Lezak.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2688.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Berlin\" from Stanzas for Iris Lezak.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2698.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Madrid\" from Stanzas for Iris Lezak.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2712.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Rome\" from Stanzas for Iris Lezak.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2721.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll explain a bit, I took these from whatever I was reading from about April to October of 1960, the group of place-name poems were from scatter paper called The National Enquirer <sup><a href=\"https://www.wikidata.org/wiki/Q1814777\">w</a></sup>. This is from the, an article in the Scientific American <sup><a href=\"https://www.wikidata.org/wiki/Q39379\">w</a></sup>...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2857.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“Asymmetry from Scientific American” from Stanzas for Iris Lezak]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2886.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a, a number of these are collages of various times and places, as well as spontaneity in this room here, on two of these tapes, you will hear a lady's voice along with my own. I did a concert of my works along with Jim Tenney <sup><a href=\"https://www.wikidata.org/wiki/Q715379\">w</a></sup> and Max Neuhaus <sup><a href=\"https://www.wikidata.org/wiki/Q2182711\">w</a></sup>, in town hall, New York in September of 1966, and still earlier Max Neuhaus had realized this particular piece which is a piece produced by subjecting the electric typewriter keyboard to randomization by random numbers, so it looks like a lot of different characters from the electric typewriter, Neuhaus recorded it at the University of Illinois <sup><a href=\"https://www.wikidata.org/wiki/Q1145814\">w</a></sup> laboratory, I guess some time earlier in ‘66 or maybe ‘65 and then put it down four octaves. He and another guy were reading from--the readers read from this in any way they wish, now I'll have the live readers to come up here...So then in... in this ‘66 concert, I did it as a duet, reading through the negatives from which this was printed, the blinking light, and a Jeanne Lee <sup><a href=\"https://www.wikidata.org/wiki/Q274580\">w</a></sup>, a very fine blues singer was in the various works that were performed in that concert, and she's on the duet that you hear, that you will hear. A year ago, or a little more, I guess in April of last year I performed this in a class at NYU <sup><a href=\"https://www.wikidata.org/wiki/Q49210\">w</a></sup> along with the-oh and the Neuhaus tape was along with that performance in NYU, then the town hall performance and the Neuhaus tape--all three were in the NYU performance along with the NYU performance, so now you'll hear it at least four different times, plus the present, something like that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3327.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs unnamed piece accompanied by recording. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3503.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll do a piece called \"Fifth Gatha'', which is another group piece, uh, the readers who learned it, please come up with copies, and I'll have to toss around tapes for a few minutes here. I might explain that this particular piece is one of a series I call \"Gathas\" that are written on graphed paper, they by chance operations. I take the mantra of one religion or another, this happens to be the great prajnaparamita mantra, which is basic to Northern Buddhism and Zen Buddhism, and it's arranged by the method so that it falls over an axis of 'a's, 'u's and 'm's that is the word 'aum', wherever a's, u's and m's appear in the mantra they may cross the mantra, there aren't many u's in this particular one, so there isn't any--nothing crossing the u-line, you may be able to see the empty gap there. The mantra in question is \"Gone, gone to the other shore, quite gone over the other shore, boldly, wisdom, spaha, pray. Guthe, guthe, paraguthe [unintelligible]...\" you may, those of you who know zen may be more familiar with it in its Japanese version, which is sort of a Japanization of the Sanskrit. The group version of it was done in the Chelsea Hotel <sup><a href=\"https://www.wikidata.org/wiki/Q240711\">w</a></sup>, I think in '67, but the German editor and producer, Carl Weissner <sup><a href=\"https://www.wikidata.org/wiki/Q1040995\">w</a></sup>, the whisper version you hear, I did at home, earlier, maybe in ‘66, ‘65, ‘66. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3971.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"Fifth Gatha\" accompanied by audience members and recording.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4175.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-jackson-mac-low-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The last poem I read was also from Stanzas for Iris Lezak. It's based on the Tibetan prayer to the gurus and it's translated by W.Y. Evans-Wentz <sup><a href=\"https://www.wikidata.org/wiki/Q456451\">w</a></sup>. The next piece is all about bluebirds. It’s again--it uses the form of...In recent years I've gone back to writing poems in the form of the asymmetries that I wrote in ‘60 and ‘61, but these tended to cluster around one subject matter. There's one in the current Aspen Magazine <sup><a href=\"https://www.wikidata.org/wiki/Q4807826\">w</a></sup> about young turtles, no one really knows where they go once they've hatched, and they know when they come back, but they don't really know what they do in between hatching and there is a natural history magazine, there was a caption to a picture, and so there was a record in the current Aspen, that's of that group. This is the first one of this type that I did on bluebirds, was for a group event that a number of us, let’s see, Iris Lezak, Emmett Williams <sup><a href=\"https://www.wikidata.org/wiki/Q719185\">w</a></sup>, Carol [Bouget (?)] and [Jet Yalka (?)] and I did a collective event for the University of Syracuse <sup><a href=\"https://www.wikidata.org/wiki/Q617433\">w</a></sup> at Utica <sup><a href=\"https://www.wikidata.org/wiki/Q2495519\">w</a></sup>, which we called, which Emmett named for us [\"Jack-a-Jurismatics (?)”] and so one of the pieces I wrote for that was this bluebirds piece. Emmett Williams has a beautiful work that has bluebirds in it, it's a permutation poem that also appears in this anthology, although this is an anthology that La Monte Young <sup><a href=\"https://www.wikidata.org/wiki/Q432822\">w</a></sup> got together in ‘60 and we--‘60 and ‘61 I guess, and he had many difficulties between the time that it was designed and the time it was printed and finally got it out at first in 1963, it's called An Anthology of--well, various things--Chance Operations, and well I don't know what, concept art, anti-art, indeterminacy improvisation, meaningless work, natural disasters and so on. And well, just recently, our first edition is now a sort of a collector's item, sells around a hundred, but recently a German publisher re-published it for us and the current, the new editions is going for $8.50, so if anyone is--I don't have copies here but I'll be happy to send any to anybody. Contains work mostly, a lot of it is music, musical scores, there's some other poetry, including the Emmett Williams mention. The Emmett Williams poem does all the variations, does all the permutations of one group of things, \"somewhere bluebirds are flying high in the sky, in the cellar even blackbirds are extinct\", each of those is considered a run unit, and all the possible permutations of them are written out \"somewhere bluebirds are flying high in the sky, in the cellar even blackbirds are extinct\". I'd love to read it, but it's very long. Usually we read it with five different voices, each taking the unit and once in a while, people get through it without breaking down laughing. [Unintelligible]. This was taken from, the bluebird asymmetries were from two...were from two encyclopedia articles on bluebirds, one I think the Audubon Encyclopedia, and I've forgotten what the other one was. They're very complimentary. The voices you hear are, you heard in another performance of Leslie [Sixfin (?)], Amy [Spurling (?)] and Harvey [Lesain (?)], along with four of my students at the Mannes School of Music <sup><a href=\"https://www.wikidata.org/wiki/Q1519151\">w</a></sup> and about done in 1966, or 1967, I think it was May of 1967 that this was done. There's a specially gifted group I felt that I happened to get together in that class, just towards the end we were doing mostly, we were just doing ordinary grammar English, I'm an English teacher, for my bread.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jackson Mac Low",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5180.0"
+        }
+      }
+    }
+  ]
+}

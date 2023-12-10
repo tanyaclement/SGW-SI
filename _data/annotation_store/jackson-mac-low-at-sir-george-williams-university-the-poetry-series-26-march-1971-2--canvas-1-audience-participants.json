@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-audience-participants.json",
+  "type": "AnnotationPage",
+  "label": "Audience Participants",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2--canvas-1-audience-participants-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Peter Boxer, [unintelligible], Walter Katjetski, Robert Graham, Jenny Burn, [unintelligible], Ivan [Lourd (?)].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Participants",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1367.0"
+        }
+      }
+    }
+  ]
+}
