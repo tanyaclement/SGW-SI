@@ -33,6 +33,14 @@
               "none": ["Unknown"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
