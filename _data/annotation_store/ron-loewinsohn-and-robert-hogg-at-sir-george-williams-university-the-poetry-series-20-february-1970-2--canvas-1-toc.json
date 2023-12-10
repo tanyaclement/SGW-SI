@@ -1,0 +1,1155 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc.json",
+  "type": "AnnotationPage",
+  "label": "TOC",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert Hogg introduces reading and “Fragments of an Imaginary Noh Play”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Fragments of an Imaginary Noh Play: Walkie’s Dream”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "26.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Command”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "159.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Command”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "214.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Eclipse”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "380.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Eclipse”  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "426.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces unknown poem, first line “So it is empty, but for the animals...”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "552.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads unknown poem, first line “So it is empty, but for the animal...”  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "602.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Cave”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "848.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Cave”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "857.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces unknown poem, first line “This much is remembered...”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "936.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads unknown poem, first line “This much is remembered...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "969.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Out of This World”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1015.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Out of This World”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1043.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Song” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1149.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Song”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1156.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Once”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1174.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Once”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1201.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Tropos”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Tropos”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “A Fragment of Love”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1250.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “A Fragment of Love”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1257.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “A Reading”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1272.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “A Reading”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1308.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Aries and Pisces Dream”.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1443.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Aries and Pisces Dream”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1470.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Of Psyche”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1743.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Of Psyche”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1779.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “To the Moon”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1826.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “To the Moon”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1837.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces Untitled Poem, first line “Fresh September...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1872.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads Untitled Poem, first line “Fresh September...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1962.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “A Lifetime”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1985.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “A Lifetime”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2137.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Presages: From a Sixth-Floor Apartment”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2223.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Presages: From a Sixth-Floor Apartment”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2304.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert Hogg thanks the audience.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2440.0"
+        }
+      }
+    }
+  ]
+}

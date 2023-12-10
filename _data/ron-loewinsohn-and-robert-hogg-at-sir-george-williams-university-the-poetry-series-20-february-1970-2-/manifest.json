@@ -33,6 +33,14 @@
               "none": ["Robert Hogg"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-2--canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
