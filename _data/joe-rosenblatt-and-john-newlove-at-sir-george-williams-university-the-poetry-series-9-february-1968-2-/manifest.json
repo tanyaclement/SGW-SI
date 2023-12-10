@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Joe Rosenblatt and John Newlove at Sir George Williams University, The Poetry Series, 9 February 1968 (2)" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2215.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/john_newlove_i006-11-143.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2215.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
