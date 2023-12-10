@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-george-bowering.json",
+  "type": "AnnotationPage",
+  "label": "George Bowering",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-george-bowering-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "...start with the poesy, I've been asked to announce that on Friday, i.e., what's this the seventh? Two weeks from tonight, March the 21st at 9 o’clock. in Room 653, [Barnes (?)] willing, there will be a program, I guess within the auspices of the Fine Arts department, the Ira Cohen <sup><a href=\"https://www.wikidata.org/wiki/Q1097790\">w</a></sup>, New York <sup><a href=\"https://www.wikidata.org/wiki/Q60\">w</a></sup> film maker, and poet will be showing three of his films, as far as I know for the first time in Montreal <sup><a href=\"https://www.wikidata.org/wiki/Q340\">w</a></sup>. That's two weeks tonight at 9 in 653. When I was asked to introduce Eli Mandel <sup><a href=\"https://www.wikidata.org/wiki/Q3050883\">w</a></sup>, and D.G. Jones <sup><a href=\"https://www.wikidata.org/wiki/Q5203595\">w</a></sup>, I said, 'that's ridiculous', Canadian poetry being the way it is, they already know each other. And after the moment of hilarity I was brought to my senses, and I began to think that it really did make a lot of sense that we do have Doug Jones and Eli Mandel reading on the same program. I can remember in 1961 when Poetry 62 came out, Canadian poetry being the way it is [audience laughter], Poetry 62 was edited by Jean-Guy Pilon <sup><a href=\"https://www.wikidata.org/wiki/Q3166089\">w</a></sup> I believe and Eli Mandel, being a bilingual book, and at the time the poem that struck me as the most interesting was the long poem by D.G. Jones, the most interesting in that anthology, and I therefore, felt kind of warm, without having them, to both of them to Doug's poem and Eli's great taste for putting it in the anthology. And then I thought that there was this kind of confluence going on and I began to see all kinds of other things happening too, for instance, they both had their first books published by Contact Press, that published the first books of most of the important Canadian poets, and they now have seen their careers sort of criss-cross one another in a kind of a funny way because they each have three books, except that Eli has three and a third, which is also kind of Canadian, and I thought it was kind of interesting because not only is there a kind of parallel going on, and they both in 1967, for instance, turned out very good books of poetry, but there's a kind of uh, they'll be kind of an interesting contrast I think in tonight's program because I've always considered that Doug Jones is sort of the best of the Ontario <sup><a href=\"https://www.wikidata.org/wiki/Q1904\">w</a></sup> Wasp poets [audience laughter], and Eli Mandel is the best of the Western Jewish poets and they both deal with essential problems that seem to expose their two opposing and therefore contrary and conjugal, you might almost say, attitudes towards the business of writing poems. So we're going to start off with Eli's reading, and then have something like a ten minute break, and then we'll have Doug Jones' reading. I should mention that of those two books, Eli's is called An Idiot Joy and it shared the Governor General's Award <sup><a href=\"https://www.wikidata.org/wiki/Q283256\">w</a></sup> given in 1968, and published by Hurtig, Edmonton <sup><a href=\"https://www.wikidata.org/wiki/Q2096\">w</a></sup> publisher, who is very pleased to get the Governor General's Award, and Doug Jones' book is Phrases from Orpheus, published by Oxford Press <sup><a href=\"https://www.wikidata.org/wiki/Q217595\">w</a></sup>, two books that would be well worth investing both your heaven, forbid, money and your imagination upon. I'm probably not going to say anything before D.G. Jones comes to read, so I'm not expecting to come up here and spout for five or ten minutes before he reads and I'm not going to spout any longer before Eli reads. So I'd first like to introduce to you Mr. Eli Mandel.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-george-bowering-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'd like to help you welcome now, D.G. Jones.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2902.0"
+        }
+      }
+    }
+  ]
+}

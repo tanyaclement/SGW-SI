@@ -1,0 +1,242 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-d-g--jones.json",
+  "type": "AnnotationPage",
+  "label": "D.G. Jones",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-d-g--jones-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm going to do this because I'm thirsty. It's a little disturbing but I've had a suspicion that this was becoming true for some time, in the last few years, that pretty soon you won't be able to tell the Jew from the Wasp, anyway [audience laughter]. It's getting more disconcerting all the time how similar certain things are between me and Eli Mandel [audience laughter]. I just hope he's a very good person and lives a long life and has great success in the future [audience laughter]. The main thing I want to read tonight is a little bit like Eli's last poem [audience laughter]. But it takes a lot more time to get itself said, for good or ill, and I'd like to read a few, a couple shorter poems anyway, before starting that longer poem which takes up a fair amount of the time. I'll read the first book from the, I mean...[laughter], I'll read the first poem from the book which old oriental George Bowering told you about at the beginning of the program. This poem's called \"The Perishing Bird\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "D.G. Jones",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2940.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-d-g--jones-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Perishing Bird\" [from Phrases from Orpheus].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "D.G. Jones",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3072.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-d-g--jones-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A poem called \"Summer is a Poem by Ovid\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "D.G. Jones",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3196.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-d-g--jones-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Summer is a Poem by Ovid\" [from Phrases from Orpheus].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "D.G. Jones",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3214.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-d-g--jones-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, this reads well. It starts with a Latin title, it's a kind of letter, actually written in reply to a letter to somebody who accused me of being rather complacent when ironically enough, I felt anything but that at that time. Accused me of being one of the people who didn't have any troubles in life, or not only me but somebody else too, when we had quite a few of our own that were not too dissimilar from those that the other person was talking about. It's about marriage. It's called, to avoid looking too obvious, \"De Profundis Conjugii Vox et Responsum''. It's a serious poem though, more or less.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "D.G. Jones",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3281.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-d-g--jones-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"De Profundis Conjugii Vox et Responsum\" [from Phrases from Orpheus].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "D.G. Jones",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3356.0"
+        }
+      }
+    }
+  ]
+}

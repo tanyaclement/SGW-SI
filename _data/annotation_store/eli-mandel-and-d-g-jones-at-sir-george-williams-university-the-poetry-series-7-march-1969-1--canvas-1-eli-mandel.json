@@ -1,0 +1,1334 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel.json",
+  "type": "AnnotationPage",
+  "label": "Eli Mandel",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think George <sup><a href=\"https://www.wikidata.org/wiki/Q1239280\">w</a></sup> might have carried the parallel of contrasts and comparisons a little further had he wanted to, or chosen to, or had he known about certain very intimate details about Doug's life and my life. But I don't propose to go into those myself right now either [audience laughter]. Instead, I'm going to read, primarily from An Idiot Joy, but also from Black and Secret Man, which was an earlier book and also from one or two manuscript poems that I've been working on recently. I want to start with a poem called \"Signatures\" and although I can say a lot about a number of poems that I've written, I'm not sure I can say much about this except that as will be obvious to you I think, the imagery is drawn from the Vietnam <sup><a href=\"https://www.wikidata.org/wiki/Q881\">w</a></sup> conflict, though I don't know that the poem is necessarily about that. Can you hear me with this mic? Some people at the back are saying 'no'. Can you hear me now?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "329.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Signatures\" [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "420.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem is called \"Neither Here Nor There\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "567.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Neither Here Nor There\" [published later in Crusoe: Poems Selected and New].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "573.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem from Black and Secret Man and it's called \"The Direction is North Until the Pole\", and I suppose it's one of the few poems I've written that I would call a Canadian poem, that is to say it draws on a number of specific images from the Canadian landscape and therefore I have to annotate this poem. I have to tell you that the Fleming mentioned in the last line of the poem was once a Minister of Finance in the federal government, that just proves how transient political poems really are. I think all the rest of this should be clear, hockey is a game that's played in Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "628.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Direction is North Until the Pole\" from Black and Secret Man.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "676.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is one of my prophetic poems. I think I've written a lot of really prophetic poems. This poem is called \"Departure\" and it tells about leaving Edmonton. Everybody who has read the poem believes that I wrote it when I decided to leave Edmonton, either for the first time or the second time, I've left there twice, as a matter of fact, I didn't write it when I decided to leave in Edmonton, I wrote it when I arrived in Edmonton.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "804.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Departure\" [from Black and Secret Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "833.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A little poem about one of my perversions, this is about making love to pregnant women, I think, I'm not sure if there's a technical name for that but the perversion appears in the poem. The poem's called \"Cassandra\" and it's about a prophetess, Cassandra <sup><a href=\"https://www.wikidata.org/wiki/Q170779\">w</a></sup>, you'll remember was the woman that Agamemnon <sup><a href=\"https://www.wikidata.org/wiki/Q128176\">w</a></sup>  brought home with him to his wife, Clytemnestra <sup><a href=\"https://www.wikidata.org/wiki/Q131157\">w</a></sup>, and this, so angered Clytemnestra, aside from the fact that Agamemnon had killed one of their daughters, that she killed Agamemnon, but Cassandra was a Prophetess, like Prophetesses, was given the power to tell the truth and was never believed. Some of the imagery in this poem is taken from the story of Cassandra, and the rest from my perversions.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "877.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Cassandra\" [from Black and Secret Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "939.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Madness of our Polity\" [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1020.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Whence Cometh Our Help?\", the title is taken from the Psalms <sup><a href=\"https://www.wikidata.org/wiki/Q41064\">w</a></sup>, and there are a number of images of the Psalms, in the poem. Or images from the Psalms.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1066.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Whence Cometh Our Help?\" [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1084.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem is called \"Manner of Suicide\", and it's the closest thing I've come to writing a found poem, in that all the material in the poem, the words are taken from two sources, except for the first line. One is Karl Menninger's <sup><a href=\"https://www.wikidata.org/wiki/Q3080926\">w</a></sup> Man Against Himself and the other, the Jewish Daily Prayer Book. There are twenty-six ways listed here of committing suicide, they're all ways that Menninger lists and documents, and he lists them in the order in which I give them here, and this list, which I give, is then followed by some comments he makes about those ways of committing suicide and a passage from the prayer book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1143.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Manner of Suicide\" [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1211.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In An Idiot Joy I wrote a number of poems which were, which used two primary images, the image of the moon and the image of the sea, and these are love poems. I suppose the interesting thing in them to me, aside from the personal sense that I feel about them, is that with each of the poems, whether it's with the image of the moon or the image of the sea, or both, I keep trying different technical things in the poetry, and so far as I'm concerned, I've done some more interesting technical things in this than anywhere else, but primarily, the poems talk about the moon and the sea, and seabirds and women and a woman.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1404.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Woman in the Moon\" from An Idiot Joy.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1470.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Explanations of the Moon” [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1572.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is one of the sea poems, in the sequence, called \"Listen, the Sea\", and the title comes from King Lear <sup><a href=\"https://www.wikidata.org/wiki/Q181598\">w</a></sup>, though actually, I had become aware of it of course when I knew that Keats <sup><a href=\"https://www.wikidata.org/wiki/Q82083\">w</a></sup> had written a sonnet using this, but the technique is neither Shakespearean nor Keatsean, nothing of the kind.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1652.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Listen, the Sea\" [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1680.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And \"Marina\", who is a daughter of the sea.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1741.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Marina\" [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1749.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well something quite different. I think I should dedicate this to George Bowering, because I wrote the poem after I had been…",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1846.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And I would have to apologize for this, but the last thing in the world that I wanted to do was apologize, I'd prefer anything but that, I mean this is pretty simple-minded simplistic psychology, of the worst order I suppose, I just--I'm writing a poem about how stupid I felt at that particular moment.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1857.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Apology\" [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1877.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is the poem I like to think of as the one that one would put in a time capsule, it's called \"Letter to be Opened Later\" and presumably each one of us wants to immortalize oneself, and imagine, you know, two thousand years later the time capsule being opened and then they can read your letter. This is my letter, to be opened later.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2074.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Letter to be Opened Later\" [published later in Crusoe: Poems Selected and New ].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2112.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm going to read a lyric, it's a very short poem, but I'd like to read this one anyhow. It's called \"To My Children\" and it's based upon both an odd and rather terrifying coincidence in my life and a curious Jewish tradition. The Jewish tradition is that you name a child after the nearest dead relative, the relative who has died most recently and who is closest to one, and it so happened that my mother died, my daughter was born, my father died and my son was born. And I wrote this poem about the naming of the children. It's called \"To My Children\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2169.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"To My Children\" [from Black and Secret Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2228.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now I'm going to finish this reading with two poems, one is called \"The Meaning of the I Ching\" and the other \"Cosmos: the Giant Rose\"--three poems, I'm sorry. I'm going to read \"Pictures in an Institution\" as well. \"The Meaning of the I Ching\", the I Ching <sup><a href=\"https://www.wikidata.org/wiki/Q181937\">w</a></sup> as you probably know is a book of divination, it's the oldest book of divination known, and when I first heard about it, I looked at the book before I opened it and I wondered about the very simple notion of a book that old telling my future. How could I be contained in this ancient book? And I wrote this poem. Now it seems to me that there is something remarkable here, it's one claim I will make for the poem, at least, in the poem, is the first time I used the phrase \"earth upon earth\" and the very first hexagram that I cast when I opened the book. The book tells fortunes with what are called hexagrams and hexagrams are given various names, the very first one that I cast was the hexagram \"earth upon earth\" and that's simply something that happened whether it means that the poem is prophetic or magical, I don't know.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2280.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Meaning of the I Ching\" [from An Idiot Joy].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2376.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm going to finish now reading \"Pictures in an Institution\". This is the most personal poem I've ever written, and I don't want to read anything after that, so I'm going to finish with this. \"Pictures in an Institution\". I think all I need to say about this is that it plays off notices against some personal experiences and I think that'll be plain enough.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2598.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Pictures in an Institution\" [from Trio: First Poems by Gael Turnbull, Phyllis Webb, and Eli Mandel].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2623.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1--canvas-1-eli-mandel-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Eli Mandel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/eli-mandel-and-d-g-jones-at-sir-george-williams-university-the-poetry-series-7-march-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2860.0"
+        }
+      }
+    }
+  ]
+}
