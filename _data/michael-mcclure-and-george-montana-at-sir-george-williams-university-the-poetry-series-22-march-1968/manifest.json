@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Michael McClure and George Montana at Sir George Williams University, The Poetry Series, 22 March 1968" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5820.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/michael_mcclure_george_montana_i006-11-160.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 5820.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
