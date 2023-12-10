@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-17.json",
+  "type": "AnnotationPage",
+  "label": "Audience Member 17",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-17-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Um, the poems that you read tonight, would you consider those the best or the most significant ones from your collection, and if neither of those things, why did you select the ones that you read? The reason that I've asked that is because I've read your latest book quite carefully and I think that you read the, some of the best poems from it. I was wondering if you thought they were some of the best poems.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 17",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3502.0"
+        }
+      }
+    }
+  ]
+}
