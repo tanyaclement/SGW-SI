@@ -20,6 +20,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/daphne-marlatt-at-sir-george-williams-university-the-poetry-series-3-november-1970-canvas-1-audience-member-1.json",
             "label": {
               "none": ["Audience Member 1"]
