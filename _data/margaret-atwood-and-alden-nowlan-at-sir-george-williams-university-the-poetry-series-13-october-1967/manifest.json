@@ -8,6 +8,56 @@
         "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3699.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-end.json",
+            "label": {
+              "none": ["END"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-roy-kiyooka.json",
+            "label": {
+              "none": ["Roy Kiyooka"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood.json",
+            "label": {
+              "none": ["Margaret Atwood"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan.json",
+            "label": {
+              "none": ["Alden Nowlan"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/paintings",

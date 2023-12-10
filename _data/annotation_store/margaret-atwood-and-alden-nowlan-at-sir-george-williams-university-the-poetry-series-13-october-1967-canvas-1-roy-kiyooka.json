@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-roy-kiyooka.json",
+  "type": "AnnotationPage",
+  "label": "Roy Kiyooka",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-roy-kiyooka-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "...for quite a number of years as a journalist in the Maritimes <sup><a href=\"https://www.wikidata.org/wiki/Q731613\">w</a></sup>, and this evening he is here with his wife and son and will be reading to you. Ladies and gentlemen, Alden Nowlan <sup><a href=\"https://www.wikidata.org/wiki/Q4713563\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1438.0"
+        }
+      }
+    }
+  ]
+}

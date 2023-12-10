@@ -1,0 +1,1178 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan.json",
+  "type": "AnnotationPage",
+  "label": "Alden Nowlan",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you, Roy <sup><a href=\"https://www.wikidata.org/wiki/Q3445789\">w</a></sup>. First of all, I want to reassure everyone that I'm not going to read everything that's in this. I feel that probably there are some who are terrified when they see this, you know. It's really basically laziness that I haven't shortened anything out, I simply have wads of things here. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1466.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No no, not that one, I'm not going to read them all, definitely, definitely not. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1496.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "First of all I have a very, very bad poem that I can't resist reading. I realized that it's sort of a bad beginning to start off with a poem that the poet himself considers a very bad one, but I wrote this when I arrived here this afternoon. To the natural egotism of a poet, you see, I can't resist offering it to this sort of captive audience here. [Audience laughter]. \"Poem for the Ritz Carlton\". [Audience laughter].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1519.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poem for the Ritz Carlton\" [audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1566.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That isn't really as critical of the Ritz Carlton as it sounds, because I sort of like the crypt of St. Paul's Cathedral <sup><a href=\"https://www.wikidata.org/wiki/Q173882\">w</a></sup>, too, you see. [Audience laughter]. Next, I'd like to read some poems from my new book, Bread Wine and Salt, which is going to be published by Carter when, the first week in November, at three dollars and fifty cents. [Audience laughter]. That is the commercial.  \"I, Icarus\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1590.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"I, Icarus\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1635.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Sailors\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1714.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem is entitled \"The Cinnamon Bears\", which sounds at first as if it were some sort of an animal cooking. But actually, what these cinnamon bears were, was back around the turn of the century in New Brunswick <sup><a href=\"https://www.wikidata.org/wiki/Q1965\">w</a></sup>, as I've been told, there were all sorts of touring side-show type of things, you know, that, fortune tellers, and...people with a monkey, organ grinders with a monkey, and all this type of, sort of strolling pyres or wandering minstrels that existed up until the advent of radio and television. And it was a terrific thing, of course, in these backwoods communities. No doubt throughout Canada and the United States, when one of these people arrived. And among the, among these people were men who had trained bears, who, because of their colouration, were called cinnamon bears. And this poem actually is sort of a found poem, because it's not so much a creative thing as it is the transcription of a conversation which I happened to overhear between an old couple in northern New Brunswick. A man and his wife in their seventies, when they, suddenly something brought back these memories of these days of the organ grinders and the cinnamon bears. And as I say, I sort of made the poem more or less by simply transcribing the things which they said to one another, which it seemed to me was sort of a poetry, a form of poetry itself. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1806.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Cinnamon Bears\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1940.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Britain Street, St. John, New Brunswick” [published as “Britain Street” in Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2001.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is another, sort of a found poem, I'm not really terribly convinced that it's a poem at all. Last year, when I had a quite serious illness, one afternoon I was in the waiting room at the doctor's office, and the only thing that seemed to lay at hand for me to read was a copy of one of these Confessions magazines entitled Secret Life. [Audience laughter]. And as I glanced through it, it seemed to me, all that I actually read of it, you know, were these sort of captions at the top of the articles, and some of the big type in it. But it seemed to me really, as I glanced through it, that it had, that it contained sort of a crazy poetry of its own. At least, in the mood that I was in at the time, I sort of responded to it as though it were a crazy sort of poetry. And so as I sat there I sort of jotted down some of these things from the magazine, and ever since I've been trying to pass it off as a poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2062.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Secret Life\" [from Bread, Wine and Salt; audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2137.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"In Our Time\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2217.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Changeling\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2451.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Hollow Men\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2509.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem is entitled \"Ancestral Memories Evoked by Attending the Opening of the Playhouse in Fredericton <sup><a href=\"https://www.wikidata.org/wiki/Q2138\">w</a></sup>, New Brunswick\". And I'm a little afraid that many of you will feel that it is sort of pointless. I'm not sure really but what you'd have to be completely immersed in the atmosphere of New Brunswick to get the real point of it, but. But that said, not implying any superiority on the part of New Brunswickers, unfortunately. Anyway.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2558.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Ancestral Memories Evoked by Attending the Opening of the Playhouse in Fredericton, New Brunswick\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2606.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Every Man Owes God a Death\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2676.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem, for no particular reason, is entitled \"The Loneliness of the Long-Distance Runner\". ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2801.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Loneliness of the Long-Distance Runner\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2808.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem that came out of a serious illness that I had last year, and it's entitled \"In the Operating Room\". ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2903.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"In the Operating Room\" [from Bread, Wine and Salt].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2918.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I have a few other recent poems I'll dig out of these. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3005.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "As I sort through these, I'm silently cursing myself for not having done this before I came here. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3047.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Here's a fairly recent poem which isn't a political poem at all, but a human poem. And one that I wrote as a result of watching on television the debates in the United Nations <sup><a href=\"https://www.wikidata.org/wiki/Q1065\">w</a></sup> on the Middle East <sup><a href=\"https://www.wikidata.org/wiki/Q7204\">w</a></sup> crisis. And one of the horrible things I felt as I watched it was how completely dehumanized it all was, that the real, human issues had been lost sight of, and sort of drowned in an ocean of resolutions and memos from embassies and all this sort of things. And one night when they televised these sessions through until about four o'clock, the ambassador of Saudi Arabia <sup><a href=\"https://www.wikidata.org/wiki/Q851\">w</a></sup> spoke, and he delivered certainly a very bigoted speech, and one that as a speech I wouldn't have agreed with, but I felt an admiration for him, because it had seemed to me that he was the only really human thing that had happened there all day. You know, that certainly he was a bigoted old man, full of thousands of years of hatred, but it was a human hatred, expressed in a human manner, something that the rest of them had completely lost sight of. And as a result of this feeling I wrote this poem, \"For Jamil Baroody <sup><a href=\"https://www.wikidata.org/wiki/Q96384169\">w</a></sup>, Saudi Arabian Ambassador to the United Nations on the Occasion of his Address to the Security Council, June 1967\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3080.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"For Jamil Baroody, Saudi Arabian Ambassador to the United Nations on the Occasion of his Address to the Security Council, June 1967\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3201.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Fireworks\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3386.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Two Poems for the Nova Scotia Department of Highways\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3454.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Finally, this is a poem entitled \"State Visit\", and the motivation of it, like one of the earlier ones I read, was sort of this same feeling of frustration at the complete dehumanization of politics as we feel it today, and particularly, this sort of apotheosis of world leaders into some sort of a symbol, so they even, I think, begin to think of themselves in these sort of abstract terms, rather than as a human being. And out of--this is sort of, I suppose, perhaps to a degree sort of a bitter little poem, but it stemmed from an emotion which I'm sure many of us feel. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3571.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-alden-nowlan-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"State Visit\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alden Nowlan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3627.0"
+        }
+      }
+    }
+  ]
+}

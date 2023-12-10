@@ -1,0 +1,1217 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood.json",
+  "type": "AnnotationPage",
+  "label": "Margaret Atwood",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"This is a Photograph of Me\" from The Circle Game.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "22.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next poem is called \"Camera,\" and is dedicated to somebody I knew who liked to take pictures. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "95.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Camera\" [from The Circle Game].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "104.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And a small poem called \"Carved Animals\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "204.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Carved Animals\" [from The Circle Game].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now some more recent poems, which I should explain were mostly written in the United States <sup><a href=\"https://www.wikidata.org/wiki/Q30\">w</a></sup> when I was living there recently. The first one called \"At the Tourist centre in Boston\". Now Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup> does have a Tourist centre in Boston <sup><a href=\"https://www.wikidata.org/wiki/Q100\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "265.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"At the Tourist centre in Boston\" [published later in The Animals in that Country <sup><a href=\"https://www.wikidata.org/wiki/Q7713834\">w</a></sup>].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "290.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And a poem called \"The Green Man\", which is dedicated to the Boston Strangler <sup><a href=\"https://www.wikidata.org/wiki/Q2855440\">w</a></sup>. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "408.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Green Man\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "416.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem called \"A Fortification\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "483.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Fortification\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "488.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this is a poem dedicated to my landlady who didn't remain my landlady for very long, called \"The Landlady\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "557.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Landlady\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "569.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this poem called, \"A Foundling\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "647.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Foundling\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "652.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this poem, which has no title.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "701.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Untitled\"].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "709.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And a poem called \"Chronology\", which I wrote in one of my more paranoid states of mind. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "778.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chronology\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "786.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And here's my love poem to the, our large, friendly neighbour to the south. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "879.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Backdrop addresses cowboy\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "890.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then a slightly happier poem called \"A Voice\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "988.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Voice\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "996.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this one called, \"An Elegy for the Giant Tortoises\", which I wrote when I heard that they were planning to use a certain South Pacific island for the building of an airstrip. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1060.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"An Elegy for the Giant Tortoises\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1079.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this poem called, \"It is Dangerous to Read Newspapers\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1159.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"It is Dangerous to Read Newspapers\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1166.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"I was reading a scientific article\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1249.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And the last poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1340.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Reincarnation of Captain Cook\" [published later in The Animals in that Country].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1345.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967-canvas-1-margaret-atwood-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-and-alden-nowlan-at-sir-george-williams-university-the-poetry-series-13-october-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1424.0"
+        }
+      }
+    }
+  ]
+}
