@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-stan-persky.json",
+  "type": "AnnotationPage",
+  "label": "Stan Persky",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-stan-persky-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Beginning again and again is a natural thing, even when there is a series. Beginning again and again and again, explaining composition and time is a natural thing. It is understood by this time that everything's the same, except composition and time. Composition, and the time of the composition and the time in the composition. Everything is the same except composition and as the composition is different, and always going to be different, everything is not the same. Everything is not the same as the time when, of the composition, and the time in the composition is different. The composition is different, that is certain.\" Gertrude Stein <sup><a href=\"https://www.wikidata.org/wiki/Q188385\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stan Persky",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "103.0"
+        }
+      }
+    }
+  ]
+}

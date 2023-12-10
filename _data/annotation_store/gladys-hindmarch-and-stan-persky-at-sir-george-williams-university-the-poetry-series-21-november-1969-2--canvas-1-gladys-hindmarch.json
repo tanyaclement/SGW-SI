@@ -1,0 +1,203 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-gladys-hindmarch.json",
+  "type": "AnnotationPage",
+  "label": "Gladys Hindmarch",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-gladys-hindmarch-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When I whistle, just imagine that it's a very good whistler. \"They know what they're doing\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gladys Hindmarch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-gladys-hindmarch-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"They know what they're doing\" [published later as “Callback” in The Watery Part of the World].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gladys Hindmarch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "173.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-gladys-hindmarch-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That's the third in a group of stories, or series of stories that I'm writing. [Audience laughter]. I haven't got a title for this one, it's still in the first day on the trip but it's the seventh story. I call it \"The [Salad (?)] Story\" in my head but I'll have to find a title for it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gladys Hindmarch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "968.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-gladys-hindmarch-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Nothing is Simple\", published later in The Watery Part of the World].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gladys Hindmarch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1014.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-gladys-hindmarch-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Another, I've got lots of others, but I'm just going to read one other short one that's got a number of daydream passages that I don't think I--it's necessary to know which of the day--I mean you can, I think you can get it, it's just call it \"Number 12\" right now it also hasn't got a title. \"Outside deck scene\"--I guess that George <sup><a href=\"https://www.wikidata.org/wiki/Q1239280\">w</a></sup> didn't say, I used to work as a mess girl and a cook on a West Coast freighter called the Tahsis Prince, I worked on four or five of them because I was relief working, but the main one I worked on went up the west coast of Vancouver Island <sup><a href=\"https://www.wikidata.org/wiki/Q170479\">w</a></sup>, and not, they have great difficulty getting women to go out there, maybe obvious reasons in these stories so I could almost get a job on it, whereas the other ones I could get jobs if nobody was available, but since on this particular boat, usually nobody was available. One time I was leaving shopping in the Army and Navy and a guy came down the hall and said, Look you know, they're trying to get a hold of you, you've gotta go up there. And I said, come on, now, and sort of walked me back to the hall. And one Christmas run there were fifty one men--lots of people don't want to go out at Christmas, but a lot of the seamen, just work in the summer, so if they can get a job for two weeks they take it. They had fifty one cards on the board and not one of them--and there was a call for a cook, which was a girl's job and a call for an able seaman, and not one of the fifty-one men would go out on the boat--they got a guy who hadn't registered yet went out. This is an end of summer trip, it's not rough at all.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gladys Hindmarch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2010.0"
+        }
+      }
+    }
+  ]
+}

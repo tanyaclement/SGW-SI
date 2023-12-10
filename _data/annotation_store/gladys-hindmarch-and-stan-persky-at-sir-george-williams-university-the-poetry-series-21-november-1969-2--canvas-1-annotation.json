@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-annotation.json",
+  "type": "AnnotationPage",
+  "label": "Annotation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-annotation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"How It Feels”, published later in The Watery Part of the World].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Annotation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2142.0"
+        }
+      }
+    }
+  ]
+}

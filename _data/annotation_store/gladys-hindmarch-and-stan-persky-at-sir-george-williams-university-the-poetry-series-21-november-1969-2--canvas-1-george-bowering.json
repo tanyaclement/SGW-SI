@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-george-bowering.json",
+  "type": "AnnotationPage",
+  "label": "George Bowering",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2--canvas-1-george-bowering-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Another Vancouver <sup><a href=\"https://www.wikidata.org/wiki/Q24639\">w</a></sup> night in the series, this will be, this is the final reading of the fall series, and will be picked up again in January. As you know from the propaganda sheets, we're presenting what I consider to be the centre of the Vancouver writing scene. Gladys Hindmarch has been in that scene for ten years, and was associated with all those people who've got all kinds of names over the last few years such as West Coast movement and the Tish movement and the New Wave Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup> and that sort of business. And Stan Persky <sup><a href=\"https://www.wikidata.org/wiki/Q2330087\">w</a></sup>, was as much related if not more because he is also a sort of superstar of little magazines [audience laughter] in San Francisco <sup><a href=\"https://www.wikidata.org/wiki/Q62\">w</a></sup>, and made the usual move up to Vancouver, what, three years ago? And has now become the superstar of the Vancouver writing scene. What's going to happen is that the reading will be split into two pieces. At the beginning, Stan is going to introduce Gladys, and then there will be a break of about ten minutes, and then Gladys is going to introduce Stan. So, I'd like to give you \"Stan and Gladys Evening\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gladys-hindmarch-and-stan-persky-at-sir-george-williams-university-the-poetry-series-21-november-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
