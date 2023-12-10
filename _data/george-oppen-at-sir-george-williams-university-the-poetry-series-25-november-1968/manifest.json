@@ -28,6 +28,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-george-oppen.json",
             "label": {
               "none": ["George Oppen"]
