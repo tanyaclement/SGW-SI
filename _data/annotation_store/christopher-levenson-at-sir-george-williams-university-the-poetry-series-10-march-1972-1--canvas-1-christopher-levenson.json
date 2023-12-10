@@ -1,0 +1,983 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson.json",
+  "type": "AnnotationPage",
+  "label": "Christopher Levenson",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"The Facts of Life\" [from Stills].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And another poem that comes from the same sort of period, as I said, I like finding poems, and this one I found in the window of a pharmacy, this time they had notices saying 'watch for these danger signs', they were danger signs of cancer, and I call this little poem, which is, as I say, a political poem, so I won't explain the metaphor any further, \"Introduction to Cancer Diagnosis\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "59.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Introduction to Cancer Diagnosis\" [from Stills].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "92.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Another poem, \"Epitaph for a Killer\", I think you will probably remember the incident this starts from. Charles Whitman <sup><a href=\"https://www.wikidata.org/wiki/Q453209\">w</a></sup> going up the University library tower <sup><a href=\"https://www.wikidata.org/wiki/Q28403236\">w</a></sup> in Austin <sup><a href=\"https://www.wikidata.org/wiki/Q16559\">w</a></sup>, Texas and just picking a few people off with his telescopic lens gun. And the thing that struck me when I read these reports, as it so often happened with Richard Speck <sup><a href=\"https://www.wikidata.org/wiki/Q944350\">w</a></sup> and all those other sort of, mass killers, that people said, 'oh, but he was such a nice boy, such an ordinary boy' you know, 'such a decent lad'. You know, how could anyone so ordinary, you know if he had long hair, or if he'd been a hippie, we would have expected it. But you know, because they didn't go 'round the little- labels on them, they were expected to have conformed completely, and of course they didn't. \"Epitaph for a Killer\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "137.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Epitaph for a Killer\" [from Stills].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "212.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I always forget until I finish reading that poem that that last line is not self-explanatory. It's a disease--I think it's called Sickle disease--Pardon? [audience member addresses Levenson]. Sickle Cell Disease <sup><a href=\"https://www.wikidata.org/wiki/Q185034\">w</a></sup>, okay. Which apparently affects mainly African Negroes, and this is some sort of deficiency in the blood quite simply, but something which is totally inexplicable in the genes anyway. Alright, another, one more sort of pseudo or quasi political poem, this one is called \"Boreland Burlap\". Again, I don't know if you know exactly what I am referring to, but I think the poem explains it sufficiently, the way you get trees transplanted whole nowadays.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "289.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Boreland Burlap\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "365.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And now, a section of poems, well, I've put ironically, self-ironically, \"The Solution\" I mean, having presented some political problems--of course, there are no solutions. What I've tried to do in some of the poems I'm going to read now is simply to capture certain textures, or to suggest certain qualities that I admire, or certain aspects of character. The first, well I think probably the only rock poem I'm going to read this evening, called \"Fossil\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "425.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Fossil\" [from Cairns].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "477.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then, a short little poem called \"Moss\", I've got to find it. Well, come back to that in a minute as they say on CBC <sup><a href=\"https://www.wikidata.org/wiki/Q461761\">w</a></sup>. Oh here we are, I think, no. Yes, there we are, \"Moss\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "530.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Moss\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "562.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And now, \"Skyscraper\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "584.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Skyscraper\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "594.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Mediation on Trees\". This too, part of it is found, so to speak, found of all places, in 'Life’ <sup><a href=\"https://www.wikidata.org/wiki/Q463198\">w</a></sup>. The magazine 'Life', an article about a Japanese wood carver, and I'll try to indicate by the tone of my voice, which are the quotations, the rest of it's me of course. \"Meditation on Trees\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "622.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Meditation on Trees\" [published later in The Journey Back].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "663.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I just realized, I mentioned to one or two people that I was going to read a poem called \"Ottawa\" and I haven't read it, so I'll slip it in now.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "777.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Ottawa\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "787.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Another poem called \"The Face of Holland\", again concerned with certain characteristics, here I'm trying to identify national characteristics and the various sort of puns, hereto--I think the only thing I need to explain perhaps are the polders of course the land that originally reclaimed by the sea and now enclosed by dykes. I think the rest of it's self-explanatory.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "821.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Face of Holland\" [published later in The Journey Back].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "859.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I'll read three more poems if you bear with me, these come under the general heading of 'Art', really the relationship of art to life, though this first one is at least, would-be light poem, called \"The Quartet\", to Carleton, where I teach now. We have a series of concerts in the winter, and most of them are pretty good but one particular one wasn't and it set me thinking about the whole marvelous artificiality of chamber music in a way.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "947.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Quartet\" [from Stills].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "997.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then, a poem called \"Watch the Birdie\" which is about the cost of art in human terms. If you know what a sea urchin is like in its natural and in its final state, final [unintelligible] state, it'll help. You know they're all, like, sort of hedgehogs or porcupines and you have to scrape all the spines off and then gauge the insides out, but that's described in lurid detail.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1094.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Watch the Birdie\" [from Stills].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1142.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That sounds a bit pretentious, I'm afraid, those last four words in Latin, but it means \"you also\", or \"you likewise\", and I know gulls' cries don't really sound like that but, that seemed to me the briefest most concise way of making that point at the end of the poem. Finally, a poem which attempts to link love and art. Called \"Bathysphere\", or rather the kind of knowledge involved in both.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1218.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1--canvas-1-christopher-levenson-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Bathysphere\" [published later in Into The Open].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christopher Levenson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/christopher-levenson-at-sir-george-williams-university-the-poetry-series-10-march-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1271.0"
+        }
+      }
+    }
+  ]
+}
