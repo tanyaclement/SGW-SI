@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-.json",
+  "type": "AnnotationPage",
+  "label": "Gerry Gilbert ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Garden\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2255.0"
+        }
+      }
+    }
+  ]
+}

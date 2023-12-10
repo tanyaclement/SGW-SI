@@ -1,0 +1,1724 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert.json",
+  "type": "AnnotationPage",
+  "label": "Gerry Gilbert",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Her white face where I have seen Her ride the last bus, before\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "363.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A moving picture moves, it's the truth about movies\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "434.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"I REMEMBER TOOTSIE ROLLS when they were only in American comic books\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"London 1964\" [from Money]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "638.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"waitress calls the man in the corner, HARRY” [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "817.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"the pleasure. I said” [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "893.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Single Mens Unit\" from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1106.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Goodness and mercy are following me across the lake\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1393.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Bicycle\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"on the bed” [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1495.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1609.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"bone ring on my finger\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1683.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "We're reading Canadian history. A few of the poems from Phone Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1930.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads untitled poem from Phone Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1948.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads untitled poem from Phone Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1985.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads untitled poem from Phone Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2022.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads untitled poem from Phone Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2071.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads untitled poem from Phone Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2125.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads untitled poem from Phone Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2197.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads untitled poem from Phone Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2218.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem's called \"Garden\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2249.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"find your birds\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2390.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"sometimes I miss\" [from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2524.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Did I hear you say 'boiled skunks'? This is a little tale. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2826.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2964.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2985.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3102.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3292.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“SQUEEZE THRU THE TUBE” from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3412.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“24.11.70. TORONTO” from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3428.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The following is a Rochdale College <sup><a href=\"https://www.wikidata.org/wiki/Q14875408\">w</a></sup> council meeting. 23rd of November, 1970.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3479.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“ROCHDALE COUNCIL MEETING 23.11.70” and other untitled sections from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3488.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“QUIET” from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4201.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads untitled poem [from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4228.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“THE WEST IS ALONE SEA” from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4241.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “TICKET” [from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4257.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“2.1.71” from And]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4293.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“49th week 1970” from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4364.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “FRIED EGG SANDWICH ON BROWN” [from And].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4369.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [first section of “Babyland Blues” from Money]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5006.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5225.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [section of “Babybland Blues from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5272.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5324.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [final section of “Babyland Blues from Money].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gerry Gilbert",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "5344.0"
+        }
+      }
+    }
+  ]
+}
