@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Joseph Langland at Sir George Williams University, The Poetry Series, 8 March 1968" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 6455.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/joseph_langland_i006-11-126.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 6455.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
