@@ -8,6 +8,32 @@
         "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2406.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan.json",
+            "label": {
+              "none": ["Robert Duncan"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/paintings",

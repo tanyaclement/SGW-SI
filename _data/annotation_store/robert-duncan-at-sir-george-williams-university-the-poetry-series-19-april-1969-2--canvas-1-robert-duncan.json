@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan.json",
+  "type": "AnnotationPage",
+  "label": "Robert Duncan",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“The Fire, Passages 13 from Bending the Bow; recording begins abruptly].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "...beginning with a poem called \"Soldiers\", a poem in which, um, let's see, right, some lines of Victor Hugo <sup><a href=\"https://www.wikidata.org/wiki/Q535\">w</a></sup> enter, I decided I should, well, I guess, lets see, no I don't want to read too late, and soldiers is rather long again, so I want- certain themes that are moving in \"Soldiers\" will reappear. In \"Soldiers\", a recurring line was one from a poem of Victor Hugo's, \"Dieu dans [unintelligible] reve\", which is a line really quite in tune with my own poetics, \"God, oh creator the- or the creator for us too in oneself whose dream, whose work goes much further than our dreams\" and so it's combined with a scene that's Vietnam and it's combined in the Soldiers with the theme of the recognition that in some mystery of that work that goes further than our dreams the soldiers in Vietnam most of them, have just there, and they're 19 or 18 and so forth, they have only there in which to make their lives. And they have only there in which to, to take their souls in the war, as the followers of Orpheus take soul in the poem. The wood to take fire from that dirty flame. A recognition that that is their field in which they must reach life's epiphany and its thing. And the line of Victor Hugo carried me forward to and returned me to grand themes of Victor Hugo's but it also took me back to Vietnam <sup><a href=\"https://www.wikidata.org/wiki/Q881\">w</a></sup> and I wanted to give, before I read \"The Kao Dai\" a little sketch of that. There's a theme of Victor Hugo, by the way, of the fall of Lucifer <sup><a href=\"https://www.wikidata.org/wiki/Q185498\">w</a></sup> in which, Lucifer's falling into his own denial of God and in falling he opens the univ- creation, and but in his falling a feather breaks loose from his wings and is floating mid-air, and the sight of God descending falls upon the feather and it becomes light and it turns into an angel and that angel is Liberty and that angel's entire message is to transform the rage and wrathful light that had fallen upon it into the reunion and resurrection of Satan, but of course both Satan and God must be called from their wrath, to reconciliation, so this angel, Liberty and Freedom is also the angel of reconciliation and Victor Hugo knew that also there must be some explanation for the fact that the desire and yearning for freedom and liberty has always been wrathful. Blake <sup><a href=\"https://www.wikidata.org/wiki/Q41513\">w</a></sup> is puzzled by the same thing and I think that today, when all over the world, not only in Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup>, but in the United States <sup><a href=\"https://www.wikidata.org/wiki/Q30\">w</a></sup>, and in China <sup><a href=\"https://www.wikidata.org/wiki/Q29520\">w</a></sup>, and Yugoslavia <sup><a href=\"https://www.wikidata.org/wiki/Q36704\">w</a></sup> and Russia <sup><a href=\"https://www.wikidata.org/wiki/Q159\">w</a></sup> the wrath of Liberty is rising and it is the wrath of God against the civilization to its very roots which we know in our hearts are Godless. But that wrath must be reconciled, because it is itself that it's rising against and there's some mystery in this, so my poetry has begun to take up the figure of that angel and the angel comes into it. Now, in Vietnam, one of the strongest forces in the Viet Cong, not a communist group but a religious group, the Cao Dai <sup><a href=\"https://www.wikidata.org/wiki/Q470364\">w</a></sup> and in order to read more in deeper into the Cao Dai, I wisely, I think, went back to sources to the early thirties before Vietnam was quite the cause it is today, and found this story and it came quite in line with my kooky family and my own poetry because it was at a medium's table in 1925 on Christmas Eve, when Christ descended and speaking in French, as I usually put it when I read my, something worse than American French, a French man would feel that that was blasphemy, but I'm after all repeating Christ's words in his own voice so that might be more serious yet that that voice was being attempted. Christ came into the medium and renounced in my birth day for the spirit is descending upon Vietnam and when we remember what happened to the very first generation of Christians who were burned in rows as torches, what the promise of Christ meant to his immediate blessing, the powers of martyrdom. The promise of Christ in 1925 was amply fulfilled to his new disciples. So amply, as a matter of fact, the Cao Dai had more than come to my mind, because the cathedral town of Cao Dai, which is [unintelligible] indeed exactly like a Catholic nunnery or convent, or a Buddhist nunnery or convent is Communist, is the province of Tay Ninh <sup><a href=\"https://www.wikidata.org/wiki/Q36608\">w</a></sup>, and the Cathedral city of Tay Ninh, now it is been repeated over and over in American papers that when those planes were returning for missions in North Vietnam and hadn't dumped their missions, you're not supposed to return any bombs, you gotta dump them somewhere, so they'd dump them on Tay Ninh, you'd just go over the side and dump them on Tay Ninh, because this particular religious group was stubborn indeed in its inherences. Now, also interesting to me was this particular religious group had as its patron Saint Victor Hugo, and the first place that the French are, that the Vietnamese have French as their deepest religious and literary language and so Christ talked in French so Victor Hugo gave the whole line, it's Victor Hugo's Christ who talked to them at the medium tables in French, and they of course had their medium tables in the line of the tradition of Victor Hugo's own medium tables in the Isle of Jersey. So Victor Hugo becomes patron saint for these passages. In the passage, by the way, a passage called \"Orders\" and I will read a passage from it in which I am actually translating from Victor Hugo quite directly but it's a very long poem and keeping in tune with that master of the sublime is very difficult for us in the modern period. Here we are, the passage, wait a minute, it isn't in that poem, I always think it's in \"Orders\", but it's actually in place of a passage 22, that has the passage with Victor Hugo. I have been working on it for years, and it's mainly trying to keep in tune, I go over and over and over it again and then I find it very difficult to deal with 19th century poetry. But this is a passage straight translation, as literal as I could from Victor Hugo, but really, massive poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "792.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Soldiers\" [from Bending the Bow].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1271.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Charming little poem called the \"Twentieth Century\", in case you want to know where we are.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1334.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Twentieth Century\" [published as “The Light, Passages 28” in Bending the Bow].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1342.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll close with \"Stage Directions\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1827.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“Stage Directions, Passages 30” from Bending the Bow; begins mid-poem].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1833.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll add one more poem which has not been read aloud except at home today, this is one--I hope I've got the right note--this is a \"Structure of Rime\" that was composed on April Fool's day but it doesn't mean it isn't serious, I mean April 1st.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2292.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-robert-duncan-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Structure of Rime\" [unnumbered].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Duncan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2312.0"
+        }
+      }
+    }
+  ]
+}
