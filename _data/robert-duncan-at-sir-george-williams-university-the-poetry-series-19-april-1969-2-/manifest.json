@@ -33,6 +33,14 @@
               "none": ["Robert Duncan"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-duncan-at-sir-george-williams-university-the-poetry-series-19-april-1969-2--canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
