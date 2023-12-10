@@ -1,0 +1,752 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc.json",
+  "type": "AnnotationPage",
+  "label": "TOC",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reading “Invitation to Summer” [recording does not start at beginning of poem]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Invitation Au Voyage” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "69.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Invitation Au Voyage”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Long Nook” [Howard Fink list “One Look”] ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "195.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Long Nook”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “At Big Sur”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "278.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “At Big Sur”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "293.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Louise”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "312.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Louise”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "321.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Pool of Light”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "348.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Pool of Light”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "353.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Not For Marion” [Howard Fink List “I have found her snow white in my head”]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "374.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “For Marion”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "379.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Serpent’s Hiss”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "425.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Serpent’s Hiss”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "472.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Tuesday, 5 pm” [published as “Tuesday 7:00 PM”]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "517.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Tuesday, 5 pm”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "523.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Imperatrice” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "645.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Imperatrice”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "729.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Suicide” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "818.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Suicide”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "906.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces unknown poem, mid-sentence “About your pipes and mouth...” [Howard Fink first line “In patience wait the flooding...”]",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1024.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces unknown poem “I was born to be a priest...” [Howard Fink first line “There are holy orders in life...] ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1191.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads unknown poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1254.0"
+        }
+      }
+    }
+  ]
+}

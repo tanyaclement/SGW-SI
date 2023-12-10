@@ -25,6 +25,14 @@
               "none": ["Unknown"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/john-wieners-at-sir-george-williams-university-the-poetry-series-8-october-1966-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
