@@ -36,6 +36,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/muriel-rukeyser-at-sir-george-williams-university-the-poetry-series-24-january-1969-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/muriel-rukeyser-at-sir-george-williams-university-the-poetry-series-24-january-1969-canvas-1--muriel-rukeyser.json",
             "label": {
               "none": [" Muriel Rukeyser"]
