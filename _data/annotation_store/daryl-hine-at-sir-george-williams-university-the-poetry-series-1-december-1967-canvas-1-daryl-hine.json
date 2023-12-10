@@ -1,0 +1,1217 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine.json",
+  "type": "AnnotationPage",
+  "label": "Daryl Hine",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I thought I'd begin by reading some poems that I wrote when I lived in Montreal...if I can find some fuel. Poems that are in my second book, which I tend to think of as my first book, The Carnal and the Crane. I'll read the third and fourth of four fabulary satires.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "131.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Four Fabulary Satires” part III from The Carnal and the Crane.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "168.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And the fourth satire.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "291.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Four Fabulary Satires” part IV from The Carnal and the Crane.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "293.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The other poem that I'll read from The Carnal and the Crane is a one-sided dialogue called \"A Bewilderment at the Entrance of the Fat Boy into Eden\". It's in four fairly distinct parts. They're more distinct than the ordinary stanzas in a poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "416.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Bewilderment at the Entrance of the Fat Boy into Eden\" from The Carnal and the Crane.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "455.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A number of the poems in my next book, The Devil's Picture Book, were also written in Montreal, although the book was published about two years after I left Montreal and went to Europe. I'm going to read one of the longest poems in this book, which is called \"The Double-Goer\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "652.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Double-Goer\" from The Devil’s Picture Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "701.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Immediately following that poem in The Devil's Picture Book, which I feel is very accurately titled, immediately after that poem is another much shorter, and...perhaps not really simpler poem on the same subject, the subject which seemed to preoccupy me a great deal at the time and I'm glad to say no longer does. This poem is a villanelle, and it's called \"The Black Swan\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "991.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Black Swan\" from The Devil’s Picture Book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1032.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There's a...poem in The Wooden Horse that deals also, perhaps, I think, with the same subject, but in a different way, and at a different stage. It's called \"The Ouija Board\".  It may be that some of you don't know what an ouija board is, in any case, this one wasn't a real ouija board. We made it up using a teacup, an inverted, as I remember, cracked, willow-patterned teacup, on a round circular table top. Four of us operated this by placing a single finger each on the teacup, and we cut out letters of the alphabet and placed them around the table. I did this in company with a friend of mine who's done it for many years, and has developed such perfect communication with the other side that instead of getting the usual scrambled answers that people get in these attempted communications, he gets extremely long, involved, and very literate answers, rather in the style of his own prose writing....[audience laughter] which all purport, or most of them purport to come from a Greek or Roman character called, in this poem Io, he's actually called Ephraim, although perhaps I shouldn't mention it. Anyway, this is about a session with the teacup.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1118.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “The Ouija Board” from The Wooden Horse. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1215.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Perhaps as an alternative to all of this tinkering with the other side, I'll read a poem that is, most of it, very much about this side, called \"Bluebeard's Wife\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1314.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Bluebeard's Wife\" from The Wooden Horse.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1341.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The last poem I'll read from The Wooden Horse is the last poem in The Wooden Horse, and I beg your indulgence, as it's a trifle long. It's called \"The Wave\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1546.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Wave” from The Wooden Horse.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1577.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Four years ago I came back to Montreal on my first visit since I left rather quietly in 1958, and spent the next year after this return visit, which was very pleasant, although very brief, struggling with a poem which I think perhaps is still not quite finished, but I think will go either in this form or some other form into the next book. It's a poem, of course, about the impossibility of writing an autobiographical poem. And it's called \"The Apology\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1861.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Apology\" [published later in Minutes]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1916.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, I've returned to other places than Montreal [audience laughter], and two summers ago I went back just for the summer to Paris <sup><a href=\"https://www.wikidata.org/wiki/Q90\">w</a></sup>, where I lived for something more than, between three and four years, and I didn't like it very much. And these are two poems from a series that I wrote about not liking it. This one is called \"The Marché aux Puces and the Jardin des Plantes\"- the Marché aux Puces is of course the flea market, and the Jardin des Plantes is the botanical and zoological gardens, where I spent, in one place or other I spent most of my afternoons, that rather boring summer in Paris. Having the habit of working in the morning.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2153.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Marché aux Puces and the Jardin des Plantes\" [published later in Minutes; audience laughter throughout]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2213.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, I think perhaps I'll read three of these [inaudible]. The next one will seem familiar to, I'm sure, many of you. I haven't quite decided on a title, it might be called \"Jardin des Gourmets\", or it might be called \"Rendez-vous des routiers\" or something like that, it's about a certain sort of French restaurant.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2297.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Le Rendezvous des Gourmets\" [published later in Minutes; audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2322.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this poem isn't quite as funny [audience laughter], not that I really thought the last one was, but this one is really about Henry James' <sup><a href=\"https://www.wikidata.org/wiki/Q170509\">w</a></sup> novel, The Ambassadors <sup><a href=\"https://www.wikidata.org/wiki/Q650571\">w</a></sup>. It's also, of course, about being in any town in the off season, in this case, Paris, and of course, Paris in August is emptier than anywhere I've ever been. But, I imagine that other places in their off seasons are the same. It's called \"Clôture annuelle\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2418.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Clôture annuelle\" [published later in Minutes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2457.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I also, this year, or was it last, returned to my place of origin, British Columbia <sup><a href=\"https://www.wikidata.org/wiki/Q1974\">w</a></sup>. A [inaudible] which will be familiar to some of you as the site of the University of British Columbia <sup><a href=\"https://www.wikidata.org/wiki/Q391028\">w</a></sup>, I don't mean the University by any of the architectural things I mention in this poem, but I'm talking about the beach, a very beautiful, barren Pacific beach that lies below Point Grey <sup><a href=\"https://www.wikidata.org/wiki/Q16898567\">w</a></sup>. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2539.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Begins to read unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2585.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well...[shuffles paper] I'll read another version, I think. Excuse me. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2590.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“Point Grey”; published later in Minutes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2598.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2703.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The last poem I'll read, if I can find it...it is called...\"The Trout\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2772.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Trout\" [published later in Minutes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Daryl Hine",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2810.0"
+        }
+      }
+    }
+  ]
+}

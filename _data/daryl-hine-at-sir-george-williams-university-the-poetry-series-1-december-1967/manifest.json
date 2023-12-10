@@ -8,6 +8,40 @@
         "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2952.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-announcer.json",
+            "label": {
+              "none": ["Announcer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-daryl-hine.json",
+            "label": {
+              "none": ["Daryl Hine"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-margaret-atwood.json",
+            "label": {
+              "none": ["Margaret Atwood"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/paintings",

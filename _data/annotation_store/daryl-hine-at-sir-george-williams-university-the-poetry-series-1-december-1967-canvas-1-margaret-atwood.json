@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-margaret-atwood.json",
+  "type": "AnnotationPage",
+  "label": "Margaret Atwood",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967-canvas-1-margaret-atwood-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I first met Daryl Hine <sup><a href=\"https://www.wikidata.org/wiki/Q5226186\">w</a></sup> about six years ago in New York <sup><a href=\"https://www.wikidata.org/wiki/Q60\">w</a></sup>, where he was living in the midst of a colony of cockroaches, and on that occasion, he drank me under the table with more ease and urbanity than anybody that's been able to manage since, which is actually a literary comment on the way he writes poetry. It's a pleasure to welcome him back to Montreal <sup><a href=\"https://www.wikidata.org/wiki/Q340\">w</a></sup>, while attending the 'other' university here; before that he lived in Vancouver <sup><a href=\"https://www.wikidata.org/wiki/Q24639\">w</a></sup>, where he was born in 1936, and where he began writing poetry at the age of twelve, and publishing it in such magazines as Northern Review <sup><a href=\"https://www.wikidata.org/wiki/Q15757902\">w</a></sup> and Contemporary Verse at the age of fifteen. His first book, Five Poems, was published when he was eighteen, and his next, The Carnal and the Crane, established him as an important poet at age 21, when most poets are still cutting their poetic teeth. Since then, his career, like his poetry, has been international, rather than national. After becoming a college dropout, he traveled widely in Europe <sup><a href=\"https://www.wikidata.org/wiki/Q46\">w</a></sup> and then in the United States <sup><a href=\"https://www.wikidata.org/wiki/Q30\">w</a></sup>, producing, en route, four other books, The Devil's Picture Book and The Wooden Horse, both of which are poetry, The Prince of Darkness, a novel, and a travel book called Polish Subtitles.  He is currently awaiting the publication of his next book of poetry, to be called Minutes, while teaching in the English department at the University of Chicago <sup><a href=\"https://www.wikidata.org/wiki/Q131252\">w</a></sup>. He says that his plans for the future are vague, but he assures me that they include the evasion of Toronto <sup><a href=\"https://www.wikidata.org/wiki/Q172\">w</a></sup>. Ladies and gentlemen, Daryl Hine.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/daryl-hine-at-sir-george-williams-university-the-poetry-series-1-december-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "12.0"
+        }
+      }
+    }
+  ]
+}
