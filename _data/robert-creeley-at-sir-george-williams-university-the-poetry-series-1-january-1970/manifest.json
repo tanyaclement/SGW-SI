@@ -49,6 +49,14 @@
               "none": ["Unknown"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
