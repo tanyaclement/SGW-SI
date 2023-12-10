@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Charles Simic at Sir George Williams University, The Poetry Series, 19 November 1971 (1)" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2199.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/charles_simic_i006-11-115-1.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2199.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-1-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
