@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2--canvas-1-stanton-hoffman.json",
+  "type": "AnnotationPage",
+  "label": "Stanton Hoffman",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2--canvas-1-stanton-hoffman-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The second reader of this evening, Dick Sommer, was born in St. Paul <sup><a href=\"https://www.wikidata.org/wiki/Q28848\">w</a></sup>, Minnesota <sup><a href=\"https://www.wikidata.org/wiki/Q1527\">w</a></sup>, and educated at the University of Minnesota <sup><a href=\"https://www.wikidata.org/wiki/Q238101\">w</a></sup> where he most recently returned as a visiting Assistant Professor of English, and at Harvard <sup><a href=\"https://www.wikidata.org/wiki/Q13371\">w</a></sup>. In 1958 he was a recipient of the Academy of American Poets <sup><a href=\"https://www.wikidata.org/wiki/Q282096\">w</a></sup> Prize, and over a period of several years published his poems in the Harvard Advocate. He has given readings in Cambridge <sup><a href=\"https://www.wikidata.org/wiki/Q49111\">w</a></sup>, Minneapolis <sup><a href=\"https://www.wikidata.org/wiki/Q36091\">w</a></sup>, and in Oslo <sup><a href=\"https://www.wikidata.org/wiki/Q585\">w</a></sup>. Also, he does not want me to mention his scholarly publications: Dash, Which Are, Strangers and Pilgrims, an essay on the Metaphor of the Journey written with Georg Roppen <sup><a href=\"https://www.wikidata.org/wiki/Q23944662\">w</a></sup> and published by the Humanities Press <sup><a href=\"https://www.wikidata.org/wiki/Q97958829\">w</a></sup> in New York City, as well as by the Norwegian University's Press, in Norway <sup><a href=\"https://www.wikidata.org/wiki/Q20\">w</a></sup> and A Monograph, the Odyssey and Primitive Religion, published by the University of Bergen <sup><a href=\"https://www.wikidata.org/wiki/Q204457\">w</a></sup> in 1962. Ladies and gentlemen, Mr. Dick Sommer.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanton Hoffman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
