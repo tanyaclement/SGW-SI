@@ -1,0 +1,2114 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch.json",
+  "type": "AnnotationPage",
+  "label": "Kenneth Koch",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The first poem I'll read is called \"Spring\". ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "64.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Spring\" [from Thank You and Other Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "68.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next poem I want to read is called \"Variations on a Theme by William Carlos Williams\". I love Williams' <sup><a href=\"https://www.wikidata.org/wiki/Q178106\">w</a></sup> work, and I usually only write parodies of people whose work I like a lot. This parody is based on a poem of Williams, well, actually, on a certain characteristic I saw in Williams' work for a long time which I like, which is sort of, the idea that if you really like something enough and if you want to do it enough, it's okay to do it. And I saw certain insane possibilities of this viewpoint. This is specifically a parody of a poem which goes, \"This is just to say I've eaten the plums in the icebox and which you were probably saving for breakfast. Forgive me, they were so cold and so delicious\". It's really a nice poem, but it seemed to me there was a little streak of insanity running through it. It's called, \"Variations on a Theme by William Carlos Williams\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "156.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Variations on a Theme by William Carlos Williams\" [from Thank You and Other Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'd like to read another short poem, this is called \"You Were Wearing\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "273.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"You Were Wearing\" [from Thank You and Other Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "278.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm trying to find the ideal lights still, it’s--okay, I think that's probably a bit better. The next thing that I want to read is a play called \"E.KOLOGY\". It's...E.KOLOGY is the name of the hero, it's like capital \"E,\" period, capital \"KOLOGY.\" I'd like to say something about this play. I read it at the University of Chicago <sup><a href=\"https://www.wikidata.org/wiki/Q131252\">w</a></sup> last year, and some students thought that I was making fun of the ecology movement. I'm not, and I would see to it that if it were produced that that was not the case. It just seemed to me that the ecology movement was such a, like a natural cause for pleasure that it wouldn't really do to be totally solemn about it. The, I wrote this to be performed on Earth Day <sup><a href=\"https://www.wikidata.org/wiki/Q124473\">w</a></sup>, in New York last year in April, but they were supposed to have all these things in Union Square <sup><a href=\"https://www.wikidata.org/wiki/Q110007\">w</a></sup> and it just ended up being a lot of light shows and speeches, I think, because they couldn't get the actors together and the lights and the stage and everything. It was done in Philadelphia <sup><a href=\"https://www.wikidata.org/wiki/Q1345\">w</a></sup>, did anyone see it, by any chance? Probably not. I didn't see it. I didn't even know it was done. In any case. E.KOLOGY. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "397.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads E.KOLOGY - Act One, Scene One [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "464.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads E.KOLOGY - Act One, Scene Two [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "578.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads E.KOLOGY - Act One, Scene Three [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "679.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads E.KOLOGY - Act Two [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "726.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads E.KOLOGY - Act Three, Scene One [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "834.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads E.KOLGOY - Act Three, Scene Two [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "864.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads E.KOLOGY - Act Four [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "964.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads E.KOLOGY - Act Five [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1050.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "While you're in the mood for theatre, I'll read a film script I wrote which I'd be delighted if someone would do. No one's ever done it. Apparently it would cost a great deal to do this, although it's very simple. It's called “Youth”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1184.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Youth\" [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1197.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I don't hear any takers unless...Let's see. This is a very short poem called, \"Poem\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1296.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poem\" [from The Pleasures of Peace and Other Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1313.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This, this poem is called \"Ma Provence\", and my interest in writing it was the different way that French and English sound to me. \"Ma Provence\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1331.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Ma Provence\" [from The Pleasures of Peace and Other Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1343.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I usually translate the French, but I guess here I don't really have to. I'll read a...the French is very banal, it means, \"In my Provence the wheat is always green, the girls are pretty, they love me madly, they never die in my Provence\". This poem is called \"Great Beauty\". ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1372.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Great Beauty\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1394.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem is called \"Little Known Historical Fact\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1411.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Little Known Historical Fact\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1415.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Charlemagne <sup><a href=\"https://www.wikidata.org/wiki/Q3044\">w</a></sup> is an Italian. [Audience laughter]. This is called...\"Getting Back on Land\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1428.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Getting Back on Land\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1446.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This, the next thing I want to read is part of a long poem I've been writing in the last year. George <sup><a href=\"https://www.wikidata.org/wiki/Q1239280\">w</a></sup> mentioned an epic poem I wrote called “Ko”, which I wrote about, oh twelve or fourteen years ago, and it's a poem...that's “Ko”, there it is, and it's about a hundred and twenty pages, it's in ottava rima, which is a stanza that Ariosto <sup><a href=\"https://www.wikidata.org/wiki/Q48900\">w</a></sup> used in Orlando Furioso <sup><a href=\"https://www.wikidata.org/wiki/Q48922\">w</a></sup> and it's also the stanza that Byron <sup><a href=\"https://www.wikidata.org/wiki/Q5679\">w</a></sup> used in Don Juan <sup><a href=\"https://www.wikidata.org/wiki/Q1245187\">w</a></sup>. It rhymes ABABABCC. And...I really like “Ko” a lot. It's a poem about a, the main character is a Japanese baseball player, a pitcher, who throws the ball so hard he knocks the grandstand down with every pitch. And there are a lot of other characters in it. When I wrote the poem I really was very happy, I was living in Florence <sup><a href=\"https://www.wikidata.org/wiki/Q2044\">w</a></sup>, in a villino, and, sort of outside of town on the Viale Michelangelo, and what I tried to do in “Ko” is like to put in every pleasant thing I'd ever experienced in my life, and the poem is kind of happy and optimistic. And I always wanted to continue it, because I liked writing that way. And I never could, because the continuation was always sort of in the style of “Ko” exactly and not as good. It sort of lost that particular feeling. Then I finally was able to start doing it again, recently, but I noticed as I went on writing the poem that it had changed a good deal, that my idea about life and the world was not quite the same, naturally, partly because it changes in me, and partly because it changes in the world, but I don't want to get into metaphysical questions. In any case, the first thing I want to read from this poem is the, like the “Prologue”, which explains my problems in continuing this very happy poem fourteen years afterwards. The only, I think the only thing that needs explaining that I haven't explained is that “Ko” ends with the line, \"Huddle, meanwhile, was flaking at the knees.\" Now Huddle is a, like an Englishman in “Ko” who dies of mold fever in Rome <sup><a href=\"https://www.wikidata.org/wiki/Q220\">w</a></sup>, and when he dies he turns into a statue which is set up near the Villa Giulia <sup><a href=\"https://www.wikidata.org/wiki/Q964499\">w</a></sup> in Rome. And all of the other characters that have been killed sort of turn into statues and start coming back to life, and this is a sign that Huddle is coming back to life but he's flaking at the knees. In any case, that's referred to at the beginning of the “Prologue”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1469.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Prologue\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1620.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That's the end of the “Prologue”. I want to read the first episode in the poem, now. I realize there was another, perhaps incomprehensible thing in the “Prologue”. Pana Grady...Pana Grady's apartment was a place on...Central Park West <sup><a href=\"https://www.wikidata.org/wiki/Q2738041\">w</a></sup> where a lot of parties were held for Upper and Lower Bohemia in the days...well, it was about five or six years ago. Anyway. That's the end of the “Prologue”, which I'm not sure I'm finally going to attach to the poem, since I usually eliminate prologues. And this is the beginning of the poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2048.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Episode I”].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2095.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That's the end of the first part. To tell you what happens in this poem would take as long as reading the whole poem, which I don't have time to do. I think I'd like to read some brief, improvisational plays. I wrote these plays to be done at The Living Theatre <sup><a href=\"https://www.wikidata.org/wiki/Q1202416\">w</a></sup>, though I knew they wouldn't do them. Somebody asked me to write some improvisational plays, it's really, it's really great, you know, writes it with some actors that want to do it, and I'd, I'd seen some improvisational plays and it seemed to me that the only emotions that actors could improvise were...let's see, passion, nostalgia, self-hatred, anxiety, and then make narcissism and then make topical references, and I decide to really throw sort of a curve at actors and give them something that would really be hard to improvise. My penalty has been that these plays have never been done. The first one I'd like to read...I'd be very glad if they were, could be given a premiere here in Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup>. \"Mexico City\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2467.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Mexico City\" [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2538.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next one is called \"The Lost Feed\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2593.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Lost Feed\" [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2596.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next play is called \"Coil Supreme\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2652.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Coil Supreme\" [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2657.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The last improvisational play I'll read is the one that has always moved me the most at the thought of production. It's called \"The Gold Standard\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2688.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Gold Standard\" [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2697.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I'd like to read a rather long poem called...my present plan, which--I don't want to really ruin people's evening, since I didn't start until 9:30, I think the poems that I would like to read will last until 11. So, it's twenty-five after ten now, I don't want to keep anybody up to late or anything. [Audience laughter]. If...Don't feel bad about leaving if you have to go, I want to read these two rather long poems. This is called \"The Pleasures of Peace\". I should say something about this poem, I wrote it...I started to write it, oh, three years ago, or whenever it was, maybe it was four years ago, but it took me a long time to write it. I guess about three years ago I started. It was at the moment of the, when there really was a lot of happiness in the peace movement in the United States. And it was like the first Peace Marches on Fifth Avenue, and people were jumping up and down for peace, and dancing for peace, and it really seemed as though what people were doing was going to do some good. And I remember feeling very excited in the first set of mass peace activities I was in because, being a poet, and having been brought up in America and everything and like almost all the other poets and artists I knew I sort of felt like a social outcast a little bit. And then I found, in the midst of the peace movement, like there were hundreds of thousands of people who sort of felt the same way about a lot of things, it was nice. And there was something very sort of grand and exciting about the peace movement which does not have anything to do with the issues at all, it was just a lot of fun. In a way it was sort of...it was very pleasant. There were a few other things that motivated this poem. One was I was very annoyed at a lot of my fellow-poets who were going around, giving, in groups to colleges, giving poetry readings for peace. Now there were two things about this that annoyed me, three things. One was that I wasn't doing it. But that, I think, was a minor thing  A second thing was that...who did they really think they were trying to convert, like college students who came to poetry readings? I mean, college students who come to poetry readings are not usually in favour of war. And in the second-place, all the poems they read for peace were the sort of things that would make you want to go out and kill people, like \"Lyndon Johnson <sup><a href=\"https://www.wikidata.org/wiki/Q9640\">w</a></sup>, you, fuck the pregnant woman who's lying with her guts streaming out,\" [audience laughter] and they weren't, they didn't really...they didn't really seem like peace poems to me. It...And I felt it was sort of exploitative on their part to do that. So I wanted to write a--I'd never written a political poem and I wanted very much to write a poem, I had very strong feelings about the Vietnam War <sup><a href=\"https://www.wikidata.org/wiki/Q8740\">w</a></sup>, and I wanted to write a poem against the war but which really, was really a poem, a positive poem about peace. I found it terribly hard to do, and I never worked so long on any poem. The fact that I worked so long on it does not mean that it's any better than anything else I ever wrote, but it was just hard, because I kept trying to put in sort of, things about suffering and so on, and they would jump out of the poem the way an artificial heart, I mean the way a transferred heart is sometimes rejected by the body. And I realized I was sort of stuck with writing a poem that was, like, one of my poems, it was really sort of a positive poem about peace. Another problem is that if you write a poem about the pleasures of peace it means you're writing a poem about the pleasures of life. And it's endless, in any case. That's about enough of that for now. It took me over a year to write, it was mainly the last part I couldn't write, since I didn't want to have sort of a literary copout at the end, and I didn't want to sort of end up, oh well, anyway. It's just a poem. The only thing--I got varied reactions to the poem. One...some dopey poet friend of mine came over and said, \"Boy, you really put the peace movement down\". And I haven't spoken to him very much since then. But then, a better reaction was that I got, some guy called me up and asked me if he could use this poem as his draft resistance statement. And I said you're going to languish in prison for a long time because, you know, judges don't like poetry. But anyway. Now just forget everything I've said [audience laughter] and I'll read this poem. And there's a pause. \"The Pleasures of Peace\". Oh! Another thing. [Audience laughter]. I read this poem in London <sup><a href=\"https://www.wikidata.org/wiki/Q84\">w</a></sup> last year, and I got this dopey review in the Times <sup><a href=\"https://www.wikidata.org/wiki/Q50008\">w</a></sup> by, who was it....I'm not sure. And he said, \"Kenneth Koch's 'Pleasures of Peace' is a very interesting poem but since he mentions the name of all his friends which we can't be expected to know”--like about 90% of the people in this poem are imaginary. They, they're not my friends. [Audience laughter]. Okay. Like Georgio Finogo is not a real person, okay?. \"The Pleasures of Peace\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2754.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Pleasures of Peace\" [from The Pleasures of Peace and Other Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3075.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4275.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I want to read another poem which will take about seven minutes, but just to rest up I'll read a short poem...I can't find one short enough...Oh, this is called \"An X-Ray of Utah\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4282.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"An X-Ray of Utah\" [from The Pleasures of Peace and Other Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well that's the shortest poem I ever wrote. [Audience laughter]. Except, there's one that's not in any of my books which is called \"Tennis\", which is the same length. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4328.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Tennis\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4339.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh, I think I'll read a few movie scripts. I'll just read a few. This is really for, this is from something called \"Ten Films\", but I'll just read a few of them, which are my favourites. One of the films is called \"Sheep Harbour\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4349.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Sheep Harbour\" [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4364.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Like, the camera could sort of show this for a long time.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4377.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Oval Gold\" [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4383.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll just read one more of these films. This is called \"The Cemetery\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4399.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Cemetery\" [published later in A Change of Hearts: Plays, Films, and Other Dramatic Works 1951-1971].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4404.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll read this one last poem which is called \"Sleeping with Women”.  \"Sleeping with Women\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4429.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971-canvas-1-kenneth-koch-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Sleeping with Women\" [from The Pleasures of Peace and Other Poems].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Kenneth Koch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/kenneth-koch-at-sir-george-williams-university-the-poetry-series-19-february-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4434.0"
+        }
+      }
+    }
+  ]
+}
