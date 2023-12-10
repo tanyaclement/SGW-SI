@@ -20,6 +20,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972-canvas-1-audience.json",
             "label": {
               "none": ["Audience"]
