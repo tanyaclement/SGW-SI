@@ -12,6 +12,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-kelly-at-sir-george-williams-university-the-poetry-series-4-november-1966-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-kelly-at-sir-george-williams-university-the-poetry-series-4-november-1966-canvas-1-robert-kelly.json",
             "label": {
               "none": ["Robert Kelly"]
