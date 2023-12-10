@@ -1,0 +1,1997 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley.json",
+  "type": "AnnotationPage",
+  "label": "Robert Creeley",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Let me. \"On Vacation\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "108.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"On Vacation\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "155.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll read one more poem, I made it up all by myself, that's the only thing... \"Do You Think\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "175.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Do You Think...\" [published later in A Day Book].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "183.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's like a Latter Day <sup><a href=\"https://www.wikidata.org/wiki/Q42504\">w</a></sup>quote, no it's like a--I've got a noun [unintelligible].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "291.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This has nothing in the glasses, nothing in the glass, that's the problem. I want to read, frankly an old and dear friend Robin Blaser <sup><a href=\"https://www.wikidata.org/wiki/Q2115003\">w</a></sup>, an old and dear friend, a man I much respect and care for just happens to be in the room, I haven't seen him since, like, almost, it feels like 20 minutes ago. But I want therefore to read a few poems that are more recent in composition. \"The Act of Love\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "303.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Act of Love\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "350.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then I'd like to read another poem because frankly Robin is a very particular friend, and not will know simply the information I'm trying to get clear, but will know the, you know, you like to read for people, shit, you know. \"The Birds\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "475.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Birds\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "499.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then that--\"things seem empty on vacation, if the labors have not been physical, then, some awful grating sound as if some monstrous nose were being blown...\" [begins to read “On Vacation”]--no I've read that once, I won't read it again. But I wanted to read the most recent--I used to have, not an ambition, but I had a lovely sense of Allen Ginsberg's <sup><a href=\"https://www.wikidata.org/wiki/Q6711\">w</a></sup> freedom in writing, happily, he's been here not too long ago. And I mean, Allen is a true contemporary, simply that we were born within say, what he's born--his birthday is June 3rd and mine's May 23rd of 1926 and we're, you know, we're very close in time and space. I used to have a sense of not Allen's permission in writing, I mean that permission doesn't exist. I mean, you write what you are given thus to write, nobody designs this occasion, nobody has the authority of it, and I did in a weird way, I envied Allen's ability to be where that situation might occur, you know. Like he could really write any moment, any place, anywhere, and so recently flying. In fact, last week, flying out to Los Angeles, not to Los Angeles, to San Francisco, I'd been awfully harassed in particular dilemmas of responsibility and suddenly sitting on the plane. There was this delicious space, you know, made peace with the plane by drinking everything they would give you instantly and having entered with some. I remember watching Warren, an old, dear friend get on a plane with like, four double vodkas. You know, I said \"Warren, you're going to get drunk\". He said, “No I'm flying back to Vancouver”. Like you mistaked the occasion, you know. And so, I get on the plane, and I thought, “well I can do this too”. And I wrote, my Bobbie who is a friend indeed of Robin's and myself. I'm literally her husband and Robin is a friend in that, what am I? I'm not going to propose that we're--no, but I think it's true. It has nothing to do with fucking. It has to do with the ambiance and reality of another human being. I think we share that reality in her. And she had gotten ill, unhappily and in some unexpected manner and then happily is now okay, but it was a crazy moment of dilemma. \"An Illness\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "598.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"An Illness\". ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "772.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And I'm going to read a few more for Robin, and then, \"The Problem\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "955.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Problem\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "966.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Tiger\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1004.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What is reality--this is crossed out--[Reads excerpted material from “The Tiger”]. “What is reality we thought, who is here, we could smell the freshness of the jungle growth and would have been eaten by the tiger were it hungry” [audience laughter]. It's all crossed out. I'll read, this is--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1029.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1058.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Not Being Dumb\"--this is, these are three things together.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1113.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Not Being Dumb”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1116.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Harry\"].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1178.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Let me just, may I just read around, because these are, like, poems of like the last few months. This was a poem that is variously titled \"Sweet Dreams, Good Harbor Beach\". This is a place in Gloucester <sup><a href=\"https://www.wikidata.org/wiki/Q49156\">w</a></sup>. It therefore has a physical location.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1186.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Sweet Dreams, Good Harbor Beach\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1204.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I want to read one sequence of, a cluster of particular writing, I won't even have the arrogance to say these are necessarily poems. But the, because I don't in that sense, these are a sequence called \"In London\". And I had, I'll tell you, physically, the circumstance was that I was in London <sup><a href=\"https://www.wikidata.org/wiki/Q84?wprov=srpw1_0\">w</a></sup> for five days last summer for a particular activity and I have happily a number of friends in London. Therefore, generously and, actually my time is really filled with seeing particular friends or else having particular business to conduct, and that's one, frankly, one of the satisfactions of one sense of what my life has to do with its own occasion, to have use and to have place. Not to say, “Gee, you're back again. We've kept the table. We've kept the seat for you”. But to have an occasion that actually gives you place in the world is always a delight. And so therefore, I was there briefly and this particular morning, there was to have been a, actually, a recording and it turned out the circumstances of the recording hadn't worked out. So the people involved did not come and so there was a space of three hours in which I was staying at this friend's apartment in London on Wimpole Street, 76 Wimpole Street, just around Oxford Street. You know the neighborhood possibly. And it's a dazzling part of London for an American. Particularly, I mean, it's like Barrets and Wimpole Street and the whole bit, Paul McCartney <sup><a href=\"https://www.wikidata.org/wiki/Q2599?wprov=srpw1_0\">w</a></sup> had a place, like two blocks--did have a place two blocks--and the whole bit. You know, and it's very dazzling, and I was in this apartment and I was sleeping actually on the couch of this particular friend, and there were other beds available, but I did not manage. I was not aggressive, so therefore I slept on the couch. It was a heavy time for everybody, and I was thinking of Jim dying, you know whose “A Retrospective of the Whitney” has just opened. And I was staying, actually, with the wife of a publisher who happily I have in London, John Calder <sup><a href=\"https://www.wikidata.org/wiki/Q6224786\">w</a></sup> and Marion Boyars <sup><a href=\"https://www.wikidata.org/wiki/Q18674153\">w</a></sup>. I was thinking of John Calder's apartment and John and his wife unhappily were having a, I mean, it's ridiculous, I'm not going to rehearse the whole situation of their lives, man. Like we've got enough to enter my own in that way, but the point is that I was sleeping on their couch, right? Everybody had left for their various activities and I was to meet these people to come in and set up this recording equipment and have this scene, and they didn't show up. And I had literally like two or three hours just in that apartment. I was padding around the place in my jammies, feeling beautifully luxurious and relaxed in London, you know, like digging out the window. I'd been the night previous reading at an International Festival of Poetry on a beautiful occasion, and I'd gone over. Jim Dine <sup><a href=\"https://www.wikidata.org/wiki/Q531234\">w</a></sup> is frankly a friend from the States and I'd called him up, he's living in, where the hell does he live, Grosvenor square <sup><a href=\"https://www.wikidata.org/wiki/Q932992\">w</a></sup>, he's like in that district. He's living next to the Uruguay Embassy, like it's a very- he's running a house that somebody is trying to sell, but they can't find an appropriate buyer. Mick Jagger <sup><a href=\"https://www.wikidata.org/wiki/Q128121\">w</a></sup> wanted to buy the house, but they didn't want a rock singer, and then the Nigerian Embassy wanted to buy the house but they didn't want to sell, you know. It was a whole trip. So Jim Dine has maintained the premises. So I go there and say \"Terrific\" and \"Wow\". We do the whole American bit, which is frankly to get over excited instantly, and to eat, drink, and be merry with an absolute insistence. And we're now driving over to make the Royal Festival Arts blah, blah, blah scene. And for an American it's a heady trip. I'm going to read now in company with the company of four other people, as part of the International Festival of Poetry and they're having this scene at a place, those of you who know London, they're having a scene at the Queen Elizabeth Hall <sup><a href=\"https://www.wikidata.org/wiki/Q1622428\">w</a></sup>, that's part of the festival, you know like, complexes across the Thames <sup><a href=\"https://www.wikidata.org/wiki/Q19686\">w</a></sup> from the Parliamentary buildings, Tower of London <sup><a href=\"https://www.wikidata.org/wiki/Q62378\">w</a></sup>, all that. So we're driving  through late London afternoon in July, delicious, I mean, the sun is fading in over those buildings the whole, oh wow, you know, just blow your mind. It's just fantastically tender and real, and that's where Raleigh <sup><a href=\"https://www.wikidata.org/wiki/Q189144\">w</a></sup> was imprisoned in the Tower, and that's you know, fantastic. We arrive in absolutely pristine condition, and it took about two minutes to 'x' it all out. So the first two poems--it says “Festival Hall London”, like a note to myself on the side, and the first two poems--like the unrelieved tedium of the evening was just fantastic. I talked to a reporter of like a red rag, a socialist paper in London later. He said, “I don't see any reason why you should show up, Mr. Creeley, before you're required, your presence is literally required”. You know, so I said, “Do you really think that's possible? Do you think I really could do that?”. He said “I don't see any reason why your condition and duty doesn't permit that kind of occasion”, and I said “The hardest thing man is to sit there for like, it isn't the tedium of the people, it's the tedium of the occasion, it's like all these people. I have to have a rock in my pants that I thought it was hashish but it's actually three million, billion years old, it's a worm. We've got time, right?”. So he said “You don't have to”--what was your experience--he's trying to get some, you know he's trying to get some sense of the work as we're not permitted into the reading or something [audience laughter] and I quote the work as we're like generously absent from the reading, like you don't have to do that too, there's going to be a condition of that experience. \"In London\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1275.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"In London\" [from In London]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1710.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This was, like in this absolutely [unintelligible] environment you suddenly look around and see this exit, exit, exit sign red, exit, exit, exit, exit. There was a titter that ran through the audience and then there was nothing more. \"Cards\". This is now back in the apartment.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1719.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"In London\" [from In London]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1738.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now, I'll read the crossed out portions. \"There are people in the sky, now you see them, now you don't, won't you take me to my home, and let me play among the stars. The final fears of all the years are met in you tonight.\" This is, this flows out on vague rhythms. “12:30” written as Arabic numerals, read as 12:30 words.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1803.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Interrupts reading]. You know that scene when you're in a city and know one or two people, keep calling up, \"Well, Ted is sober\", [unintelligible] [audience laughter] and I said \"Man, I was there, I know how tired he is, I'm awake\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1836.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"In London” [from In London].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1850.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Interrupts reading]. This was a girl who played the lead in The Beard, actually, in the initial San Francisco <sup><a href=\"https://www.wikidata.org/wiki/Q62\">w</a></sup> production who was now working in London playing the same part. Lovely young woman, Billy, trying to remember her last name, very soft and pleasant...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1859.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"In London” [from In London].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1875.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Interrupts reading]. Let me interpolate, Chamberlain <sup><a href=\"https://www.wikidata.org/wiki/Q468760\">w</a></sup> at one point had a weird erotic scene where they were making love by telephone. Have you ever tried that number? So John was was making things like sperm omelet, like he really, somehow it arrived in his madness of mid age, and decided that he was really going to go for broke in terms of sexual possibility. You ever see a man from Indiana take off on the possibilities of sexual endeavor? It's like- so John, Ultra Violet was the perfect foil for this condition. Ultra Violet <sup><a href=\"https://www.wikidata.org/wiki/Q272994\">w</a></sup>, if you've seen, you must have seen her on the Merv Griffin Show <sup><a href=\"https://www.wikidata.org/wiki/Q3404046\">w</a></sup>, Ultra Violet like is like the most humorless, John had a tape of her singing \"The Fool on the Hill'' <sup><a href=\"https://www.wikidata.org/wiki/Q1920202\">w</a></sup> that went on for weeks. It was like years would pass by. “Ze fool on ze hill”, you know. With this incredibly corny french accent. \"Ze fool on ze hill\" I remember, and he had a scene where they would make love like- I remember one time, the only, the first time I met- oh christ, I'm suddenly flipped out in my own mind, oh hell. It's ridiculous. Well, see, John had a studio on 13th Street and First Avenue, and Larry Rubens had a studio also, and a Japanese girl had a studio, and upstairs was like, directly over John's studio was, oh hell, who's the obvious sculpture, someone supply me with a name, it's ridiculous, the greatest imagination in the arts today in terms of this environment, [audience suggests name] Pardon? No, not Segal <sup><a href=\"https://www.wikidata.org/wiki/Q703624\">w</a></sup>. Like Oldenburg <sup><a href=\"https://www.wikidata.org/wiki/Q156731\">w</a></sup>, Claes Oldenburg. Claes Oldenburg lived upstairs and then he was still with his wife, his crazy factory, the industry, like making the ghosts, I mean they were making the mock-ups of the particular sculptures he was involved in and John, for example, would like wake up, you'd hear like- I spent nights in John's place and you'd hear the radio would turn on, in the morning, like to station k-whatever it was and then you'd hear them moving around getting breakfast and then hear the sewing machine start and the day would begin and Claes Oldenburg has a crazy serious humorous, like the peculiar to my- I was talking to someone about being, you know, coming from Nova Scotia <sup><a href=\"https://www.wikidata.org/wiki/Q1952\">w</a></sup>, or New Brunswick <sup><a href=\"https://www.wikidata.org/wiki/Q1965\">w</a></sup> or St. John's <sup><a href=\"https://www.wikidata.org/wiki/Q2082\">w</a></sup> I mean like the [unintelligible] scene is very displaced by that Scandinavian economy, you know, of experience. So John was- do things like one night for an example, he and Ultra Violet had this thing going with the telephone and she called him and he happened to be out and she just let the phone ring. The phone rang from 11:00 to 7 in the morning [laughter.] Like it just keeps ringing. I remember I met Claes Oldenburg that morning, he said \"John, someone was trying to call you last night\" [laughter] and John says \"Yeah, I know.\" It was lovely, yeah. “I got the message”. And that was all either one of them said.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1880.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"In London” [from In London].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2121.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Interrupts reading]. Then in the actual text there's a point that it's been in print actually for fifteen years in paperback. Somehow, nobody, the friends that we had didn't curiously notice. His reminiscences of Tolstoy <sup><a href=\"https://www.wikidata.org/wiki/Q7243\">w</a></sup> in London <sup><a href=\"https://www.wikidata.org/wiki/Q84\">w</a></sup>, for example. Have you ever read Gorky's <sup><a href=\"https://www.wikidata.org/wiki/Q12706\">w</a></sup> Reminiscences of Tolstoy? Fantastic book. \"Wish I were home\"...doesn't just turn you on informationally, it turns you on to conditions of experience, I hope.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2261.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading “In London” [from In London].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2288.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I wonder what this is, \"Aside, aside\", [unintelligible], February, Spring day, it's from California <sup><a href=\"https://www.wikidata.org/wiki/Q99\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2370.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“That Day” from In London].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2386.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Interrupts reading]. See, I love that \"And that day, in an oak tree, falls way, comes here\", I love that “interup-tions”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2391.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading [“That  Day” from In London].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2400.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Interrupts reading]. I love that play of language.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2404.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading [“That  Day” from In London].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2407.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That I, this was a--one time back in the earlier part of the 60's, Ginsberg <sup><a href=\"https://www.wikidata.org/wiki/Q6711\">w</a></sup> was given a tape recorder by Bob Dylan <sup><a href=\"https://www.wikidata.org/wiki/Q392\">w</a></sup> and when they were both in San Francisco <sup><a href=\"https://www.wikidata.org/wiki/Q62\">w</a></sup>. Dylan gave Allen a Uher tape recorder and they had been in San Francisco, now Allen went down to Los Angeles <sup><a href=\"https://www.wikidata.org/wiki/Q65\">w</a></sup> and he talked to people like Gerald Heard <sup><a href=\"https://www.wikidata.org/wiki/Q1606714\">w</a></sup>, he had long conversations with Lenny Bruce <sup><a href=\"https://www.wikidata.org/wiki/Q460876\">w</a></sup>, and he also went to see Maria Huxley, and he was particularly interested as to what were Huxley's, not merely, he knew what Huxley died of, Huxley died of cancer in a factual and actual manner. But he was very interested into what was Huxley's not state, like he didn't want to hear his last words in some awful sense, but he wanted to know what kind of experience of death Huxley had had. And if this particular experience of death had been in any way informed by the circumstance of experience that Huxley had begun to be more and more involved with as he grew older, namely acid and the transformation, not the transformation but the particularization of experience that he found in the psychedelic so-called drugs. And so he asked Maria Huxley the very obvious question, “was Huxley on acid when he died? Did he take acid previous to his death?” And she said, “well, he had asked that when he was thus conscious. I mean he did go into a coma. He did have a float, physically, and he asked that he have acid available. I mean that the cap of acid be place conveniently by the bed, and that he would obviously determine when and as and if he wanted to take it. It would be there. It would be like an aspirin, like a glass of water,” and she said that roughly half an hour previous to his physical death, he took acid. And then Allen asked the other obvious question, did he say anything? Did he say anything of the experience of the circumstance? She said, no he didn't, he said nothing. But this is a woman who'd lived obviously with this man for a particular length of time and had information specifically, she said no, but there was this beatific smile, he was attending his own, you know, like he was attending, not the apocalypse, but the phenomenality of his own dispersion into you know other states of being, with the agency that's created.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2454.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [section of “Little Time--And Place” from In London]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2629.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I want to read one last poem from this text, and then I'll go back to books you may know. \"A Wall\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2645.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Wall\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2655.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "..simply identifies the title of the book that you're referring to and the name of the man who wrote it. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2722.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "...he didn't want to make it hard for anybody, certainly didn't want to make it thus easy. But, particular information was always of that nature, you couldn't describe it, you certainly couldn't make it a convenience, so that the actuation of it for you always had to be the particular resource and fact of your own--I mean, it had to be that you did know it. It wasn't like one-upping, \"Gee, you don't know the name of the capital of Madagascar\" <sup><a href=\"https://www.wikidata.org/wiki/Q1019?wprov=srpw1_0\">w</a></sup>, like I don't know the name of the capital of Madagascar, is there a capital of Madagascar? I guess, you couldn't. That wasn't the condition, but if something was there to be known, that was of some particular interest to him, he gave you the fact of that interest and the substance of that interest, but he didn't give you the convenience of that interest, you had not merely to track his experience into it, but you had to get there, like you had to get there by your own agency. But I think I could--someone said, like man, like the dots in this particular book, pieces, and there's a lovely remark by Ed Dorn <sup><a href=\"https://www.wikidata.org/wiki/Q5334756\">w</a></sup> whom I dearly love, he said you know, that sense of the pieces of the definition, [unintelligible] of the parts of some of the imagined whole, which these pieces are then the fragments or the parts of, then he says, he effectually suggests, think of a situation where the pieces do not compose that possible containment, the parts that do not necessarily relate and or have the substance of the whole thus to inform them. Like now, you're really in a hole, dig. And his definition of tradition: that which someone comes carrying the information of, literally, he got there, with the news. So the dots in this book, the three dots, those of you who are interested in these explications of text, these three dots simply indicate the intervals of a particular sitting, or a particular, you know literally, you see how this is written, it's like in a notebook, well what was written on a particular day would be separated in this text by three dots, you know, like usually the particular things written would be separated by one dot then when another day occurred there'd be three dots, I mean it's a very rudimentary division.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2726.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The which it was\" [from Pieces].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2873.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Re Bob's Film (CUT)\", this was a movie done, friend--this is not even interesting, this is an 8 mm film called \"Cut\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2955.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Re Bob's Film (CUT)\" [from Pieces].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2963.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I want to skip, like I want to skip to the end of this book and read frankly, if I may for a close, let me read a sequence called \"Mazatlan: Sea\" which comes together as a close to this particular book and is writing of the same order.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3113.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Mazatlan: Sea\" [from Pieces].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3135.0"
+        }
+      }
+    }
+  ]
+}

@@ -8,6 +8,48 @@
         "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4067.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley-.json",
+            "label": {
+              "none": ["Robert Creeley "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-audience-.json",
+            "label": {
+              "none": ["Audience "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-robert-creeley.json",
+            "label": {
+              "none": ["Robert Creeley"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-1-january-1970/canvas-1/paintings",
