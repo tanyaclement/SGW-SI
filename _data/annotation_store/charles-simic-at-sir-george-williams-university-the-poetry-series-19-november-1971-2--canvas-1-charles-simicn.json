@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2--canvas-1-charles-simicn.json",
+  "type": "AnnotationPage",
+  "label": "Charles Simicn",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2--canvas-1-charles-simicn-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Dismantling the Silence\" from Dismantling the Silence.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Charles Simicn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "594.0"
+        }
+      }
+    }
+  ]
+}

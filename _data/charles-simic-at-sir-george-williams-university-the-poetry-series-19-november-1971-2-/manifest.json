@@ -8,6 +8,48 @@
         "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 824.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2--canvas-1-charles-simic-.json",
+            "label": {
+              "none": ["Charles Simic "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2--canvas-1-charles-simicn.json",
+            "label": {
+              "none": ["Charles Simicn"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2--canvas-1-introducer.json",
+            "label": {
+              "none": ["Introducer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2--canvas-1-charles-simic.json",
+            "label": {
+              "none": ["Charles Simic"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2--canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/charles-simic-at-sir-george-williams-university-the-poetry-series-19-november-1971-2-/canvas-1/paintings",
