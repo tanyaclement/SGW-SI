@@ -1,0 +1,938 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc.json",
+  "type": "AnnotationPage",
+  "label": "TOC",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Roy Kiyooka introduces Gwendolyn MacEwen. [INDEX: second half of reading, CBC recording of eight Canadian poets (Phyllis Webb, Earle Birney, John Newlove, Al Purdy, Irving Layton, Leonard Cohen, George Bowering and Gwendolyn MacEwen (CBC, 1966), biography, born in Toronto in 1941, publishing poetry at age 15, high school dropout, sociologists, three poetry books: The Drunken Clock, The Rising Fire and Breakfast for Barbarians, novel Julian and the Magician, 1965 award from CBC’s",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gwendolyn MacEwen introduces reading and “The Zoo”. [INDEX: loss of voice,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "107.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Zoo”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "142.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Taming of the Dragon”. .",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "218.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Taming of the Dragon”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "229.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Horse-head Nebula”. .",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "297.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Horse-head Nebula”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "312.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Wheels”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "379.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “I Should Have Predicted”. [INDEX: published in Mexican magazine in",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "438.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “I Should Have Predicted”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "458.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Explains “I Should Have Predicted” and introduces “The Heel”. [INDEX: about",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "527.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Heel”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "572.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces Breakfast for Barbarians. .",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "676.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Garden of Square Roots: An Autobiography”. [INDEX: from",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "712.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Garden of Square Roots: An Autobiography”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "721.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Appendectomy”. .",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "813.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Appendectomy”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "860.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Damage to recording",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "862.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Damage to recording",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "897.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Explains “Appendectomy”, introduces “The Self Assumes”. [INDEX: suffering,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "920.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Self Assumes”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "968.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Caravan”. .",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1081.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Caravan”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1103.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Arcanum One”. .",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1229.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Arcanum One”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1275.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Arcanum Two”. .",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1355.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Arcanum Two”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1385.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Arcanum Three”.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1473.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gwendolyn MacEwen thanks the audience.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1531.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Roy Kiyooka thanks Gwendolyn MacEwen, announces date of next reading. .",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1534.0"
+        }
+      }
+    }
+  ]
+}

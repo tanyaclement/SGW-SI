@@ -33,6 +33,14 @@
               "none": ["Gwendolyn MacEwen"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
