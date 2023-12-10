@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/diane-wakoski-at-sir-george-williams-university-the-poetry-series-23-january-1970-canvas-1-annotation.json",
+  "type": "AnnotationPage",
+  "label": "Annotation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "diane-wakoski-at-sir-george-williams-university-the-poetry-series-23-january-1970-canvas-1-annotation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Magellanic Clouds\" [published later in The Magellanic Clouds].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Annotation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/diane-wakoski-at-sir-george-williams-university-the-poetry-series-23-january-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/diane-wakoski-at-sir-george-williams-university-the-poetry-series-23-january-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3060.0"
+        }
+      }
+    }
+  ]
+}
