@@ -8,6 +8,32 @@
         "id": "https://tanyaclement.github.io/SGW-SI/bill-bissett-at-sir-george-williams-university-the-poetry-series-31-october-1969/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4453.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/bill-bissett-at-sir-george-williams-university-the-poetry-series-31-october-1969-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/bill-bissett-at-sir-george-williams-university-the-poetry-series-31-october-1969-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/bill-bissett-at-sir-george-williams-university-the-poetry-series-31-october-1969-canvas-1-bill-bissett.json",
+            "label": {
+              "none": ["bill bissett"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/bill-bissett-at-sir-george-williams-university-the-poetry-series-31-october-1969/canvas-1/paintings",
