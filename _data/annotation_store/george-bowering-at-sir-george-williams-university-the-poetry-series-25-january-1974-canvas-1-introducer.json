@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "...I think that George Bowering  <sup><a href=\"https://www.wikidata.org/wiki/Q1239280\">w</a></sup> has read or done— or not done, or not written. On the back of [that book (?)], it says that he has two new books, one called Curious from Coach House Press <sup><a href=\"https://www.wikidata.org/wiki/Q5137585\">w</a></sup>, and another In the Flesh, coming out with McClelland and Stewart <sup><a href=\"https://www.wikidata.org/wiki/Q6800322\">w</a></sup>. The one thing I can add to that is— has to do with baseball <sup><a href=\"https://www.wikidata.org/wiki/Q5369\">w</a></sup>, about which I know much less than George. You still have your team?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "252.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-introducer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Okay, it's occurred to me that George understands one thing that is rather important to understand that is that the difference between stepping up to the plate and hitting the ball out of the park, and going [unintelligible], on the one hand, and on the other, stepping up to the plate and being there when the bat does what it's supposed to do and the ball takes itself out of the park. And this applies to baseball, and it also applies to poems. And that's what George understands.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "294.0"
+        }
+      }
+    }
+  ]
+}

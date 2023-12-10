@@ -1,0 +1,2387 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering.json",
+  "type": "AnnotationPage",
+  "label": "George Bowering",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh I just did a review of Al Purdy's <sup><a href=\"https://www.wikidata.org/wiki/Q4704621\">w</a></sup> new book of poems so maybe I'll just start off reading that. [Audience laughter]. I said I liked it Al. [Audience laughter]. I'm related to practically everybody here. I'll turn this off now. [Audience laughter].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "114.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yes.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "291.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "For those that live in California <sup><a href=\"https://www.wikidata.org/wiki/Q99\">w</a></sup>, that's what Suzuki Roshi <sup><a href=\"https://www.wikidata.org/wiki/Q572599\">w</a></sup> calls Zen Baseball. I'm really excited to be back here, this is really a burn for me, because, can you hear me if I talk at this level? I'm hearing an echo, but I— can you hear me? [Audience laughter]. I'm reading for the next three weeks back and forth but this is the first one so I haven't got stale with any of this stuff yet in the east. And I'm going to come back in a few minutes to Autobiology, because I've never read it in the east although I started writing it in Montreal <sup><a href=\"https://www.wikidata.org/wiki/Q340\">w</a></sup> and finished it in Vancouver <sup><a href=\"https://www.wikidata.org/wiki/Q24639\">w</a></sup>, but before I do I'm going to read a piece that is sort of representative of what I've been doing lately in Vancouver, called \"Desert Elm\", the desert being the Okanagan <sup><a href=\"https://www.wikidata.org/wiki/Q1812222\">w</a></sup> in this instance and the elm being the kind of tree that people planted there that wasn't there before and grew— they tried a lot of other ones and they didn't work. And it's a poem about my father and it deals with— it was begun with his heart attack he had in August and what happened after that, to me.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "348.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Desert Elm\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "442.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That's the longest one I'll read I think. I was going to go into Autobiology, but I'm just going to jump right now into one section of Curious, I'm going to read the Jack Spicer <sup><a href=\"https://www.wikidata.org/wiki/Q3805658\">w</a></sup> part for Artie <sup><a href=\"https://www.wikidata.org/wiki/Q4800979\">w</a></sup>, and then I'll [unintelligible] Curious is a-—that's one of the books that's coming out this week, it's about, it's a book about poets, sort of, and this one's about Jack Spicer, who, Artie digs.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1204.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Jack Spicer\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1243.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "He was supposed to be moving— that was in the summer of '65, he was up in Vancouver and just decided to move up there so he wouldn't die, and because he would die if he stayed in San Francisco <sup><a href=\"https://www.wikidata.org/wiki/Q62\">w</a></sup>, and then he said, well just before that I'll go down to the San Francisco Poetry Festival, and when that's over in three weeks I'll come up to Vancouver, and he died during the second week. Okay, this is— Autobiology is a book  that came out, two years ago this month, actually, 72, yeah. And I started writing it in Westmount <sup><a href=\"https://www.wikidata.org/wiki/Q139497\">w</a></sup> as they say and finished it in Kitsilano <sup><a href=\"https://www.wikidata.org/wiki/Q4179275\">w</a></sup>. I started writing it in an expensive flat in Westmount, and finished it in a commune on the edge of the water in Vancouver and it's a story about, as it suggests, it's a story, it's a book, it's poetry, it's prose, it's something about things that have changed me in terms of my head but first in terms of chemicals and physiologically, changed my body literally and so on. So I'll just, I'll read portions of it. I toyed with the idea of reading the whole book, it's the sort of thing we do in Vancouver, like we sit down and read the whole book, and this was published the same day as Stan Persky's <sup><a href=\"https://www.wikidata.org/wiki/Q2330087\">w</a></sup> The Day, a book called The Day, and it's the same length, about a hundred pages, and he read The Day and we took a break, and I read Autobiology and then we took a break of a couple of hours and he read The Day again. But that's sort of— that happens a little— it's a little easier to take when everybody is kind of a volunteer anyway, when everybody in the audience has known all the time that this was being written and that it was going to be read, the whole book. So I'll just read parts of it so you get a taste of it. Each section is about one and a quarter foolscap pages when it's handwritten, long, approximately so it turns out to be about two of these pages. \"Chapter One\"— there's forty-eight chapters. \"Chapter One: The Raspberries\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter One: The Raspberries\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1481.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Did that ever happen to--I'm sure these kinds of things must have happened to--the way I was telling [unintelligible] this afternoon that the way this book is written was I knew the general frame was things that changed me that way, from things put in my body, generally, or pieces of my body taken off, or whatever. Or pieces of my body going out into someone else's body or whatever. And I'd go home in my house in Westmount, from here, and I'd say 'I got it! Today I'm going to do the broken tool part' and I'd run home and I'd start controlling the thing and I'd throw it away, so all the pieces that are in here are the pieces that are not thrown away, the ones where I didn't know what I was going to write when I started writing. I have the sense that I tried to describe that afternoon as being simply equal to what was coming in the story. This is \"Chapter 2\", I'll read \"Chapter 1\" and 2 and 3 and 4 and then I'll skip. This is \"The Teeter Totter\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1566.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 2: The Teeter Totter\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1625.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 3: The Pollywogs\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1702.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Flying Dream\". This is the origin of why I decided to write poetry I think, or at least I've always made that connection. \"The Flying Dream\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1771.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 4: The Flying Dream\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1780.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's the basis of that West Coast <sup><a href=\"https://www.wikidata.org/wiki/Q1974\">w</a></sup> elitism, Al. I— after I'd done this whole book I found out there's two chapters called \"The Breaks\", I'd totally forgotten that this chapter had written me this time. So this is the first chapter on “The Breaks”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1854.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 8: The Breaks\" from Autobiology [audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1875.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Gee, there's one I've never read before, I mean, out loud [audience laughter]. I'm not going to anyway, heck with it. Oh, here's one that every once in a while there's, it comes to, the thing comes to writing itself or talking about the writing of itself, so here's one called \"Composition\", for those that are worried about the problem it'll be totally clear. I think. It defines composition. \"Composition\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1954.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 14: Composition\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1982.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Here's the other one called \"The Breaks\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2072.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [“Chapter 21: Come’ from Autobiology].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2153.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is one that, this is a favourite amongst the [serifs (?)] in Vancouver. The— I live in a community now as different from the community I lived in a couple of years ago of all https://www.wikidata.org/wiki/Q5882404], Esalen <sup><a href=\"https://www.wikidata.org/wiki/Q5882404\">w</a></sup>, encounters all the time and they're always talking about shrinkage and they're always telling me why don't you take shrinkage, and I say 'I don't feel like I need shrinkage' and they said 'that proves you need shrinkage'. Can't get out of it, you know, that's your problem— you don't think you need... So this one is sort of a reply to that, it's called \"The Childhood\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2233.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 26: The Childhood\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2276.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one's about the literary world, it's called \"St. Louis\", where, St. Louis is where William Burroughs <sup><a href=\"https://www.wikidata.org/wiki/Q38022\">w</a></sup> and an earlier poet came from. T.S. Sandburn <sup><a href=\"https://www.wikidata.org/wiki/Q37767\">w</a></sup>, I think his name was. [audience laughter.]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2345.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 27: St. Louis\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2361.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then there's a whole series of pieces on towns that I lived in which I'll skip over. Skip that one, skip that one, get to these ones at the end. Here's one called \"The Flesh\", which I guess was involved with at the time, writing a book of poems about the flesh.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2449.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 43: The Flesh\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2483.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I'll read the last couple in this one, and then see what time it is. \"The Operations\" everybody is my chance, right? Every vessel, living in a house with my mother talking about operations the last couple of weeks and she couldn't really do it. So I get my chance now, ‘cause I don't really get the chance— that's my mother on the cover of the book by the way, that's my mother and that's me. There she is.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2563.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 45: The Operations\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2594.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And the last two, this is \"The Scars\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2693.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 47: The Scars\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2696.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And the last one is called naturally, \"The Body\", Chapter 48.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2784.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chapter 48: The Body\" from Autobiology.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2792.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That was Autobiology, it's actually, can you imagine, a tetralogy. And the first volume was called Geneve and it was based on a found thing with the tarot pack <sup><a href=\"https://www.wikidata.org/wiki/Q583269\">w</a></sup> and with the Geneva version of the French pack, Marseilles pack. The second one was Autobiology and the third one was Curious and the fourth one is— Dwight Gardiner wrote it, in a book called the Book of the Occasional. I was going to write it but he wrote it, so I didn't have to. It's just absolutely beautiful and if you see a Book of the Occasional, you'll see what I mean. It's just a gorgeous, gorgeous book. Oh, gee, I'd love to read— how long can I have now?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2868.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "...Because I just suddenly remembered I'd love to read a piece I have called The Big Leagues. But then I also have a book called At War with the U.S. that I— was the first book of poems I've written in years, but maybe I'll just read The Big Leagues, that will probably take— and then maybe I'll read one or two pieces from Curious. This is a book—a thing called The Big Leagues and it's in a few- in five sections and maybe I'll get tired before I get to the fifth one, but I'll just see how— the first one is called \"The Detroit Tigers\" <sup><a href=\"https://www.wikidata.org/wiki/Q650855\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2926.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Detroit Tigers\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2961.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That was written in South Slocan, B.C. <sup><a href=\"https://www.wikidata.org/wiki/Q18379776\">w</a></sup> I think this is my favourite one, it's called \"The Dallas Cowboys\" <sup><a href=\"https://www.wikidata.org/wiki/Q204862\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3117.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Dallas Cowboys\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3129.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next one's called \"The San Diego Padres\" <sup><a href=\"https://www.wikidata.org/wiki/Q721134\">w</a></sup> but I'm going to skip that one because it's about getting dope <sup><a href=\"https://www.wikidata.org/wiki/Q60168\">w</a></sup> into— what happens is that Chance is coming back, he's now wearing the uniform that Slim Chance had before he died, a U.S. Army uniform that says \"Chance\" on it and \"U.S. Army\" and they're sneaking some dope into San Diego and it has to do with some Padres whose clothes are taken off so they can use them to hide the dope and everything. The next one's called \"The Buffalo Sabres\" <sup><a href=\"https://www.wikidata.org/wiki/Q131206\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3297.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Begins reading \"The Buffalo Sabres\". ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3332.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh, by the way what happens is that I took four quotations from poetry, and three of them are taken from the normal Ohio academic American Poetry Anthology and one of them is taken from Robert Creeley <sup><a href=\"https://www.wikidata.org/wiki/Q918620\">w</a></sup> at the end, and you can tell. I can't even remember what poets I took from, like all those guys sorta have the same thing, you know, Donald Hall <sup><a href=\"https://www.wikidata.org/wiki/Q976924\">w</a></sup> Anthology Poets if you know what I mean.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3337.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"The Buffalo Sabres\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3365.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this one is for a lot of friends of mine, it's called \"The Minnesota Twins\" <sup><a href=\"https://www.wikidata.org/wiki/Q604879\">w</a></sup> and he's going on, he's leaving Buffalo <sup><a href=\"https://www.wikidata.org/wiki/Q40435\">w</a></sup> and going to— has anyone here been to— has anyone here been to Bemidji, Minnesota <sup><a href=\"https://www.wikidata.org/wiki/Q730430\">w</a></sup>? You know what they got there right? That great big, blue Ox and the great big Paul Bunyan <sup><a href=\"https://www.wikidata.org/wiki/Q7149597\">w</a></sup> carved about 30 feet high or something like that. And other than that, it's a beautiful town, you know, it has the— it looks like the underground of another town turn upside-down, so the bottom is up above the ground, right? \"The Minnesota Twins\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3546.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I'll read like for ten minutes and that'll be for a total of an hour, five minutes or something like that. I'll just, I'll pick, this is Curious, which is a— that other book's coming out, it's called In the Flesh and it's maybe the last book of occasional, magazine book verse poetry I ever do. It deals with the experience of being in your 30s and finding out that the world isn't round after all and how sad you can be and how strong emotions can be. It has an introduction called \"I Never Felt Such Love\". But it's mainly lyric poetry, and I just, I've read so much of that that it's got to be too easy to read and write and everything. So I'll read a few of these. The poets who are mentioned in Curious, it happens that there are a lot of my friends who aren't in the book. Because, again, I wrote it that way, if you know, if that person did not come up, excuse me, from the other side of the page or however that feeling is to be described, if the voice wasn't there or something, for instance I really wanted to do a Roy Kiyooka <sup><a href=\"https://www.wikidata.org/wiki/Q3445789\">w</a></sup> poem, and you know, I just couldn't and it didn't come and I had wanted to but if I had tried that it just would have been screwed up. Some of these are American, some are Canadians, a couple are English and maybe one or two other things. And the first one is, naturally, Charles Olson <sup><a href=\"https://www.wikidata.org/wiki/Q922978\">w</a></sup>. Olson, as you probably know, was about 6 ft 10 and weighed about 300 pounds. And I first met him— I was standing at the bottom of a flight of stairs and he was coming down them. So I said 'hello' to the knees of his sear-sucker suit.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3746.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Charles Olson\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3859.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll get some Canadians in here. Margaret Atwood <sup><a href=\"https://www.wikidata.org/wiki/Q183492\">w</a></sup>, she's the first Canadian to appear in here.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3957.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Margaret Atwood\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There are some poets in here that you won't know that are more specifically Vancouver-oriented poets perhaps that aren't as well known out here so I'll skip those. This is \"bp Nichol\". Everybody knows bpNichol <sup><a href=\"https://www.wikidata.org/wiki/Q4953105\">w</a></sup>, or everybody is bpNichol.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4056.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"bp Nichol\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4077.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Stephen Spender\" <sup><a href=\"https://www.wikidata.org/wiki/Q448764\">w</a></sup>. I was going to skip this one, but it has a few moments in it.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Stephen Spender\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4193.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That's, boy, that's— like you're out on the West Coast where you've never seen a poet before in your life and the first one they bring you is this guy you've been reading in books and he's a white-haired— it's unbelievable. You know, John Newlove's <sup><a href=\"https://www.wikidata.org/wiki/Q6250356\">w</a></sup>? John Newlove, for those who know John Newlove.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4278.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"John Newlove\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4296.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That last part is from a title of one of his books. David McFadden <sup><a href=\"https://www.wikidata.org/wiki/Q5237344\">w</a></sup> is, this is the David McFadden piece and maybe I'll read it and a couple more. It's not my favourite but it's one that I like reading. David McFadden— well, it tells you what he's like, but David McFadden is a— he scared the hell out of Allen Ginsberg <sup><a href=\"https://www.wikidata.org/wiki/Q6711\">w</a></sup> because he writes really funny poems, like he literally has things, like he walks out into the backyard and sees the Archangel Gabriel <sup><a href=\"https://www.wikidata.org/wiki/Q81989\">w</a></sup> or a space man and just talks to it and talks about it in the story of the poem a paragraph after he's talked about going out and buying some cigarettes or something like that and Ginsberg thought, wow, what a weird spaced out guy, so Victor Coleman <sup><a href=\"https://www.wikidata.org/wiki/Q23882910\">w</a></sup> took him down to Hamilton <sup><a href=\"https://www.wikidata.org/wiki/Q133116\">w</a></sup> to see David, David— he's got, as he said in the note of one of his books, \"I was born in 1940 and I comb my hair straight back\", and in his house, he's got an electric pendulum clock and you know that sort of thing. And Ginsberg took one look and said [inaudible ‘scared’ sound], and ran away. Just couldn't believe it, you know, it's unbelievable. So, David McFadden.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4388.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"David McFadden\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4470.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There wasn't a comma in there, that was the Indian food coming back. Now let's see…",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4584.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No, he didn't get in there either, and I'm very sad about that, just people that got in that I wish didn't get in and there's people that didn't get in that I wish did get in. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4593.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah, I think I might have skipped over Raymond Souster, the Raymond Souster one is, as you might imagine the shortest one in the book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4606.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Raymond Souster\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4618.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I got a Purdy one too, but Al weighs 210 pounds. No, I've always made it a policy not to read the ones of somebody that's there. I don't know if there are any other ones that I'm going to read.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4679.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Yeah, I don't know where the hell it is. I like the Lionel Kearns <sup><a href=\"https://www.wikidata.org/wiki/Q6555690\">w</a></sup> one actually...Oh I don't know what's happened to the Lionel Kearns one, it's one of my very favourites too. I think maybe, I'll see if I can find the Lionel one in a second then I'll read it and I'll finish off with the bill bissett <sup><a href=\"https://www.wikidata.org/wiki/Q4911496\">w</a></sup> one. If I just had the book with me it'd be a hell of a lot easier. I don't think I'm going to find the Kearns one. I can't find the Kearns one, it's all about how he can't find anything. This is the bissett one and then I'll finish off with that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4706.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads bill bissett\" from Curious.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4770.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974-canvas-1-george-bowering-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-bowering-at-sir-george-williams-university-the-poetry-series-25-january-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4876.0"
+        }
+      }
+    }
+  ]
+}
