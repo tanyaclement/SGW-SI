@@ -8,6 +8,56 @@
         "id": "https://tanyaclement.github.io/SGW-SI/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5820.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968-canvas-1-michael-mcclure.json",
+            "label": {
+              "none": ["Michael McClure"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968-canvas-1-george-montana.json",
+            "label": {
+              "none": ["George Montana"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968-canvas-1-audience-.json",
+            "label": {
+              "none": ["Audience "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968-canvas-1-michael-mcclure-and-george-montana.json",
+            "label": {
+              "none": ["Michael McClure and George Montana"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/michael-mcclure-and-george-montana-at-sir-george-williams-university-the-poetry-series-22-march-1968/canvas-1/paintings",
