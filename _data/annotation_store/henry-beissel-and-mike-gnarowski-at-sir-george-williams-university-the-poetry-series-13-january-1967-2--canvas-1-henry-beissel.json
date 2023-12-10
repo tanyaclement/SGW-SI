@@ -1,0 +1,710 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel.json",
+  "type": "AnnotationPage",
+  "label": "Henry Beissel",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "When I considered the kind of poems that I might read this evening and the order in which to read them, I was thinking of the condition of this hall, as it was the last time I was here and I therefore chose two poems which I wrote in the West Indies <sup><a href=\"https://www.wikidata.org/wiki/Q669037\">w</a></sup>. [Audience laughter]. They celebrate the sun in an ambiguous sort of way, I'm going to read them all the same, despite the fact that the conditions have changed. I don't know how much you need to know about the West Indies, I'm hoping—oh.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "330.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Is this any better? Is there someone in the hall who can attend please to all this? ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "377.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well I'll try to speak a little louder on my own, in spite of the microphone. I was saying that I don't know how much one needs to know of the West Indies to respond to this sort of poem, I'm hoping something of the West Indies might be in the poems, the first is called \"Pans at Carnival\". Pan <sup><a href=\"https://www.wikidata.org/wiki/Q6610630\">w</a></sup> is the expression for a steel drum. The imagery in the poem is taken entirely from the steel drum and its use at Carnival <sup><a href=\"https://www.wikidata.org/wiki/Q4618\">w</a></sup>, a feast that is about to be celebrated in Trinidad <sup><a href=\"https://www.wikidata.org/wiki/Q754\">w</a></sup> in about a month. Rhythmically, the poem tries to catch something of the rhythm of the steel pan. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "399.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Pans at Carnival\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "448.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The second poem celebrates something of the violence that the sun, with which the sun blesses those parts of the world from which it never really disappears.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "618.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Where the Sun Only\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "634.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Next I want to read two parts from New Wings for Icarus. Time does not allow me to read the whole poem, because then I could read you nothing else. “Icarus” is a poem that is written in four parts, it is with some regret that I read only two, because to me it is like playing the second and fourth part of a symphony, but there is no alternative. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "769.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"New Wings for Icarus\", part 2 from New Wings for Icarus.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "799.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Sorry, I'll start again. This is a hard one to read and this print is very small. I better hold it closer.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "831.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"New Wings for Icarus\", part 2 from New Wings for Icarus.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "839.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"New Wings for Icarus\", part 4 from New Wings for Icarus.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1181.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now for a little sort of relaxation in-between, I find unrelieved serious poetry hard to bear myself, I'll read—unfortunately I do not write occasional poems terribly often, they always seem to grow into something much bigger than I can handle, but the next two poems I want to read you are occasional poems, poetry can come out of anything of course, and this one came out of an encounter in a house of Inquisition in Cartagena <sup><a href=\"https://www.wikidata.org/wiki/Q657461\">w</a></sup>, in Colombia <sup><a href=\"https://www.wikidata.org/wiki/Q739\">w</a></sup>, it is really self-explanatory. It's called \"En la Casa de Inquisición\". ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1599.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"En la Casa de Inquisición\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next poem leads me on to the last set of poems, but you won't discover that until you hear the last two poems. This poem is dedicated to my daughter, when she was 1 and a half, the first stanza deals with the circumstances of her birth, which were somewhat elaborate, there were firemen. The second stanza deals with her present—this would be the past from the time of the poem, the second deals with her present, and the third with her future. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1763.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"To My Daughter at Age 1 1/2\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1807.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And now I come to the final two poems. They belong together and are part of a— we agreed not to torture you and not to read for more than 30 minutes this evening and I am trying to stick to that. This is rather the beginning of something that I may never live to finish, the entire thing is supposed to have some 26 poems, of which you will hear the first two, one is a prologue and the other one is called \"Adam Enter Eve\". In the prologue, a character introduces himself who is to play his part in the rest of the poem. It's not really a dramatic poem, although it's, well I don't think of it as a drama, although it has dramatic qualities. Anyway, I don't like to be my own critic. I prefer just to read you the poem. The whole cycle will be called \"The Dancer from the Dance\" that is as you no doubt know, a quotation from Yeats <sup><a href=\"https://www.wikidata.org/wiki/Q40213\">w</a></sup>. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2005.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Prologue\" from \"The Dancer from the Dance\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2085.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-henry-beissel-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Adam Enter Eve\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Henry Beissel",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2224.0"
+        }
+      }
+    }
+  ]
+}

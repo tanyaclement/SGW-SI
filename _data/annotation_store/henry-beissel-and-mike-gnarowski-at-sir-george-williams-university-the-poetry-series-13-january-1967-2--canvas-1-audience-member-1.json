@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-audience-member-1.json",
+  "type": "AnnotationPage",
+  "label": "Audience Member 1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-audience-member-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Addresses Beissel [unintelligible].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "375.0"
+        }
+      }
+    }
+  ]
+}

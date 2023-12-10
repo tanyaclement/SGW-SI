@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-louis-dudek.json",
+  "type": "AnnotationPage",
+  "label": "Louis Dudek",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2--canvas-1-louis-dudek-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I expected a longer introduction than that, it will be very fine. There are two kinds of readings that I like to attend very much, one kind is the sort that they're having tonight at McGill University, where a well-established poet who has been on the scene for forty or fifty years comes to read. Over there, it's A.J.M. Smith <sup><a href=\"https://www.wikidata.org/wiki/Q4647944\">w</a></sup> from Michigan State <sup><a href=\"https://www.wikidata.org/wiki/Q270222\">w</a></sup>, Canadian anthologist and well-known poet. With a poet like that, really makes no difference what he reads or how he reads it's just important to see him and even the tottering saint can perform miracles on occasions. The other kinds of poets I do like to hear very much are the sort that we'll hear tonight, Gnarowski and Beissel <sup><a href=\"https://www.wikidata.org/wiki/Q1606507\">w</a></sup>. The McGill publicity department sent out a notice about A.J.M. Smith and described him as well-known Anthropologist of Canadian poetry. Actually, they corrected it in ink, they made the mistake twice though, probably a typist error. But they didn't know how correct they were, with the current scene in Canadian writing, there are primitive types around that are hard to classify and we need anthropologists...Well, Beissel and Gnarowski are not of this breed of poets who seem to have lost all sense of poetic organization or form, where you think that conventions, poetic conventions have been abolished and what is left are chaotic bits of internal monologue on the page. Of course, that kind of school may be very interesting to watch to see what comes out of it but at present, having watched it now for a few years I'm a little impatient often and tired of the magazines where this material occurs because it seems so easy to turn out and anyone has these bits of chaotic monologue going on. On the other hand, there are many poets still writing who are not following the conventional forms of English metrics and rhyme and so forth, who are turning out poems or at least watching what happens what happens with the words on the page and both the poets we're listening to tonight are of this kind. They are very careful craftsmen. Henry Beissel has the long list of achievements to his credits already, but two on that list strike me very much. One is, amongst many of the posts where he's taught, one is the University of Alberta <sup><a href=\"https://www.wikidata.org/wiki/Q640694\">w</a></sup> is the kind of political stir that was created on the campus when his magazine Edge was brought into the classroom by one of the professors. That is, his poetry contains, content that can make one think, that is morally committed to certain issues in today's world. He's very strongly a moral poet on one side, and the other item in his biography is his new book which has just appeared New Wings for Icarus, which is extremely aesthetic at the same time that it is meaningful in this way. His poetry seems to combine two things, one is a moral urgency and on the other hand, at the same time, a romantic sense of language and of imagery and of emotion that goes with that, which are all very, very promising characteristics for a beginning poet, but I think that this New Wings for Icarus book is his first considerable book. So, without more ado, I introduce to you Henry Beissel. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Louis Dudek",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "40.0"
+        }
+      }
+    }
+  ]
+}
