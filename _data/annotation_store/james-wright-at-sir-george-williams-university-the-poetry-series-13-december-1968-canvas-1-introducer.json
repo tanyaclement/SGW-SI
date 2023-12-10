@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968-canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968-canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'd just like to express all our thanks to James Wright <sup><a href=\"https://www.wikidata.org/wiki/Q6145850\">w</a></sup> for sharing his poetry and his curses and blessings with us tonight, and to remind you that the next reading in the series is by Muriel Rukeyser <sup><a href=\"https://www.wikidata.org/wiki/Q735177\">w</a></sup> on Friday, January 24th. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3261.0"
+        }
+      }
+    }
+  ]
+}

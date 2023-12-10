@@ -8,6 +8,40 @@
         "id": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3278.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968-canvas-1-introducer.json",
+            "label": {
+              "none": ["Introducer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968-canvas-1-james-wright.json",
+            "label": {
+              "none": ["James Wright"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/canvas-1/paintings",
