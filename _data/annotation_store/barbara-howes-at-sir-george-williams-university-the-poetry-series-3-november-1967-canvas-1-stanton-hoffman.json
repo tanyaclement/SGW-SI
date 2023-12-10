@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-stanton-hoffman.json",
+  "type": "AnnotationPage",
+  "label": "Stanton Hoffman",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-stanton-hoffman-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "One announcement, the next reading will be by Charles Reznikoff <sup><a href=\"https://www.wikidata.org/wiki/Q1065911\">w</a></sup>, and that's Friday, the same time, November 17th. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanton Hoffman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3278.0"
+        }
+      }
+    }
+  ]
+}

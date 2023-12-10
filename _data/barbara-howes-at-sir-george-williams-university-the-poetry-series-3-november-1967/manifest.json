@@ -8,6 +8,40 @@
         "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3297.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-stanton-hoffman.json",
+            "label": {
+              "none": ["Stanton Hoffman"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes.json",
+            "label": {
+              "none": ["Barbara Howes"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/paintings",

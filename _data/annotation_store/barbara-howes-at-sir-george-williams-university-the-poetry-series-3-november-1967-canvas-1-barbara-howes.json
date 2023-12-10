@@ -1,0 +1,2933 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes.json",
+  "type": "AnnotationPage",
+  "label": "Barbara Howes",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you very much, Mr. Hoffman, I'm delighted to be here. If you can't hear me, raise your hands or let me know by some other device. Is this a microphone or does this have to do with this machine? Well I'll try to be clear. I thought rather than read a kind of segmented, like a string of sausages, series of poems, going on and on and on, which gives one very little hope that it'll ever end, it'd be better to say that I'm going to have a beginning, a middle, and an end, and that would be...and so I've arranged the poems in this way, so you will have hope that I won't continue forever, which has been done, in the annals of poetry. I wanted to write, read some poems that have to do with place, because I've thought a lot about the effect of place on poems, and to what extent the place you're in influences what you write. One's imagination would never become extended in certain directions if you hadn't happened to live in a certain place. I was very conscious of that when we lived in Florence <sup><a href=\"https://www.wikidata.org/wiki/Q2044\">w</a></sup> for two years and when my older boy was born, and subsequently for another two years. And I would never--because we--I would never possibly have been able to think, I mean this is obvious in a way, but it gets more complicated, of...Some of the imaginative happenings that occurred would, could never have happened, well in Massachusetts <sup><a href=\"https://www.wikidata.org/wiki/Q771\">w</a></sup> or anywhere else, and also even in, I mean in Vermont <sup><a href=\"https://www.wikidata.org/wiki/Q16551\">w</a></sup>, where we now live, have been profoundly affected by the section of the mountain which we life. And also we spent some time in Haiti <sup><a href=\"https://www.wikidata.org/wiki/Q790\">w</a></sup>, and so on and so forth, so this first group will be mostly poems that have a lot to do with experiences that have happened because of a particular place. The first poem is an Italian poem, or written out of Italy <sup><a href=\"https://www.wikidata.org/wiki/Q38\">w</a></sup>, called \"Primavera\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "137.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Primavera\" [from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "288.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called \"The Triumph of Love\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "379.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Triumph of Love\" [from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "387.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Then for a summer, we lived in a little town in the south of France <sup><a href=\"https://www.wikidata.org/wiki/Q142\">w</a></sup>, Le Lavandou <sup><a href=\"https://www.wikidata.org/wiki/Q736462\">w</a></sup>, and it was a very good summer all in all, although, except we had no car and a very big house with only about one room on a floor. So the baby was on the top floor, and the kitchen, it's one burner, was on, you know, it's four floors down. And I would rush up and pick him up and then put him back in his bed, and then rush down and light the burner, and then rush up and get him, and then rush down. So it was difficult in some ways. But one of our entertainments, or entertainments that seemed to certainly entertain friends was to go to an island off Toulon <sup><a href=\"https://www.wikidata.org/wiki/Q44160\">w</a></sup> called Ile Levant <sup><a href=\"https://www.wikidata.org/wiki/Q292516\">w</a></sup>, which is half a naval base and half a colony. And you could go out there in a small--it took about an hour in a small boat, and one time we stood on the dock not quite sure what to do next. Another person who'd come in the boat with us in very high heels and an enormous black hat removed everything else and ran up the hill. [Audience laughter]. So this is “L'Ile du Levant, the Nudist Colony”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "438.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"L'Ile du Levant: the Nudist Colony\" [from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "535.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now living as I do in the country in Vermont, there comes that terrible time in November when all the hunters from the cities come rushing up with their pint bottles and their confusion and they lounge around half the time sitting in cars and shooting vaguely at anything. So I used to try to write an anti-hunter poem every fall,I don't know about this year, I haven't got an idea yet, but I may see if I can do something. \"In Autumn\". Excuse me. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "659.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"In Autumn\" [from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "697.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this is another on the same subject.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "749.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Landscape, Deer Season\" from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "759.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is another Pownal <sup><a href=\"https://www.wikidata.org/wiki/Q1940266\">w</a></sup> poem, it's really two things put together. It's called \"A Night Picture of Pownal”, for JFK. And I stood one evening in very bright moonlight looking out at the shadow of the apple tree across the road on the snow and it made an impression on me, I began to take notes in the dark as best I could on it. And then later, shortly after that, for the death of Kennedy <sup><a href=\"https://www.wikidata.org/wiki/Q9696\">w</a></sup>, then I saw the poem wasn't, it was inadequate, and I somehow put, wove those two things together.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "796.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Night Picture of Pownal\" [from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "846.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Another Vermont poem or Pownal poem on a more cheerful note. \"Town Meeting Tuesday\". Town meeting is the first Tuesday in March, and many of the people who have stayed in all winter then emerge like woodchucks from their houses.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "919.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Town Meeting Tuesday\" [from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "945.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now, we spent two or three Easter vacations in the islands of the Caribbean <sup><a href=\"https://www.wikidata.org/wiki/Q664609\">w</a></sup>, we went to Guadeloupe <sup><a href=\"https://www.wikidata.org/wiki/Q17012\">w</a></sup> once for two weeks. And most of the time I find I write fish poems when I go down to the islands but this one is about a dead toucan in Guadeloupe. There was a little, well, a strange little zoo at the small hotel where we stayed and we would look at these creatures and one day I went and there was the toucan and it had fallen over dead. Somehow, it made an impression on me. \"Dead Toucan: Guadeloupe\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "982.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Dead Toucan: Guadeloupe\" [from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1024.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I hope you can hear--can you hear me? In the back rows? We also spent some time in Haiti, earlier, and I'd like to read a couple of poems from that period. This was a thing--it could perfectly well have happened elsewhere but it was the kind of thing that, after we lived in Haiti for a while, I could see very clearly, would definitely have to happen there. There was a young man of about nineteen, very talented as a painter, and did, had just tried out through the art centre there, and doing really quite good and interesting work. And he needed a job so he could buy paints and paper, and anyway just to exist. So an American woman had two small boys and he said he could look after them and play ball and, you know, keep them out of trouble and so on and so forth. And she said, “Can you swim?” And he said, “Oh yes, of course.” So the boys dove into the pool because they had been swimming, as most American boys do, for years. And he dove into the pool, and didn't come up. And nobody was around except some workers who were fixing the garden. But like everybody, almost, in Haiti, they didn't want to get involved, because then the police might ask them questions, and then at the end there's trouble, so the poor young man just died, because the little boys couldn't do anything, and nobody else did anything. And so that made an impression on me. But it's the kind of unfortunate tragedy, due to his saying that he could swim and he couldn't, just because he was so desperately anxious to get the job, and he just made himself believe he could swim. Just a complete waste. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1075.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"In a Prospect of Flowers\" from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Mirror Image: Port-au-Prince <sup><a href=\"https://www.wikidata.org/wiki/Q34261\">w</a></sup>\". This, there was a little sign on a tree we used to pass every day and then I thought of this poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Mirror Image: Port-au-Prince\" [from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1279.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There's one other. Oh yes. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1319.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"On a Bougainvillea Vine at the Summer Palace\" from Light and Dark]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1326.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, this is one of the fishing poems from the, from Barbados <sup><a href=\"https://www.wikidata.org/wiki/Q244\">w</a></sup>, from the islands.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1416.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Out Fishing\" from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1426.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This poem is written in one foot, it's just an experiment to see what would happen. I, you know, diameter's two feet, or is it, trimeter is three feet. And tetrameter is four, and pentameter is five. One foot means you just have one sound, like that, and it's just, was a technical experiment, but I might as well read it. And it's also another fish poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1498.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"The Crane Chub--Barbados\" from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1532.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Here's a fish, well, a jellyfish poem, from Texas <sup><a href=\"https://www.wikidata.org/wiki/Q1439\">w</a></sup>. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1578.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"On Galveston Beach\" from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1592.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And then there's the last Caribbean poem, “A Letter from the Caribbean”. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1652.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “A Letter From The Caribbean” [from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1665.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I've thought I would read just a few poems by modern poets that I like, they're not by any means their strongest or anything, but they're just ones I'm attached to. The first I cut out of the paper once, a long time ago. It's by an African schoolgirl, and I think it's very imaginative. It's awkward but it's really quite wonderful.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1739.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem by an unknown author. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1778.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is an early poem of Wystan Auden's <sup><a href=\"https://www.wikidata.org/wiki/Q178698\">w</a></sup> that he kept out of, he didn't use in his book and then he printed again in a recent edition. I think it's technically as awfully, it's light verse but it's also very serious underneath, as good light verse can me. Poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1793.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"To You Simply\"] by W.H. Auden [published in The Collected Poetry of W.H. Auden].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1815.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this is a, I think a simply charming poem by Richard Wilbur <sup><a href=\"https://www.wikidata.org/wiki/Q1333582\">w</a></sup>. It gets...it's about the Piazza di Spagna <sup><a href=\"https://www.wikidata.org/wiki/Q15124814\">w</a></sup>, the Spanish Steps in Rome <sup><a href=\"https://www.wikidata.org/wiki/Q220\">w</a></sup>, and it gets the feeling of someone gliding, really gliding down that long, gorgeous stairway. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1857.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Piazza Di Spagna, Early Morning\"] by Richard Wilbur.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1882.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem by Louise Bogan <sup><a href=\"https://www.wikidata.org/wiki/Q516180\">w</a></sup>, who's a very well known American poet, a very recent one that she, that came out in The New Yorker <sup><a href=\"https://www.wikidata.org/wiki/Q217305\">w</a></sup>, this summer, I think.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1931.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Masked Woman’s Song\"] by Louise Bogan.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1947.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's a difficult poem, might read that again, if you don't mind. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1971.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Re \"Masked Woman’s Song\" by Louise Bogan.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And then, the last, oh, oh that's right, I thought I would read a poem by Derek Walcott <sup><a href=\"https://www.wikidata.org/wiki/Q132701\">w</a></sup>, which I used in this Carribean Anthology. It's mostly short stories but I put a poem in front of each language section. This is by Derek Walcott who's a young poet from St. Lucia <sup><a href=\"https://www.wikidata.org/wiki/Q760\">w</a></sup>, called \"Missing the Sea\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1997.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Missing the Sea\" by Derek Walcott [from The Castaway and collected in From the Green Antilles: Writings of the Caribbean].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2028.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's quite a difficult poem but you...he had a book out, oh, can't remember the name, by Farrar, Straus & Giroux <sup><a href=\"https://www.wikidata.org/wiki/Q3067003\">w</a></sup> a couple of years ago, in the United States. <sup><a href=\"https://www.wikidata.org/wiki/Q30\">w</a></sup> And the last of this group is a poem that I've heard about a hundred thousand times, but it still gives me a chill. It's called \"American Primitive\" by William Jay Smith <sup><a href=\"https://www.wikidata.org/wiki/Q4355736\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2071.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"American Primitive\" by William Jay Smith.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2106.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I still get a chill! Now, I don't know whether you prefer to have an intermission, and get up and smoke, or prefer for me to continue, what would you think, Stanton?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2147.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Have an intermission? So people can...breathe?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2168.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The problem is the third group of poems, I'd read some poems that are more or less to and about people, and some new poems, although I've noticed that most of my new poems are very depressing, and this is not a good note on which to end, so I'll maybe not read them. I've been very much interested in old French forms, the trielle, the villanelle, the rondeau and rondelle, and ballade and so on and so forth, and they're very difficult but they're fascinating to try, at least. And this is in the form of a trielle. And the lines have to be repeated in a certain fashion which gives you very little room in which to maneuver. This is called \"Early Supper\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2183.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Early Supper\" [from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem I wrote for W.H. Auden for his fiftieth birthday, which was several years ago, now. I think actually, he was last year, sixty.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2290.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"To W.H. Auden on his Fiftieth Birthday\" from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2301.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I wrote three poems at that point about winds, and I'll just read one of them. The winds have names in Italy and they almost become like familiar characters. The sirocco, when it blows, is so terrible in its effect on people that if there're crimes of passion, the people generally get off with a lighter sentence, because you sell, well, the sirocco. Naturally you can throttle your wife during that period. This is about the mistral, which, if it blows for three days, one survives, if it blows for six days it's simply awful. If it blows for nine days you've probably already gone out of your head. It's a very wild wind who rushes down the Rhone Valley <sup><a href=\"https://www.wikidata.org/wiki/Q2747791\">w</a></sup> and just blows everything away. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2362.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Mistral\" from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2422.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is another one, an old French form, the rondeau, which again makes its, has its own complications because of the repetition of lines. And what interested me to do was to try to use, not the usual subject of the rondeaux but to write about, as in this case, the death of a Vermont farm woman, instead of just doing some sort of chittery-chattery business that generally is what people use a rondeau for. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2483.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Death of a Vermont Farm Woman\" from Light and Dark].  ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2523.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem about a very disagreeable character, a thirteenth-century tyrant called Ugolino <sup><a href=\"https://www.wikidata.org/wiki/Q706003\">w</a></sup>, who met his death from being thrown into prison to die of hunger. He is reputed to have attempted to eat his sons, who were there with him. I must say, it's not an agreeable picture, but I don't think there's been much improvement in that part of mankind. Dante <sup><a href=\"https://www.wikidata.org/wiki/Q1067\">w</a></sup> writes of him in the 33rd Canto of the Inferno <sup><a href=\"https://www.wikidata.org/wiki/Q4509219\">w</a></sup>. This poem is called \"The Critic\" and, I must say, critics have disliked it heartily. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2571.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Critic\" [from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2608.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a, an odd combination about a person and about Pownal, I guess. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2663.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Running into Edgar Bellemare\" from Looking Up at Leaves]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2672.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem I wrote for Katherine Anne Porter <sup><a href=\"https://www.wikidata.org/wiki/Q236958\">w</a></sup> on the occasion of her 75th birthday. \"For Katherine Anne Porter\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2727.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “For Katherine Anne Porter” [from Looking Up at Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2739.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's quite marvelous, those collective nouns, who would know that you call a lot of heron a siege of herons and so forth. I'll read that again, because it really is, I was very lucky the way it worked out.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2775.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads line from “For Katherine Anne Porter”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2791.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called \"Looking up at Leaves\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2826.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Looking up at Leaves\" [from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2834.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'd like to read one New England <sup><a href=\"https://www.wikidata.org/wiki/Q18389\">w</a></sup> poem, this is a newer poem, I haven't read this before, I guess.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2889.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"Still Life: New England\", published later in The Blue Garden].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2896.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll read three more poems, I think. This is \"A Rune for C.\"--‘C.’ was a dog of ours. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2974.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Rune for C.\" [from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2991.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Actually, I had just often, I'd made up a good luck thing that seeing the caboose was good luck, but then I found out that this has been an old piece of, well, I don't know, country folklore, that to see the caboose, it means luck. I want to read one poem about my son, and then one short one. \"Portrait of the Boy as Artist\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3036.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Portrait of the Boy as Artist\" [from Light and Dark].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3078.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh, I did want to read one that I'll read next week in New York. This poem is a, this is a rondelle, which is another old French form. And I'm obviously not using it for the usual subject, in this case. It's arranged about the idea, really, of a contrast of the use of space. \"Viet-Napalm: A Rondelle\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3131.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Viet-Napalm: A Rondelle\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3165.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And then one last poem on a more cheerful note. \"Leaning into Light\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3211.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Leaning into Light\" [from Looking Up At Leaves].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967-canvas-1-barbara-howes-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you very much. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Barbara Howes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/barbara-howes-at-sir-george-williams-university-the-poetry-series-3-november-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3261.0"
+        }
+      }
+    }
+  ]
+}
