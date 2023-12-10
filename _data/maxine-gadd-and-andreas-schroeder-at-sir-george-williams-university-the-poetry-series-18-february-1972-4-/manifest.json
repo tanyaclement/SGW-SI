@@ -8,6 +8,24 @@
         "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-4-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 924.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-4--canvas-1-andreas-schroeder.json",
+            "label": {
+              "none": ["Andreas Schroeder"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-4--canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-4-/canvas-1/paintings",
