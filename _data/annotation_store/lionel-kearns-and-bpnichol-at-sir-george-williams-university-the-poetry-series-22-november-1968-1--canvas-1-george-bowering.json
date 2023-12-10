@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-1--canvas-1-george-bowering.json",
+  "type": "AnnotationPage",
+  "label": "George Bowering",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-1--canvas-1-george-bowering-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The second reading in our third series, I don't feel very happy tonight that the crowd is nice and big, and also that because I don't quite know what's going to happen, although I've heard rumours. We have Lionel Kearns <sup><a href=\"https://www.wikidata.org/wiki/Q6555690\">w</a></sup> and bpNichol <sup><a href=\"https://www.wikidata.org/wiki/Q4953105\">w</a></sup>, as you know, and they have elected instead of doing a reading by each poet, with an intermission in the middle or anything like that, a manner of joint reading. And I think, in a sense, that makes a lot of sense, because Lionel Kearns is by one of his professions, a linguist, and also one of his main, one of his main themes is the social care of human beings. bpNichol is a radical therapist, and is known especially for his border-blur poems, and it makes a lot of sense, I think, for that reason that they do read together. They read together last night at Carleton <sup><a href=\"https://www.wikidata.org/wiki/Q1041737\">w</a></sup>, apparently worked out very well. Lionel is as you probably know is one of the centres of the so-called Vancouver <sup><a href=\"https://www.wikidata.org/wiki/Q24639\">w</a></sup>Renaissance that took over Canadian poetry in the 1960's, threatened to do that too [laughter]. bp was one of those blessed children from the east, although he had lived in Vancouver before, who kept his ears open. Well, he says he was born there. bp managed to grace the city of Vancouver for a few years and I guess that's where he got the ears open in the first place, but since that time he's been opening all our ears. So seeing as how this reading threatens to last four hours, according to rumours, I think I'll stop now and give the floor to either, and, or bpNichol and Lionel Kearns.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-1--canvas-1-george-bowering-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It’s hard to hear... ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Bowering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/lionel-kearns-and-bpnichol-at-sir-george-williams-university-the-poetry-series-22-november-1968-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2049.0"
+        }
+      }
+    }
+  ]
+}
