@@ -12,6 +12,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-end.json",
             "label": {
               "none": ["END"]
