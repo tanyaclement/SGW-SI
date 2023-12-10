@@ -1,0 +1,225 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-toc.json",
+  "type": "AnnotationPage",
+  "label": "TOC",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-toc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Stanton Hoffman introduces Robin Blaser ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-toc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Robin Blaser introduces “The Hunger of Sound”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-toc-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Hunger of Sound” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-toc-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Cups”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "638.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-toc-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Cups”.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "707.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-toc-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces essay “The Fire”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1378.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-toc-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads essay “The Fire”. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1408.0"
+        }
+      }
+    }
+  ]
+}
