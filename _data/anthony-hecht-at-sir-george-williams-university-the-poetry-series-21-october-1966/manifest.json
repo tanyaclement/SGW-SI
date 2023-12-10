@@ -8,6 +8,24 @@
         "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2815.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-end.json",
+            "label": {
+              "none": ["END"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht.json",
+            "label": {
+              "none": ["Anthony Hecht"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/paintings",

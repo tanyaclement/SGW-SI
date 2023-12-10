@@ -1,0 +1,1100 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht.json",
+  "type": "AnnotationPage",
+  "label": "Anthony Hecht",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you very much. It's a pleasure to be here, this is my first trip to Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup>, and I regret that it should be so brief. I must leave tomorrow, but I'm struck by the frigidity of the weather and the warmth of the greeting that I received upon arriving. I'd like to begin with a poem which I'll, is set in Italy <sup><a href=\"https://www.wikidata.org/wiki/Q38\">w</a></sup>, where I spent quite a while. It's called \"A Hill\", and it's what...about a purported visionary experience. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "96.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Hill\" from The Hard Hours..",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "141.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next is called \"A Letter\". Some of these, I think, will require some sort of explanatory comment from me, but I don't think this will. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "290.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Letter\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "299.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next is called \"The Vow\". I should say that all the poems that I want to read to you this evening are from a book called The Hard Hours. They...the book is, I fear, for better or for worse, somewhat on the grim side, as the title is meant to indicate. It perhaps is a corrective to the abundant cheerfulness of my first book. But I hope that there were a few light moments here and there. This one, on the other--is somewhat grim. It is in fact about a miscarriage. And I had better explain to you that a large part of the second stanza, and all of the third stanza is spoken by the ghost of the child who fails to be born. It is called \"The Vow\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "404.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Vow\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "462.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next one is also somewhat on the grim side, but it requires an appeasing little note of explanation. Its title is \"More Light! More Light!\" which purport to be the last words of Goethe <sup><a href=\"https://www.wikidata.org/wiki/Q5879\">w</a></sup> on his deathbed. There's been a good deal of discussion and dispute as to quite what he meant at the time, which may simply have been to raise the shade. But inasmuch as he is regarded as the spirit of the German Enlightenment, a great deal more profound significance is normally attached to those words. He plays a very minor, somewhat ghostly role in this poem, which is a deliberate and violent contrast, so violent, indeed, that the poem was rejected by The New Yorker <sup><a href=\"https://www.wikidata.org/wiki/Q217305\">w</a></sup> on the grounds that the contrast was much too violent for their taste. Between an execution, which is in fact a conflation I've made myself of several executions that took place in England <sup><a href=\"https://www.wikidata.org/wiki/Q21\">w</a></sup> during the Renaissance <sup><a href=\"https://www.wikidata.org/wiki/Q4692\">w</a></sup>, and an execution that took place in the Buchenwald concentration camp <sup><a href=\"https://www.wikidata.org/wiki/Q152802\">w</a></sup> during the Second World War <sup><a href=\"https://www.wikidata.org/wiki/Q362\">w</a></sup>, and the details of which I got from a book by Eugene Kogan, who was himself a prisoner there for five years and survived, miraculously, and was then flown to England to help draw up the indictments that were used, [coughs], excuse me, at the Nuremberg Trials <sup><a href=\"https://www.wikidata.org/wiki/Q80130\">w</a></sup>. Goethe's role, his ghostly role in this, is explained by the fact that most prisoners who were brought to Buchenwald were brought by train, and there was no railroad station there at the camp, so the prisoners were, disembarked at the nearest railroad station, which was Weimar <sup><a href=\"https://www.wikidata.org/wiki/Q3955\">w</a></sup>, and they walked the rest of the way from there. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "601.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"More Light! More Light!\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "721.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next is a little lighter, gratefully. But it has its gruesome aspects too, as a matter of fact. It is called \"The Man Who Married Magdalen: Variation on a Theme by Louis Simpson\". Louis Simpson <sup><a href=\"https://www.wikidata.org/wiki/Q1871997\">w</a></sup>, a fine poet and very old friend of mine. A road poem in one of his early books, called \"The Man Who Married Magdalen\", a fine and delicate poem, in which he imagines that this man who raged and stormed throughout his married life, upon the death of his wife finds it in his heart to forgive her and to acknowledge his abiding love for her. In fact, if I can remember the last stanza, it goes, \"But when he woke, and woke alone, he wept and would deny the loose behaviour of the bone, and the immodest thigh\". I have chosen to make him far less forgiving in my version. He is a very angry man, and the whole poem takes place in a bar where he has been releasing his anger in a bibulous way for some time. His anger is not only personal, however, it's also theological. He is someone who believes in and accepts the ancient dispensation according to which Mary Magdalene <sup><a href=\"https://www.wikidata.org/wiki/Q63070\">w</a></sup> had done something which could not, in fact, be so easily forgiven. And he regards the new dispensation as an antinomian heresy which leaves him bewildered and accounts for the rather promiscuous behaviour he finds all around him in the bar. I ought to tell you also that I went on a reading tour of New England <sup><a href=\"https://www.wikidata.org/wiki/Q18389\">w</a></sup> a few years ago, and I planned to include this, but when I got to...it has some frankly dirty language in the second stanza, and I decided that it was unbecoming at certain colleges, [audience laughter], but I was assured by a friend of mine on the faculty at Wellesley <sup><a href=\"https://www.wikidata.org/wiki/Q49205\">w</a></sup> that the girls there were tough, and they could take it.  [Audience laughter]. He liked it, and he thought I should read it. And indeed, I did. And nobody batted an eye. So, from then on, without compunction at all, I read it everywhere else, and when I got to Mount Hollyhock, [audience laughter], there I had every intention of reading it, but they were not only taping it, as you are here this evening, but they were taping it for radio broadcast, so I felt obliged to warn the Federal Communications Commission <sup><a href=\"https://www.wikidata.org/wiki/Q128831\">w</a></sup> [audience laughter] that this was the sort of thing that they would probably have to excise. And after the tour was over, I got a postcard from a friend of mine in that bastion of propriety, Boston <sup><a href=\"https://www.wikidata.org/wiki/Q100\">w</a></sup>, saying that he had heard the whole broadcast with nothing cut out, so I take it there's absolutely nothing wrong with it now [audience laughter]. It has, in any case, a lofty epigraph from the Book of Jonah <sup><a href=\"https://www.wikidata.org/wiki/Q178819\">w</a></sup> [audience laughter], which says, \"Then said the Lord, 'Dost thou well, to be angry?'”",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "876.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Man Who Married Magdalen: Variation on a Theme by Louis Simpson\" from The Hard Hours [audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1077.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A poem of a somewhat different sort, called \"Message from the City\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1226.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Message from the City\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1237.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The poem I want to read next is also, again, on the somewhat grim side. It is, in fact, incomplete, but it stands altogether, by itself. It's going to be longer, but it is a unit, as it appears, or as I shall read it to you, and it's called, in its present state, \"The Rune\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1382.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Rune\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1415.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I guess a really violent change of pace is required, and I can provide it. But you are not to be spared as easily as that. There's another sort of wracking one that comes up in a minute. However, I can interject something in between. There's a little sort of period piece, a Restoration comedy song, sort of, called \"The Song of the Flea\". It was written...there were a group of poems that I wrote in collaboration with an artist. We did a bestiary together, and he did a whole bunch of very handsome lithographs of animals, and I wrote a few animal poems, and this is one of them.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1674.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song of the Flea\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1725.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now this, this next, is quite frankly a stinker, I've got to warn you. It's a very unnerving poem. It's a colloquy; there are two voices, but I'm sure you'll have no difficulty telling them apart. There is one speaker who is a kind of compulsive talker, and he has a very patient and somewhat helpless auditor. The poem is called \"Behold the Lilies of the Field\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1780.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Behold the Lilies of the Field\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1818.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next is a blessed relief. It's called \"Jason\", which is the name of my older son, and it's a poem written to celebrate his birth. He was born at the time I was teaching at Smith, and he was born on a Sunday, which has some bearing on the poem, but it conveniently avoided my, disrupting my academic obligations. And it has an epigraph from Doctor Faustus <sup><a href=\"https://www.wikidata.org/wiki/Q50919\">w</a></sup>, which goes, \"And from America, the Golden Fleece\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2074.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Jason\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2116.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next one is also, this is also rather cheery too--well, not really. I told you that I had gone on this New England tour a few years ago, and I began it in Maine <sup><a href=\"https://www.wikidata.org/wiki/Q724\">w</a></sup>. Well, I may have been misled [distortion], but I was told at the two or three colleges and universities where I read that Maine was a dry state, and I had so arranged my poems, completely unconsciously, that I had a whole bunch of them that all took place in bars, in bars altogether [audience laughter]. So I had the feeling as I was reading--I couldn't stop, you see, there I was-- after the third poem, I felt that I appeared to be an obsessive alcoholic. [Audience laughter]. This also takes place in a bar. I was born and brought up in New York City, and remember it from the time when Third Avenue had an elevator train that ran down its length. Now, that has all been torn down. But in the old days, not only did it have the elevator train, but it was lined on both sides all the way up and down with bars. The bars are still there. But the advantage of the El was that it cast a nice, gloomy shadow over the whole avenue even on the brightest days, so that you weren't obliged to face utter reality as soon as you stepped outside [audience laughter]. There was a sort of modulating gloom that you got out into. Now that's been torn down, and it's tougher than it was. The poem is called \"Third Avenue in Sunlight\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2232.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Third Avenue in Sunlight\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2325.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There are two more poems I should like to read. The first of these is called \"Birdwatchers of America\". It has an epigraph from the journals of Baudelaire <sup><a href=\"https://www.wikidata.org/wiki/Q501\">w</a></sup>, very near the end of his life. Baudelaire wrote as follows: \"I suffer now continually from vertigo, and today, the 23rd of January, 1862, I received a singular warning. I felt the wind of the wing of madness pass over me\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2431.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Birdwatchers of America\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2474.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called \"The End of the Weekend\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The End of the Weekend\" from The Hard Hours.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2576.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Finally, there is a poem that I must remind you of which I enormously admire, by Matthew Arnold <sup><a href=\"https://www.wikidata.org/wiki/Q271032\">w</a></sup>. \"Dover Beach\" <sup><a href=\"https://www.wikidata.org/wiki/Q5302469\">w</a></sup>. I have, in spite of my admiration for it, ventured to write a somewhat impertinent commentary upon it, which is called \"The Dover Bitch\" and subtitled [audience laughter], \"A Criticism of Life\", which is what Arnold said poetry ought to be. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2678.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966-canvas-1-anthony-hecht-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Dover Bitch: A Criticism of Life\" from The Hard Hours [audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Anthony Hecht",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/anthony-hecht-at-sir-george-williams-university-the-poetry-series-21-october-1966/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2713.0"
+        }
+      }
+    }
+  ]
+}
