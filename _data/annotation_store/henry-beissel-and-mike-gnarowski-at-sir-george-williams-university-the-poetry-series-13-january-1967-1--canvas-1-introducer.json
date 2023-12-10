@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-1--canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-1--canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "We'd like to express our thanks to Mike Gnarowski, Henry Beissel, and our special appreciation to Louis Dudek who made the supreme sacrifice of tearing himself away from McGill to come here and introduce them. [Audience applause]. Our next reading will be in two weeks, on Friday, January 27 Margaret Avison <sup><a href=\"https://www.wikidata.org/wiki/Q6759152\">w</a></sup> will be coming from Toronto <sup><a href=\"https://www.wikidata.org/wiki/Q172\">w</a></sup> to read her poetry and the following reading on Sat. Feb. 11, Paul Blackburn <sup><a href=\"https://www.wikidata.org/wiki/Q7149388\">w</a></sup> who is the Poet in Residence at the City College in New York <sup><a href=\"https://www.wikidata.org/wiki/Q1093910\">w</a></sup> and the author of, among other things, Brooklyn, Manhattan Transit will be coming here to read his poetry. Thank you.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1083.0"
+        }
+      }
+    }
+  ]
+}

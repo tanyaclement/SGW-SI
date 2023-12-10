@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-1--canvas-1-louis-dudek.json",
+  "type": "AnnotationPage",
+  "label": "Louis Dudek",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-1--canvas-1-louis-dudek-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Strongly I was impressed and moved by that reading by Henry Beissel. Really several times after the poems I wanted to applaud, only we don't do that. They were magnificently organized forms with powerful language and very well read, I felt, I think I'm speaking for most people here when I say that. Mike Gnarowski who reads next is different perhaps in the extent to which his poetry is oriented towards reality. Not by implication because Beissel's also is very real and very down to earth and very much committed to the real world, but Gnarowski's poetry has a lot to do with Canadian poetry and the way it has turned towards the real world since about 1925 since A.J.M. Smith and Scott [F.R. Scott; https://www.wikidata.org/wiki/Q3081656] and A.M. Klein <sup><a href=\"https://www.wikidata.org/wiki/Q2778027\">w</a></sup> began writing. Gnarowski's been very active as a student of Canadian literature, a scholar and a bibliographer and so forth of our literature looking into the sources of this modern poetry and to letters and documents. In this he has done some very valuable work, indexing little magazines that would be otherwise, less well known, preparing bibliographies and he is now working on a larger anthology of criticism introducing the backgrounds of modern Canadian poetry. All this kind of study which is very valuable on the academic side is also important to his poetry I feel, that it places him within the line of modern Canadian poets who have tried to interpret the real, the visible, the actual, directly in poetry. Somewhat in the way I suppose that all modern poetry in English does, including T.S. Eliot's <sup><a href=\"https://www.wikidata.org/wiki/Q37767\">w</a></sup> \"Waste Land\" <sup><a href=\"https://www.wikidata.org/wiki/Q581458\">w</a></sup> and Ezra Pound's <sup><a href=\"https://www.wikidata.org/wiki/Q163366\">w</a></sup> \"Cantos\" <sup><a href=\"https://www.wikidata.org/wiki/Q2701465\">w</a></sup> and e. e. cumming's <sup><a href=\"https://www.wikidata.org/wiki/Q298703\">w</a></sup> comedies and satires and Auden's <sup><a href=\"https://www.wikidata.org/wiki/Q178698\">w</a></sup> poetry also. That is the characteristic of twentieth-century poetry is that its extreme realism and the bringing of the romantic conceptions of the last century to bear upon the actual world and showing that the conflict, the intense conflict that exists in the poet between his conception of things and what he sees before him. That you find in Gnarowski very much. He as a writer he is a meticulous craftsman, I don't know if that's symbolic [audience laughter]... He's also a meticulous craftsman and his poems seem to grow by accretion, very gradually. He writes with a stubborn integrity and knows what he thinks and what he's trying to say in a poem, they aren't just momentary fusions. They're highly worked up pieces of writing. There's a strong element of rationality and reality in this poetry, less of the flight of the emotions and the fantasy that's in most other poets. There's a very strong formal organization in his poetry, a clean speech, straight as the Greeks as Ezra Pound used to say in the past. His first book is entitled Postscript for St. James Street which has to do with, in some part anyhow, with the business world in which we live and he has chosen that quite consciously as a subject that could be turned into poetry, to take the business man, the real in that sense, St. James Street <sup><a href=\"https://www.wikidata.org/wiki/Q1526237\">w</a></sup> and see what can be made out of that imaginatively. Most poets when they treat a subject like that turn it into satire, because what else can you make out of St. James Street, but Gnarowski wants to keep his vision clear and straight for the fact to see what it really is without elevating too much or perhaps without caricaturing the reality, and it's a very interesting experiment. I'm sure you'll all enjoy listening to his poetry.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Louis Dudek",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/henry-beissel-and-mike-gnarowski-at-sir-george-williams-university-the-poetry-series-13-january-1967-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
