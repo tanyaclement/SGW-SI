@@ -25,6 +25,14 @@
               "none": ["Dorothy Livesay"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-2--canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
