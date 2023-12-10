@@ -1,0 +1,1248 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc.json",
+  "type": "AnnotationPage",
+  "label": "TOC",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unknown Male introduces David McFadden and Gerry Gilbert ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “They try to teach you things so fast in school...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Her right face, where I have seen her ride the last bus before...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "363.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “A moving picture moves...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "434.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “At the vending machine, Garfield got a bag of...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "453.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “I remember tootsie rolls were only in American comic books...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “I sat next to her on the bus. She kept adjusting her black wig...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "586.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads “London 1964” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "638.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads “Received your postcard today and dropped it...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "748.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads “The waitress calls the man in the corner Harry...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "817.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “Nine inches from navel to vulva...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "870.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “The pleasure, I said, I dreamed I was in    Vietnam...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "893.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “Dreams have become so full of intricate detail...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "974.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads “Single Mens Unit” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1106.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “The Bursby Police are a fine group of men...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1145.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “Napanee home for the aged Japanese Canadians...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1263.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Goodness and Mercy are following me...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1393.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads “Bicycle” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “On the bed, we held, two hands a pot...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1495.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “The successful young alderman of ambition...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1532.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “The tub was dirty so I washed it out...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1565.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “I’m leaving on Saturday, Harry the sweeper talking...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1578.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Blow by blow, solid, solid, short...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1609.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Bone, ring on my finger, bell...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1683.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “Spitting out the used up toothpaste...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1714.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “If you’re lucky enough to be there when your name is called...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1865.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Mirror, mirror from Middle English...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1948.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Stabit, she’s big, her mom sed...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1985.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Conductor, CN Conductor...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2022.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “It began to rain, we sat on the hill...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2125.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “The killer is at the top window...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2197.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Can’t see the key, you have to reach...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2218.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads “Garden” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2249.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “No one knows his own potential for evil...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2318.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “I made a left turn from Houston onto King...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2361.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Find your birds, ladies and gentlemen...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2390.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “She was small and pretty, my heart broke...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2492.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gerry Gilbert reads first line “Sometimes I miss the times I miss...”     ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2524.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “Elege [sp?] expands to fill the vacuum left by loss of spirit...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2538.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-toc-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "David McFadden reads first line “I’m Alabama-bound, my brain is firming round...”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2577.0"
+        }
+      }
+    }
+  ]
+}
