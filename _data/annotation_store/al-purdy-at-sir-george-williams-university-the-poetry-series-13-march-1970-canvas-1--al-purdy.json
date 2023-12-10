@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970-canvas-1--al-purdy.json",
+  "type": "AnnotationPage",
+  "label": " Al Purdy",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970-canvas-1--al-purdy-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The business about the caribou draining in the bilge water was one of the reasons, I suppose, I found it so extraordinary that, perhaps, that Eskimos should enjoy these shoot-em-up movies, was that they had just come a hundred miles or so after shooting caribou, bringing them back to Pang, Pangnirtung on the, on the Sound, on the...jeez, my memory's failing, I can't even remember the fjord it was. But anyway, they had just shot them and come a hundred miles back with them, and yet...and they were draining in their Peterhead boats, and yet they found these movies so exciting--I suppose I shouldn't find that so unusual, but I do. A crappy Hollywood <sup><a href=\"https://www.wikidata.org/wiki/Q34006\">w</a></sup> movie. And here's one called \"The Sculptors\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Al Purdy",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/al-purdy-at-sir-george-williams-university-the-poetry-series-13-march-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2695.0"
+        }
+      }
+    }
+  ]
+}
