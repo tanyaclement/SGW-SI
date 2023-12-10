@@ -1,0 +1,2621 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley.json",
+  "type": "AnnotationPage",
+  "label": "Robert Creeley",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "See now, it's extremely generous, Irving <sup><a href=\"https://www.wikidata.org/wiki/Q1673289\">w</a></sup>, all that. No, because we have had a very long association. I think I'd like to say my piece too, apropos that fact that I think that the kind of community that say either Irving or myself in this way were involved with was what kinds of, no really, how could you find the world?  I mean, I, for example first read his poems in the collection called Cerberus with Louis Dudek <sup><a href=\"https://www.wikidata.org/wiki/Q3261787\">w</a></sup> and Raymond Souster <sup><a href=\"https://www.wikidata.org/wiki/Q304129\">w</a></sup> and then I was very interested in the magazine that they had going called Contact, I was looking for connections I suppose, the man, in no hips sense, but we were, I was extraordinar--I wanted to know where the world was, and Irving seemed to be very much, very much part of any world I certainly could respect. And so, what he generously and definitely himself ignores was that he was that he was a very decisive contributing editor for the Black Mountain Review, and it was really, a very decisive friend all those fifteen years he imagines. Let me read now. Let me start from back then, \"A Song\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "232.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Song\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "347.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is apropos. \"The Conspiracy\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "397.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Conspiracy\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "403.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That was no joke. \"Chanson\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "432.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Chanson\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "446.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Operation\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Operation\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "485.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Death of Venus\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "515.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Death of Venus\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "521.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I was thinking Paul Blackburn <sup><a href=\"https://www.wikidata.org/wiki/Q7149388\">w</a></sup> happily has been here, so this is a poem, again of the same, the same situation that we were very active in the exchange of, I mean, again I want to emphasize  the sense that we were looking around to see what kinds of possibility that we could find in the world and I suppose if we shared anything, I was thinking of Irving's lovely stories and letters about the problems of visiting literary parties [laughs] and partly being forbidden because he made such awkward problems for guests and hosts, etc. So that Paul Blackburn at this point was translating from Provencal poetry, he'd been at the University of Wisconsin <sup><a href=\"https://www.wikidata.org/wiki/Q838330\">w</a></sup> and had had a very active and useful relation with the woman there, I think it was, teaching Provencal, so that he'd also been very involved with Pound <sup><a href=\"https://www.wikidata.org/wiki/Q163366?wprov=srpw1_0\">w</a></sup>, with Pound's senses of activity in verse and had therefore become particularly interested in Provencal and had begun to translate, and through the same agency that we had in Mallorca <sup><a href=\"https://www.wikidata.org/wiki/Q8828\">w</a></sup>, my wife and I then, the so called Divers Press that had published Irving's book, we published a collection of Paul's Provencal translations called Proensa. So the title, is actually Paul's title, I can't now remember what- I don't think he ever published the poem it was the title for, but I was struck by it, and you know, you take things, obviously from friends, it was that you were stealing, but that it was always a common situation. It's a form of adaptation, and I think a young friend now at Buffalo <sup><a href=\"https://www.wikidata.org/wiki/Q681025\">w</a></sup> were presently working was telling me that I am in the courtly tradition which is confusing to me, but I can see what he means simply that did pick up a lot through Paul Blackburn and writers in this way using a vocabulary or sense of possibility involved with that kind of writing. So this poem, for example, would be, would be actually a, would be a poem not written by Paul Blackburn, but a poem much informed by his way of perceiving. \"A Form of Adaptation\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "557.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Form of Adaptation\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "706.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "“The Whip”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "760.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Whip\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "763.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Please\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "809.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Please\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "816.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Three Ladies\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "876.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Three Ladies\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "879.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "[Unintelligible] \"New Year’s\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "964.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"New Year’s\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "977.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Entre Nous\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1054.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Entre Nous\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1060.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Place\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1088.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Place\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1091.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Hill\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Hill\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1172.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Awakening\" for Charles Olson <sup><a href=\"https://www.wikidata.org/wiki/Q922978\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1221.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Awakening\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1225.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Rain\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1324.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Rain\" [from For Love]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1332.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Kore\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1392.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Kore\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1400.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I thought I'd read a few more of these in this particular collection. Zukofsky <sup><a href=\"https://www.wikidata.org/wiki/Q975481\">w</a></sup> is a man I very much respect. \"The House\", for Louis Zukofsky.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1449.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The House\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1469.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Pool\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1506.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Pool\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1513.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Water, I really love water. To Water.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1578.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Rocks\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1586.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Fire\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1667.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Fire\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1670.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Something\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1711.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Something” [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1717.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That was a, there's another poem with that same sense, no really, I'm very, I think that some of the lovely incongruities of existence [unintelligible] Charlotte- whose last name I can't remember, [unintelligible] like to say was arrested in New York for trying to, as she put it, and I believe, lovely innocence, she wanted to have chamber music as quote sexy unquote as other life circumstances seemed to be becoming, so that she was playing something like [unintelligible] or Bach <sup><a href=\"https://www.wikidata.org/wiki/Q1339\">w</a></sup> in topless condition and was arrested by a very discreet policeman and taken away. Although she wanted apparently to entertain the sight as well as the ear. I don't know, I mean, why shouldn't she be permitted to do that? \"Distance\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1786.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Distance\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1863.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A couple of these, two from Mexico <sup><a href=\"https://www.wikidata.org/wiki/Q96\">w</a></sup>. \"The Window\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2069.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Window\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2076.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"To Bobbie\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2130.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"To Bobbie\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2134.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I wanna, there's one poem, apropos I'd like to go back to, a couple--\"The Rose\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2206.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Rose\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2222.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Love Comes Quietly\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2326.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Love Comes Quietly\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2333.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Gesture\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2355.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Gesture\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2361.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"For Love\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2392.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"For Love\" [from For Love].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2396.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I want to go back to this one. There's one... called, \"Anger\". This interpolates, so to speak of. I've been traveling in an extraordinary company of people the last, or the week previous and then, we'll see them again at the same activity tomorrow night in New York <sup><a href=\"https://www.wikidata.org/wiki/Q60?wprov=srpw1_0\">w</a></sup>. We were billed as quote contemporary voices in the arts, unquote, but apart from that the, we were visiting various colleges and universities in the Upstate New York area from say Albany State <sup><a href=\"https://www.wikidata.org/wiki/Q4709390\">w</a></sup> to Rensselaer Polytechnic <sup><a href=\"https://www.wikidata.org/wiki/Q49211\">w</a></sup> to Potsdam <sup><a href=\"https://www.wikidata.org/wiki/Q7603628\">w</a></sup>, and then places St Lawrence <sup><a href=\"https://www.wikidata.org/wiki/Q1411093\">w</a></sup> or Union College <sup><a href=\"https://www.wikidata.org/wiki/Q1567748\">w</a></sup> and we were trying, in effect, to- we had the problem of we were billed as a panel, seven men, sitting down to discuss- John Cage <sup><a href=\"https://www.wikidata.org/wiki/Q180727\">w</a></sup> is one of the participants, and he said, 'well', of course if we sit down, we say, 'well where do you think art is going?' and then you have to figure out where do you think art's come from? [laughter] And at that point you just might as well come home because it's going to be a long, long conversation. So we decided that we would, instead of having the formal sense of panel, that we would simply create, improvise, or go about in effect at our own activity, except that we wouldn't isolate ourselves in that but would simply try to improvise, as we were seven people, a poem that could permit each one of us to be active, all together so that we at no point had much- we had no decision as to what the others would be doing, so that the whole activity occurred as the complex, and I was- I mean, I had never had any experience of this kind previously at all, John Cage had made, oh very large decisions indeed about this kind of possibility in music, simply that he wanted all possibility of sound to be admitted into the context that music proposes. He also had very decisive relation to what are called loosely 'happenings', and both he and Merce Cunningham <sup><a href=\"https://www.wikidata.org/wiki/Q318364\">w</a></sup>, another participant, had in that with some previous experience, but the point is that they weren't- neither was trying to create a system from previous experience, but again was trying to think of how this activity of seven people could be evident in ways that simply didn't create a three-ring circus but was actually a participation so, I was intrigued, I was extraordinarily intrigued as to how words, as poetry and whatnot could enter into this circumstance, and because I literally was in it, I have in a sense no quote objective unquote experience at all, but it was extraordinary to me to hear how things are heard in a multiple, in a multiple event, rather than the kind of singularity that this occasion proposes. So I still have that on my mind in a way, and I may, I really do feel that say, all the arts, I mean if one does want some kind of statement about them, that all the arts are moving into a situation where the agency is becoming less and less singular, I don't mean necessarily that in some seminal sense, that everyone's quote an artist, I mean I don't know what an artist is, in one way at all, but I think that the participation is becoming much more a situation of process and activity, and that it is becoming less and less evident as one singular isolation of person, and I realize in my own writing how much the previous condition had been my, my occasion. So, I may be reading these poems for the last time in that sense. I'm certainly prepared to do so, I'm not at all interested in continuing an activity that maybe, you know, maybe have much more experience or much more range of possibility than say contemporary habits about it seem to imply. But anyhow, that was interesting to me to have that experience and also interesting of course is what it had as an impact on educational process. Immediately this activity finished and I've never been in such a- I mean I've been, you know, like they say in [unintelligible] auditorium in the summer, I certainly have seen light shows and other [unintelligible] happenings, a few years ago, it was Roy Kiyooka <sup><a href=\"https://www.wikidata.org/wiki/Q3445789\">w</a></sup>, knows, having been there also, there was an extraordinary happening like they say put on by the Tate Music Center from San Francisco <sup><a href=\"https://www.wikidata.org/wiki/Q62\">w</a></sup>  [unintelligible] being the painter doing the so called decor, doing the set, the set that was used, creating the visual. But this other thing was something quite distinct, simply that each person was so active in ways that he couldn't anticipate and we had with us also Billy Kluver <sup><a href=\"https://www.wikidata.org/wiki/Q4912866\">w</a></sup>, who can be most easily identified as the man who, is literally is an Engineer at Bell Labs <sup><a href=\"https://www.wikidata.org/wiki/Q217365\">w</a></sup> in New Jersey <sup><a href=\"https://www.wikidata.org/wiki/Q1408?wprov=srpw1_0\">w</a></sup> who engineered the 9 Evenings <sup><a href=\"https://www.wikidata.org/wiki/Q4646407\">w</a></sup> of the Armory [Hall (?)] in company with Rauschenberg <sup><a href=\"https://www.wikidata.org/wiki/Q164358\">w</a></sup>, [Vergan (?)] and Cage <sup><a href=\"https://www.wikidata.org/wiki/Q180727\">w</a></sup> and others, a situation that brought technology into close apropos with the arts, and led to the practical effects of this activity are very evident, it led to ten patented inventions, all of which have much more extensive use, let's say than that occasion of those particular evenings. That was [unintelligible] you know, many, many poets [unintelligible] of this kind, that is, it turns out that when the arts are permitted this situation, that, I think we were talking to Irving earlier this evening, I think we both fear a situation, or have some kind of, feeling of personal awkwardness about a situation that is turning to the arts as if the arts had a necessary message or condition of life to stake for people to have use of, I mean, again, in these evenings we were round in these colleges, I mean the students or the people present, again and again said that \"what were you trying to tell us?\" And the point was that we weren't trying to tell them anything. We were in fact, we thought, that the activity was something which each person could have experienced, it would be like going to the beach and saying what do you think the water is trying to tell us? [audience laughter.] And you stand there, you're swimming [unintelligible] for two hours enjoying yourself thoroughly and then you come out and say to your friend, but what did it all mean? You know, we assumed that the people there would have some - would have some decision of their own, you know, did you think it was too cold, or too hot, or did you enjoy it, or you know, that's the kind of question no one can answer for you. In any case, I do feel the arts has, as Irving feels also, are being turned to, as some possibility of decision in contemporary society and don't think they can offer that ever, I don't- I think the very value of the arts is that they have no conclusion of this kind to propose, that what they do give is something I think perhaps Pound puts as ably as anyone when he says that \"art is the antenna of the race\". It's a very large statement obviously, and I think what he proposes in it is perhaps even can be put more simply in that the arts tend to experience the condition of the society that is, in a sense, and that way I have use of the condition of the society, perhaps more immediately than any other definition or activity in the society, I mean they tend to respond to the present condition perhaps more decisively than any other segment, I mean everyone else tends, not- I don't mean this in any put down sense of their attitudes in this society but I mean, that as the war goes on because it's an historical precedent and so on and so forth, I mean people continued to act as though what they were doing is still what they are doing, what they are doing is still what they were doing and they literally tend to continue in those habits of attitude or activity until something simply makes them impossible, but the arts tend to have experience I think of present condition, that they have no other viable occasion, they tend to propose what the immediate experience of say any life situation simply is, but they have no instruction therefore offer except that is possible, so that as I say, if poetry, as we've now experienced it is about to yield to another situation that is if books or printed medium of this order are to be changed, in societal experience, great, I mean I don't see why I want you to have to carry around all these pieces of paper, there must be, I'm sure that there's a simple way to communicate this kind of content but I do want to make the insistence that these poems or what I'm doing here has- I mean, I'm enjoying this, I'd probably do this even if you weren't here. [audience laughter], obviously did do it, you know. Now this is something else again, I had no messages, if the media is the message, this is perhaps the most absolute demonstration you'll probably get. \"Anger\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2559.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Anger\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3241.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'd like if people are feeling reasonably restless, I'd like to read one or two more poems and then one more story to make a selection frankly [unintelligible]  I think I'll see what would be useful. A couple of shorter poems for the end. One called \"A Tally\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3565.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Tally\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3601.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Enough\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3701.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Enough\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3705.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "One last poem I want to read now, [unintelligible] \"The Hole\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3960.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Hole\" [from Words].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3967.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Read a story that's in effect going back some time to the time of the writing of the Island, a novel. And I hadn't written any prose for some time, not since the middle 50's and I had a [joke (?)], myself and my wife and our four kids were all down in Guatemala <sup><a href=\"https://www.wikidata.org/wiki/Q774\">w</a></sup>where I was tutoring children on a coffee plantation, and having that kind of isolation and time that seemed to, you know, have the possibility to try some prose. I like prose simply that it has--it's continuous, it permits a kind of variety of activity in ways that sometimes poetry from my own experience, at least in the way I'm given to write it, doesn't altogether- I mean, the emotional demand, let's say in a poem is in my own experience has known it, is of such order that alternatives in a curious way aren't possible, you simply say what you're thus brought to say as best you can. In prose, the emotional so called situation tends to be more various, it goes up, down, it ebbs, flows, re-forms, changes its mind, and so on and so forth, so I--not in recent years, I think the last prose I wrote was this novel, called the Island and I've not really written any since, that's about--when I was in Vancouver <sup><a href=\"https://www.wikidata.org/wiki/Q24639\">w</a></sup>teaching I finished that novel, and that was the last prose I think I've written and hopefully won't--I would like to go back to prose for a time. I'd like to have it open, I mean, again, this experience of being with these particular people, whenever habits become, oh let's say whenever you expect everything to be as you have experienced, it's time to look out or do something else because it means that you're assuming of the reality of your life has become too much of a pattern of a habit. Anyhow, this is a story called \"The Book\". I sort of like this story.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4073.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Book\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4222.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967-canvas-1-robert-creeley-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you very much for your...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Robert Creeley",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/robert-creeley-at-sir-george-williams-university-the-poetry-series-24-february-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "4875.0"
+        }
+      }
+    }
+  ]
+}
