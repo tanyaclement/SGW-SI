@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Earle Birney at Sir George Williams University, The Poetry Series, 23 February 1968" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5185.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/earle_birney_i006-11-018.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 5185.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
