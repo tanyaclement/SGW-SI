@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-1--canvas-1-richard--dick---sommer.json",
+  "type": "AnnotationPage",
+  "label": "Richard (Dick)  Sommer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-1--canvas-1-richard--dick---sommer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'd like to introduce you to two poets who are Vancouver <sup><a href=\"https://www.wikidata.org/wiki/Q24639\">w</a></sup> friends of mine. Their poetry is quite different, as you'll discover. But from my own point of view, they...I owe both of them a debt that is similar in both cases though neither probably knows it. They've made me, in their own ways, rethink my own feelings about  what ought to constitute poetry and poems. And in the case of Maxine Gadd, this thinking went into a review which was then sent to the Firepoint which then folded. So you may never see that. And in the case of Andy Schroeder <sup><a href=\"https://www.wikidata.org/wiki/Q4755619\">w</a></sup>, found its way into a long tape harangue between the two of us on the subject of form in poetry. Which I think is now in the Sir George Williams Library <sup><a href=\"https://www.wikidata.org/wiki/Q5159005\">w</a></sup>, where any of you can endure it if you wish to. At any rate, the first of these poets to read will be Maxine Gadd. There will be a fifteen minute break, and then Andreas Schroeder will read. Maxine. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Richard (Dick)  Sommer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
