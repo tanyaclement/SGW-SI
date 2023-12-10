@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-roy-kiyooka.json",
+  "type": "AnnotationPage",
+  "label": "Roy Kiyooka",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-roy-kiyooka-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Second half of our program...on the second half of our program we will have Gwendolyn MacEwen reading for us. I have notes in my hand concerning her, but on the back of this album, here, a CBC <sup><a href=\"https://www.wikidata.org/wiki/Q461761\">w</a></sup> publications release of...is it eight Canadian poets? One, two, three, four… [Audience laughter]. Yes, eight Canadian poets, this album is about to be released very shortly. There's a much more comprehensive biography of her, so I shall read this as an introduction to her. Born in Toronto <sup><a href=\"https://www.wikidata.org/wiki/Q172\">w</a></sup> in 1941, began publishing poetry in the Canadian Forum <sup><a href=\"https://www.wikidata.org/wiki/Q5030045\">w</a></sup> at age fifteen. She left school at eighteen, a high school dropout, as the sociologists would say [audience applause and laughter] to devote herself to writing. She has published three books of poetry, The Drunken Clock, The Rising Fire, and most recently, A Breakfast for Barbarians. She has also published a novel called Julian the Magician. In 1965, she was awarded the prize for poetry in the CBC's new writing contest. With the aid of a Canada Council <sup><a href=\"https://www.wikidata.org/wiki/Q2993809\">w</a></sup> grant, she is currently at work on a novel on the, how do you pronounce the guy's name? [whispers off-mic to MacEwen]...Pharaoh Akhenaten <sup><a href=\"https://www.wikidata.org/wiki/Q81794\">w</a></sup> [laughter] of the eighteenth dynasty in Egypt <sup><a href=\"https://www.wikidata.org/wiki/Q79\">w</a></sup>. Ladies and gentlemen, Gwendolyn MacEwen.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-roy-kiyooka-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "...everybody here, I want to thank Gwendolyn MacEwen. Our night three is on December the second. Thank you very much. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1534.0"
+        }
+      }
+    }
+  ]
+}

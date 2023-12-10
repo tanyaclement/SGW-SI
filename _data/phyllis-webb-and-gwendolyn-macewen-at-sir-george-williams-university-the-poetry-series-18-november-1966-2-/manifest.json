@@ -8,6 +8,32 @@
         "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1542.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-roy-kiyooka.json",
+            "label": {
+              "none": ["Roy Kiyooka"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2--canvas-1-gwendolyn-macewen.json",
+            "label": {
+              "none": ["Gwendolyn MacEwen"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/phyllis-webb-and-gwendolyn-macewen-at-sir-george-williams-university-the-poetry-series-18-november-1966-2-/canvas-1/paintings",
