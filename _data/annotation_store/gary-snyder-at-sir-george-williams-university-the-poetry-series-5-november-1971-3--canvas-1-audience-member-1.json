@@ -1,0 +1,164 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-1.json",
+  "type": "AnnotationPage",
+  "label": "Audience Member 1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Do you remember getting tiny toys for your children from San Francisco <sup><a href=\"https://www.wikidata.org/wiki/Q62\">w</a></sup>? There was a small book that I saw in the States, folded out in a certain, section-by-section, parts of the earth kinda, growing larger and larger and larger...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "629.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-1-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No, I guess...it's sort of, um, anti-war toys.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "648.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-1-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Um, I don't know, it was from a certain, a certain group of people, and I don't remember their names. It was beautiful. Nice gift to give little kids.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "656.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-1-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Okay. You bet. [Inaudible]",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 1",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "673.0"
+        }
+      }
+    }
+  ]
+}

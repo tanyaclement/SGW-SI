@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2.json",
+  "type": "AnnotationPage",
+  "label": "Audience Member 2",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Man you're incredible. You're so good. I really dig your stuff.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "679.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I really dig it, will you come for a drink with me later? With me and my friends?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "686.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "You sure? ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "693.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I don't, I don't know, I really dig that, I really dig that [inaudible] I just came in, I thought your stuff was so incredible...Your stuff, the way you bring it across to people!",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "698.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Have you written a book?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "714.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "No no no, no really, no really, I don't know too much about...Gary Snyder, you know?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "718.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "See I'm writing this play right now, you know? I'm trying to express myself and it's really...it's really strange [Cut off abruptly].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Audience Member 2",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "733.0"
+        }
+      }
+    }
+  ]
+}

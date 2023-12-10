@@ -8,6 +8,56 @@
         "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1859.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-1.json",
+            "label": {
+              "none": ["Audience Member 1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-gary-snyder.json",
+            "label": {
+              "none": ["Gary Snyder"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-audience-member-2.json",
+            "label": {
+              "none": ["Audience Member 2"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-annotation.json",
+            "label": {
+              "none": ["Annotation"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/paintings",
