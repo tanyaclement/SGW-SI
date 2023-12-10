@@ -12,6 +12,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/milton-kessler-at-sir-george-williams-university-the-poetry-series-14-november-1969-canvas-1-audience.json",
             "label": {
               "none": ["Audience"]
