@@ -17,6 +17,14 @@
               "none": ["F.R. Scott"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {

@@ -1,0 +1,1434 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc.json",
+  "type": "AnnotationPage",
+  "label": "TOC",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces his reading and “New Names” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “New Names”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "151.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Old Song”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "206.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Trees in Ice”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "257.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Trees in Ice”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "266.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Snow Drift”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "321.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “North Stream”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "347.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Stone” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "389.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Stone”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "415.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Street Cry” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "489.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Street Cry”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "514.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Laurentian Shield”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "543.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Laurentian Shield”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "581.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Flying to Fort Smith” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "747.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Flying to Forth Smith”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "773.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “T.V. Weatherman” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "854.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “T.V. Weatherman”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "881.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Trans Canada” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "990.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Trans Canada”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1002.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “On the Terrace, Quebec” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1159.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “On the Terrace, Quebec”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1181.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “A Grain of Rice”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1288.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “A Grain of Rice”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1324.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Bird”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1465.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Eden”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1600.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Eden”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1617.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “The Indians Speak at Expo ’67” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1765.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Indians Speak at Expo ’67”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1824.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces unknown ‘treaty’ found poem [Howard Fink first line: “We the     ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1904.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads unknown ‘treaty’ found poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces unknown poem about the life of MacGillivray [Howard Fink first line      “While the trade is confined to a...”] ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2047.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads unknown poem",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2127.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Will to Win” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2127.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Will to Win”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2181.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Heart”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2266.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Girl Running Down Hill”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2324.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Upon Watching Margaret Dying”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2396.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Connaissance, Knowing” [Howard Fink first line: “I have in my mouth...”] ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2495.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Connaissance, Knowing”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2516.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Time Corrected” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2607.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Time Corrected”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2626.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Vision”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2723.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “Last Rites” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2856.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Last Rites”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2866.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduces “A l’ange avantgardien” [Howard Fink first line: “We must leave the        handrails...”] ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3079.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-toc-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “A l’ange avantgardien”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3169.0"
+        }
+      }
+    }
+  ]
+}
