@@ -1,0 +1,125 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-george-oppen.json",
+  "type": "AnnotationPage",
+  "label": "George Oppen",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-george-oppen-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I will, I plan to read two of the longer poems in the last volume, so I will just read the poems. Without pleasantries and so on. We can easily make a conversation if you want afterwards, but I think I better just read the books, read the poems, and I'll make a few intermissions, it's a great deal of poetry both for you and for me, at a single sitting, and we'll make intermissions as however you think, however I think. I'll start with the poem in Of Being Numerous, called \"The Route\". That's r-o-u-t-e, route.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Oppen",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "168.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-george-oppen-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Route\" from Of Being Numerous.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Oppen",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "217.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-george-oppen-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading “The Route’",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "George Oppen",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1138.0"
+        }
+      }
+    }
+  ]
+}

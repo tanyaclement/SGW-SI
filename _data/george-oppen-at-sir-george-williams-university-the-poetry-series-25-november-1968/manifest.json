@@ -8,6 +8,32 @@
         "id": "https://tanyaclement.github.io/SGW-SI/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2412.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-unknown-.json",
+            "label": {
+              "none": ["Unknown "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968-canvas-1-george-oppen.json",
+            "label": {
+              "none": ["George Oppen"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/george-oppen-at-sir-george-williams-university-the-poetry-series-25-november-1968/canvas-1/paintings",
