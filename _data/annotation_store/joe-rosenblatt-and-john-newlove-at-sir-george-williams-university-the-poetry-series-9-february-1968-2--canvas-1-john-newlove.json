@@ -1,0 +1,1919 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove.json",
+  "type": "AnnotationPage",
+  "label": "John Newlove",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "They weren't quotations from whoever, whatever Greek name that was you just made up, [audience laughter], they were from Herodotus <sup><a href=\"https://www.wikidata.org/wiki/Q26825\">w</a></sup>. And, Roy <sup><a href=\"https://www.wikidata.org/wiki/Q3445789\">w</a></sup> might have mentioned that, while I suppose technically you could say I was sharing the studio, I was paying half the rent.  Almost half the rent. I was paying some rent. [Audience laughter]. And he never mentioned who won most of the chess games. I write a lot of...who's throwing things at me?  You didn't win any chess games. [Audience laughter]. And you weren't paying any rent, either. I write a lot of poems about dreams, one night I woke up with a dream about an Australian chief and I managed to write down most of it. It's called \"The Almost King\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "291.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Almost King\" [audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "342.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, when you have dreams like that, you don't really have much chance. I've a number of short poems, I'm told it's not good to give them at poetry readings because people don't listen fast enough or something. But. [Laughter]. This...Yes, that ashtray is stolen from the faculty club, George, and your wife stole it. [Audience laughter]. This one is called \"The Candle\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "512.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Candle\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "547.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Again a dream. This poem, misprinted in the Malahat Review <sup><a href=\"https://www.wikidata.org/wiki/Q1567225\">w</a></sup>, is one that I most like. It's called \"The Engine and the Sea\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "559.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Engine and the Sea\" [published later in The Cave and in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "572.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Love poems about sleep. And about dreams. This one is called \"Before Sleep\". I used to have a great deal of trouble going to sleep because I was afraid I would have nightmares.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "686.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Before Sleep\" [later published in The Cave and in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "704.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And again another one about dreams, this one called \"The Dream Man”. Dreamed I once wrote a dream about somebody else's dream, but that's not fair, dreams are copyright. This was my own. [Audience laughter].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "773.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Dream Man\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "789.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "According to the rules, you're supposed to say things in between poems, but I can't really ever think of anything appropriate to say in between them, so. I used to have some nice Ed Sullivan <sup><a href=\"https://www.wikidata.org/wiki/Q83807\">w</a></sup> routines, but I've forgotten them. This poem is called \"Burn\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "875.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Burn\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "892.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this one, an old one, again fairly short. It's called \"No Song\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "916.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"No Song\" [from Black Night Window and published later in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "925.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I have a poem I wrote for and about a friend, but after the poem was finished as you may see, I showed it to him but I didn't tell him it was about him. He said it was a very good poem and very accurate, and so on. But he didn't know it was about himself. It's called, \"What do you want, what do you want?\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "947.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"What do you want, what do you want?\" [from Black Night Window and later published in The Fat Man; audience laughter and applause throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "966.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "After he said it was such an accurate poem, I couldn't tell him it was about him. This one's called \"Strand by Strand\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1021.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Strand by Strand\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1034.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is the first time I've kept to a list of...because usually I decide that I don't want to read a particular poem and I get all confused, but I'm very pleased with myself when I keep right to the schedule. Everything organized, everything complete. This short poem in five naturally short pieces is called \"One Day\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1076.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"One Day\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1103.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Charles Williams <sup><a href=\"https://www.wikidata.org/wiki/Q124735\">w</a></sup> died in about 1953, he was an Englishman, originally Cockney. He wrote a number of what I think are very good poems, a number of detective novels, some theological deputation, I guess would be the right word. One of his detective novels is about finding the holy grail. It's called War in Heaven and it's out in Faber Paperback, go and buy it, it's really nice. This poem is for and from and about Charles Williams.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1135.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “For and From Charles Williams” [from What They Say].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1175.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now my list has gone to pot, because I've got a poem down in a magazine that I didn't bring. So. One day some years ago, I was hitchhiking out to British Columbia <sup><a href=\"https://www.wikidata.org/wiki/Q1974\">w</a></sup>. I got to a place called Golden <sup><a href=\"https://www.wikidata.org/wiki/Q1020179\">w</a></sup>, B.C. and I had to go up the Big Bend Highway <sup><a href=\"https://www.wikidata.org/wiki/Q30253222\">w</a></sup>, this would be before the Rogers Pass <sup><a href=\"https://www.wikidata.org/wiki/Q383051\">w</a></sup> was open. And I got a ride about thirty miles in on what I didn't know was an illegally-present logging truck, because the Big Bend Highway was not open to traffic for three more days. So I sat three days on the Big Bend Highway. This poem roughly...well, it's called \"Solitaire\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1204.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Solitaire\" [from Black Night Window and published later in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1247.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This short one called \"El Paso\" because El Paso was the place where it happens. It was ninety degrees outside in El Paso <sup><a href=\"https://www.wikidata.org/wiki/Q16562\">w</a></sup>, and with the air conditioning, which I couldn't turn off, it was about thirty below. And I couldn't sleep, I had to get up in the middle of the night and get dressed and get under the blankets, and I caught terrible cold in that motel. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1282.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"El Paso\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1301.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Since I've been out of Nova Scotia, I've written a couple of poems about or around Nova Scotia. The main thing I can't seem to get in a poem just yet is the difference between the Pacific Ocean <sup><a href=\"https://www.wikidata.org/wiki/Q98\">w</a></sup>, in Vancouver, and the Atlantic <sup><a href=\"https://www.wikidata.org/wiki/Q97\">w</a></sup>. There seems a tremendous difference that I can feel but that I can't seem yet to grasp in the fact. This poem is called \"God Bless You\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1316.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"God Bless You\" [later published in The Cave and in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1344.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The next piece is on the back of my list. I think this is about the only other ethnic Nova Scotia-type poem that I've got, but I was only there for about six months and I can't quite put out a book yet. This is called \"By the Grey Atlantic\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1367.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"By the Grey Atlantic\" [published later in The Cave and in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1384.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I'll read quickly a number of poems from this book. I'm anxious not to keep you too long, if anybody feels like walking out, I won't really be insulted if you'll [unintelligible]. These are all quite simple so I might as well just give the title in my school-class fashion and then go on to read them. This is called \"The Photograph my Mother Keeps\". I might see first that Veregin <sup><a href=\"https://www.wikidata.org/wiki/Q7921203\">w</a></sup> is a town in Saskatchewan named after a leader of the Doukhobors <sup><a href=\"https://www.wikidata.org/wiki/Q5302215\">w</a></sup>, they first came to that area after Peter the Lordly Verigin <sup><a href=\"https://www.wikidata.org/wiki/Q4107818\">w</a></sup> [unintelligible] his palace, which is really just a gigantic farmhouse, it's outside the town. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1411.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Photograph my Mother Keeps\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1459.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one, about a pregnant girl, it's called \"On Her Long Bed of Night”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1504.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"On Her Long Bed of Night\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1509.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "So, this one's about my father. Drowning kittens, in a lot of houses in Saskatchewan you keep a rain barrel on a corner of the house underneath a spout to get the fresh rainwater for washing and so on.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1572.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “My Daddy Drowned” [from Elephants, Mothers and Others and later published in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1587.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is called \"Half in Love\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1638.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Half in Love\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1642.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is called \"Sister Cowen\". She used to run a mission in Edmonton <sup><a href=\"https://www.wikidata.org/wiki/Q2096\">w</a></sup>, and she had very good stew. She was a very violent woman. On Christmas Eve she used to give all the bums fifty cents, but she gave a particularly long sermon on Christmas Eve. She was very down on booze.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1682.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Sister Cowen\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1705.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Laughter.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is set in Vancouver outside Roy Kiyooka's studio. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1729.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1738.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The name of this book is Elephants, Mothers, and Others. I've read poems about others and one about my mother, and this is the elephant’s poem. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1770.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Elephants” from Elephants, Mothers, and Others [and published later in The Fat Man; audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1781.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I've gone on too long, there is a longish poem called \"The Fat Man\", which I want to read, so I'll skip the rest of the stuff I thought I was going to read and just do this one.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1801.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's not finished, you see, it's not...[Audience laughter].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2088.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Resumes reading \"The Fat Man\" [published later in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2092.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-john-newlove-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "John Newlove",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2193.0"
+        }
+      }
+    }
+  ]
+}

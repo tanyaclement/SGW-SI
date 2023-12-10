@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-roy-kiyooka.json",
+  "type": "AnnotationPage",
+  "label": "Roy Kiyooka",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-roy-kiyooka-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, it gives me a very special kind of pleasure to introduce John Newlove. An old and dear friend. We met in the fall of '61 in Vancouver, and both of us had come from Saskatchewan <sup><a href=\"https://www.wikidata.org/wiki/Q1989\">w</a></sup> to Vancouver. I think that some of John's most memorable early poems have to do with the fact of Saskatchewan.  It's perhaps not an exaggeration to say that the place does continue to haunt him, and hopefully that the exorcism is not complete and that we may get some more Saskatchewan poems. Subsequently, and this is still in Vancouver, we shared a studio, or rather, he shared my studio [audience laughter], for a period of little over a year. Now during this time, we played marathon games of chess, ate several hundred dozens of chocolate-coated Long Johns, scribbled poems, dribbled paint, drank cheap red wine...and read through at least a dozen five-foot shelves of great and lesser works of literature, not to mention the confusion of mice, drunken poets, women, painters, and assorted kooks who kept visiting us. Now, it was during this period that his first book, called Grave Sirs was printed, and I have in italics here \"more or less.\" If you want to know the history of that book, you can ask John. I think there must be fifty odd copies that are still unbound someplace. This was printed by Robert Reed. It was followed by a second, called Elephants, Mothers, and Others, done by Tak Tanabe, again in Vancouver, and subsequent to that, it was rumored that Robert Columbo had discovered John Newlove for Canadian poetry [audience laughter], when he collected some of his works together in an anthology called Poetry '64. Now. Following this, of course, Contact Press bought out his book, Moving in Alone, which was perhaps the book that brought him his first large-scale critical attention. Meanwhile, of course, I'd come here, and some time afterwards I received a book, a wee book, called...let's see. [Audience laughter]. Can't read my own printing here. What They Say. Yes, What They Say is a wee book of poems, it's made up of the rejects from his manuscript that he submitted to McClelland and Stewart <sup><a href=\"https://www.wikidata.org/wiki/Q6800322\">w</a></sup>. McClelland and Stewart is to bring out his next book of poems called Black Night Window, when they get around to doing it. The manuscript has been in their hands for over twenty-four months. There has been much other activity which include three, two years and a third one coming up as poet in residence at Deep Springs <sup><a href=\"https://www.wikidata.org/wiki/Q5250324\">w</a></sup> in California <sup><a href=\"https://www.wikidata.org/wiki/Q99\">w</a></sup>. I want to conclude this little preamble by saying that at the time that John moved out of our studio, I took over this room that he slept in and wrote poetry in. The mattress in this room was about sixteen inches from the floor, and on two sides, on the wall, there was copious scribbling.  Most of it were quotations from Heraclitus <sup><a href=\"https://www.wikidata.org/wiki/Q41155\">w</a></sup> that he was reading at that time.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}

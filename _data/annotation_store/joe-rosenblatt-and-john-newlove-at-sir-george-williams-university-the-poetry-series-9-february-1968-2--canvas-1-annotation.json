@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-annotation.json",
+  "type": "AnnotationPage",
+  "label": "Annotation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-annotation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Fat Man\" [published later in The Fat Man].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Annotation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1818.0"
+        }
+      }
+    }
+  ]
+}
