@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-1--canvas-1-roy-kiyooka.json",
+  "type": "AnnotationPage",
+  "label": "Roy Kiyooka",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-1--canvas-1-roy-kiyooka-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Good evening. Hello, Mr. Bowering <sup><a href=\"https://www.wikidata.org/wiki/Q1239280\">w</a></sup>. [Audience laughter]. Well, welcome to the sixth reading of our second series of evenings with Canadian and American poets. Tonight we have Joe Rosenblatt <sup><a href=\"https://www.wikidata.org/wiki/Q1691575\">w</a></sup>, Toronto <sup><a href=\"https://www.wikidata.org/wiki/Q172\">w</a></sup>, and John Newlove <sup><a href=\"https://www.wikidata.org/wiki/Q6250356\">w</a></sup>, formerly of Vancouver <sup><a href=\"https://www.wikidata.org/wiki/Q24639\">w</a></sup>, now residing in Nova Scotia <sup><a href=\"https://www.wikidata.org/wiki/Q1952\">w</a></sup>. Joe Rosenblatt will begin the reading, there will be an intermission, and John Newlove will follow. I'm going to quote largely from the copy in Joe Rosenblatt's book, The LSD Leacock, for I hope servient biographical information. It goes like this, he was born in Toronto on December the 26th, nineteen hundred and thirty-three. He says that he has suffocated in Toronto ever since then. He attended the Central Technical School <sup><a href=\"https://www.wikidata.org/wiki/Q5061898\">w</a></sup> and dropped out in Grade 10, he has worked as a grave-digger, plumber's helper, civil servant, railway express misanthrope. He has attended the Provincial Institute of Trades where he acquired a diploma as a welder fitter, his favourite writers are Ambrose Biers, William Blake <sup><a href=\"https://www.wikidata.org/wiki/Q41513\">w</a></sup>, Emily Dickinson <sup><a href=\"https://www.wikidata.org/wiki/Q4441\">w</a></sup>, and A.M. Klein <sup><a href=\"https://www.wikidata.org/wiki/Q2778027\">w</a></sup>, and his favourite dream, is Cyclops turning up at a [nigh-bank (?)]. [Audience laughter]. His previous book of poems, which was probably printed in nineteen hundred and sixty-three, is called Voyage of the Mood. Joe Rosenblatt.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-1--canvas-1-roy-kiyooka-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There'll be a fifteen minute inter- [cut off abruptly]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2675.0"
+        }
+      }
+    }
+  ]
+}
