@@ -8,6 +8,40 @@
         "id": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
         "type": "Canvas",
         "duration": 6455.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-introducer.json",
+            "label": {
+              "none": ["Introducer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-joseph-langland.json",
+            "label": {
+              "none": ["Joseph Langland"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/paintings",

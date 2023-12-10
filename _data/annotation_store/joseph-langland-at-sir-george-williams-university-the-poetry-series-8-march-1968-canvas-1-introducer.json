@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This evening, Joseph Langland <sup><a href=\"https://www.wikidata.org/wiki/Q6284810\">w</a></sup>reads. Mr. Langland was born in Spring Grove <sup><a href=\"https://www.wikidata.org/wiki/Q203865\">w</a></sup>, Minnesota <sup><a href=\"https://www.wikidata.org/wiki/Q1527\">w</a></sup>, and attended the public schools of Minnesota and Iowa <sup><a href=\"https://www.wikidata.org/wiki/Q1546\">w</a></sup>, attended the State University of Iowa <sup><a href=\"https://www.wikidata.org/wiki/Q182973\">w</a></sup>. He has taught at the University of British Columbia <sup><a href=\"https://www.wikidata.org/wiki/Q391028\">w</a></sup>, the University of Washington <sup><a href=\"https://www.wikidata.org/wiki/Q219563\">w</a></sup>, the San Francisco <sup><a href=\"https://www.wikidata.org/wiki/Q62\">w</a></sup> Poetry Center, and so forth. He has been a professor of English at the University of Wyoming <sup><a href=\"https://www.wikidata.org/wiki/Q1326975\">w</a></sup>, and he is presently a professor of English at the University of Massachusetts <sup><a href=\"https://www.wikidata.org/wiki/Q1061122\">w</a></sup>. And he has been associated with the Massachusetts Review as a member of its editorial board. His publications: For Harold, a collection of memorial poems for a younger brother killed in World War II <sup><a href=\"https://www.wikidata.org/wiki/Q362\">w</a></sup> and published in Germany <sup><a href=\"https://www.wikidata.org/wiki/Q183\">w</a></sup> in 1945, The Green Town, which was published in 1956 by Scribner’s <sup><a href=\"https://www.wikidata.org/wiki/Q845617\">w</a></sup> and nominated for the National Book Award <sup><a href=\"https://www.wikidata.org/wiki/Q572316\">w</a></sup> in Poetry in 1957, and The Wheel of Summer published in 1963 by Dial Press <sup><a href=\"https://www.wikidata.org/wiki/Q5270470\">w</a></sup>, and winner of the Melville Kane Poetry Award. He has also published two anthologies, Poet's Choice, co-edited with Paul Engle <sup><a href=\"https://www.wikidata.org/wiki/Q7150503\">w</a></sup>, published in 1952, and The Short Story, published in 1956 and co-edited with James B. Hall <sup><a href=\"https://www.wikidata.org/wiki/Q95328740\">w</a></sup>, published by Macmillan <sup><a href=\"https://www.wikidata.org/wiki/Q2108217\">w</a></sup>. He has forthcoming a volume, a small volume called Adlai Stevenson, which is to be published in Iowa City <sup><a href=\"https://www.wikidata.org/wiki/Q487977\">w</a></sup> by the Stonewall Press, and is, will contain one long memorial poem and two lyrics. And also a larger volume, to appear perhaps next year, called Songs and Half-Songs. His poems have appeared in numerous anthologies, and have appeared in such journals as Poetry Chicago, Hudson Review, Chicago Review <sup><a href=\"https://www.wikidata.org/wiki/Q5095765\">w</a></sup>, Paris Review <sup><a href=\"https://www.wikidata.org/wiki/Q3988628\">w</a></sup>, London Magazine <sup><a href=\"https://www.wikidata.org/wiki/Q2154323\">w</a></sup>, Nation, and so forth. He has written lyrics for songs by Morton Gould <sup><a href=\"https://www.wikidata.org/wiki/Q1352656\">w</a></sup>, Phillip Esantzen, Elliot Schwartz, and also lyrics and music for folk songs. He has been recorded by FolkWays <sup><a href=\"https://www.wikidata.org/wiki/Q1435522\">w</a></sup>, Scholastic Records, reading eight of his poems, and he has held a number of grants. In 1953-54 he was, he held a Ford Faculty Fellowship in the Humanities, in 1955 and 56, an Amy Lowell Traveling Poetry Fellowship, and in 1966, or last year, rather, a National Council of Arts Grant in Poetry, and in this period, he gave a series of readings at universities throughout Europe <sup><a href=\"https://www.wikidata.org/wiki/Q46\">w</a></sup>, in Glasgow <sup><a href=\"https://www.wikidata.org/wiki/Q4093\">w</a></sup>, London <sup><a href=\"https://www.wikidata.org/wiki/Q84\">w</a></sup>, Sussex <sup><a href=\"https://www.wikidata.org/wiki/Q23346\">w</a></sup>, Munich <sup><a href=\"https://www.wikidata.org/wiki/Q1726\">w</a></sup>, Oslo <sup><a href=\"https://www.wikidata.org/wiki/Q585\">w</a></sup>, and University College in Dublin <sup><a href=\"https://www.wikidata.org/wiki/Q1068258\">w</a></sup>. Ladies and gentlemen, Professor Joseph Langland. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "6.0"
+        }
+      }
+    }
+  ]
+}
