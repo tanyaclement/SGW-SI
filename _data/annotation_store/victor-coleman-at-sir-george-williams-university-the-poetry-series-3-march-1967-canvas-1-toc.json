@@ -1,0 +1,628 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc.json",
+  "type": "AnnotationPage",
+  "label": "TOC",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Introductions of Coleman and George Bowering (also reading the same night, but not on    this recording.) ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Victor Coleman introduces poem by Bill Hutton from History of America, first line “John         Fitzgerald Kennedy shot John Wilkes Booth...” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "169.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads unknown poem by Bill Hutton from History of America.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "215.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Introduces “Buff Hello 6”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "345.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Buff Hello 6”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "393.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “The Lady Vanishes”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "581.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Introduces “For Basil Bunting” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "674.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “For Basil Bunting”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "708.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Introduces “Day Seven” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "754.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Day Seven”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "849.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Day Eight”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "873.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Day Ten”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "919.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Introduces “Day Thirteen” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "978.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Day Thirteen”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "989.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Introduces “Day 21”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1217.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Day 21”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1239.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Day 22”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1356.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Day 24”",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1496.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Introduces “Separations” ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1702.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "- Reads “Separations”, #4, 5, 6, 7, 8, 10, 11, 12, 14.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1736.0"
+        }
+      }
+    }
+  ]
+}

@@ -12,6 +12,14 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/victor-coleman-at-sir-george-williams-university-the-poetry-series-3-march-1967-canvas-1-victor-coleman.json",
             "label": {
               "none": ["Victor Coleman"]
