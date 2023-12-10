@@ -8,6 +8,16 @@
         "id": "https://tanyaclement.github.io/SGW-SI/robert-kelly-at-sir-george-williams-university-the-poetry-series-4-november-1966/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1497.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/robert-kelly-at-sir-george-williams-university-the-poetry-series-4-november-1966-canvas-1-robert-kelly.json",
+            "label": {
+              "none": ["Robert Kelly"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/robert-kelly-at-sir-george-williams-university-the-poetry-series-4-november-1966/canvas-1/paintings",
