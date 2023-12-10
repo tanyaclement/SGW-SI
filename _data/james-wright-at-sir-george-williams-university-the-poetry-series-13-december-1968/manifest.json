@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "James Wright at Sir George Williams University, The Poetry Series, 13 December 1968" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3278.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/james_wright_i006-11-157.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3278.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/james-wright-at-sir-george-williams-university-the-poetry-series-13-december-1968/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
