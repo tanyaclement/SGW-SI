@@ -1,0 +1,1841 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn.json",
+  "type": "AnnotationPage",
+  "label": "Ron Loewinsohn",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I do want to try to read as much as I can from the more recent material, the book is called Meat Air, and the last section which is the collection of new stuff is called “Book of Ayres”. Let me start out with, let me start out with one called \"His Music's Like His 20 Children\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"His Music's Like His 20 Children\" from Meat Air: Poems 1957-1969.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "30.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads [\"It Is to Be Bathed in Light\" from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "114.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called \"Song\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "265.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Song\" [from Meat Air: Poems 1957-1969, section “L’autre 1967”].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this one called, \"The Rain, The Rain\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "310.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Rain, The Rain\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "317.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Let me, let me do one called \"Fuck You With Your Home Run Title\". That title had to be changed, it was originally \"Fuck You Roger Maris <sup><a href=\"https://www.wikidata.org/wiki/Q741023\">w</a></sup>\", but Harcourt Brace <sup><a href=\"https://www.wikidata.org/wiki/Q5654997\">w</a></sup> didn't want to be sued. It's not as if I can't afford it, it's just that it wouldn't do anybody any good. So this is \"Fuck You With Your Home Run Title\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "380.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Fuck You With Your Home Run Title\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "424.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The quote \"thoughts of the party were in my head\" is from the World Champion Weight Lifter, who is a Communist Chinese, and after he had pressed some 5,000 lbs or something they said, you know \"You're fantastic, how did you do it?\". And he said \"Thoughts of the party were in my head\". This is called \"Vision of Childhood''.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "461.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Vision of Childhood\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "495.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called \"Lots of Lakes\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "633.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Lots of Lakes\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "637.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called \"The Sea, Around Us\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "723.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Sea, Around Us\" [from The Sea, Around Us].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "737.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I want to read some, most of the poems from this section called \"Book of Ayres\", and I want to explain just a little bit about it if I can, I guess the most important thing to say is that they declared themselves as a book of poems, in the middle of a final exam, I was taking an exam and one of the things that we had to deal with was a poem by Emily Dickinson <sup><a href=\"https://www.wikidata.org/wiki/Q4441\">w</a></sup>, which I will read to you, it's a marvelous poem, I'd never seen it before. And it's so clearly tied all of the poems I'd been working on for the past year or so together, into a bundle, into a package. Let me read to you the, this little statement which I'd written for the publication of the book, and I, simply to insist that they are before anything else, religious poems, and I, as prepossessing as I am about them now, because I think that I may have occasion later on in the reading to call that, or you may have occasion to call that to mind. That they take, as their focus, the making, the finding of the flesh in the word, that is that the word is flesh and it has to be found as such. But let me just read this statement and then I'll read you the Emily Dickinson poem, we'll go right into the “Book of Ayres”. I hope that they're, also, that they're fun, and then you say 'religion', people say, 'uh-oh', this is going to be very grim and very heavy, and in the old sense of heavy. But I hope we can have fun with them, but simply, let me do this. All the poems in the “Book of Ayres” section Meat Air, were written with the intention, though not entirely conscious ‘til rather late in the series, of making the word flesh. That is, when the poet speaks, his words are physically only air, yet they can afford us the most sensorially tangible of experiences. Further, the poem, though merely air, is what sustains us, what the soul feeds on. The poet speaks to keep the soul of man alive, that's Yeats <sup><a href=\"https://www.wikidata.org/wiki/Q40213\">w</a></sup> in  “John Kinsella's Lament for Mrs. Mary Moore”, it's interesting that as I was grabbing for something to, for support, picked that line, because the line continues, or rather the whole passage goes \"And oh, but she had stories, though not for the priest's ear, to keep the soul of man alive, to banish age and care, and being old, she put a skin on everything she said.\" Or as Williams <sup><a href=\"https://www.wikidata.org/wiki/Q178106\">w</a></sup> puts it, \"It is difficult, to get the news from poems, yet we die, every day, for lack of what is found there.\" Yet if the word seeks to take on the actuality of flesh, of substance, substance itself, as the poet apprehends it, in the merest of tales of his life, from day to day, seeks to take on the resonating actuality of speech, to realize itself in the actuality of the word. Love itself is both a word and a continuing act or process, both an idea and a tension in the chest, viscera and genitals, a pressure toward articulation so complex that it often stifles speech. About halfway through “The Book of Ayres”, I realized that many of the poems I'd written over the past twelve years or so, had been attempting with various degrees of success to effect these transubstantiations and so, this collection. \"The Dickinson Poem\", which if you want to take a look at it is in Thomas Johnson's editions, it's number “1651”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "959.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poem 1651\" by Emily Dickinson.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1202.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And one last note before starting in the book has an epigraph from Jim St. Jim. \"I need to take a new tack, and sit on it.\" The first poem's called \"’These Worlds Have Always Moved in Harmony’\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1249.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"’These Worlds Have Always Moved in Harmony’\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1271.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What the hell is that? I have this terrible recollection of this story I heard about a college in the Midwest in the United States <sup><a href=\"https://www.wikidata.org/wiki/Q30\">w</a></sup> where a visiting prof came out to give a lecture on Plato <sup><a href=\"https://www.wikidata.org/wiki/Q859\">w</a></sup> or something and had this bell go off every fifteen minutes and after, it really unnerved him, and after the end of the lecture, he asked one of the people, like, \"What is that bell going off?\" and the guy, the administrator said \"Oh, that's to keep the students awake.\" I--If that's the case, God bless you, I hope we can do better than that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1282.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"These Worlds Have Always Moved in Harmony\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1328.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this is called \"The Sipapu\". Don't worry about the title, it clears up.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1414.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Sipapu\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1432.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called \"Settling\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1671.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Settling\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1678.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called, this next poem is called \"Paean\" p-a-e-a-n, paean, and is a collaboration in a sense that it's the kind of poem in which a number of people get together and contribute lines, you give me three lines, and I'll give you two lines and eventually the poem gets written, and simply to give credit where credit where credit is due, to list the people who did contribute or help out in the writing of this poem, John Dryden <sup><a href=\"https://www.wikidata.org/wiki/Q213355\">w</a></sup>, William Carlos Williams, and the Associated Press <sup><a href=\"https://www.wikidata.org/wiki/Q40469\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1788.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Paean\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1831.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The story goes that St. Cecilia <sup><a href=\"https://www.wikidata.org/wiki/Q80513\">w</a></sup> invented the organ, and when she was playing an angel passed and mistook earth for heaven because of this fantastic music. \"Went to her organ vocal breath was given\" says John Dryden. These are a couple of songs.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1932.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Song” [from Meat Air: Poems 1957-1969; third poem entitled “Song” published in “Book of Ayres” section].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1958.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one also called \"Song\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1968.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Song\" [from Meat Air: Poems 1957-1969; fourth poem entitled “Song” published in “Book of Ayres” section].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1974.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this one also called \"Song\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1992.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Song\" [from Meat Air: Poems 1957-1969; fifth poem entitled “Song” published in “Book of Ayres” section].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1998.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this one called \"Air\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2037.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Air\"  [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2041.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this one called \"Goat Dance\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2099.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Goat Dance\" [from Meat Air: Poems 1957-1969; first poem entitled “Goat Dance” published in “Book of Ayres” section].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2107.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one called \"Two Airs\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2190.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Two Airs\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2196.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And another one called \"Goat Dance\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2251.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Goat Dance\" [from Meat Air: Poems 1957-1969; third poem entitled “Goat Song” published in “Book of Ayres” section].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2255.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this, title, may perhaps need a little bit of explanation. \"The Romaunt of the Rose\", a 13th century French dream vision poem, dream allegory, written actually in two halves by Jean de Meun <sup><a href=\"https://www.wikidata.org/wiki/Q544925\">w</a></sup> and Guillaume de Lorris <sup><a href=\"https://www.wikidata.org/wiki/Q544959\">w</a></sup> I'm not sure but Chaucer <sup><a href=\"https://www.wikidata.org/wiki/Q5683\">w</a></sup> translated the first part of it, and the title comes from his title, \"The Romaunt of the Rose\". The last line of the poem, “smoot right to the herte rote” is from Chaucer's translation and it's \"smitten right to the heart's root\". And the whole, the title of the poem is \"The Romaunt of the Rose Fuck\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2328.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Romaunt of the Rose Fuck\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2379.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'll just do two more, the first one called \"K. 282\". Koechel is--don't please, be insulted that I explain that title, I read the poem in New York <sup><a href=\"https://www.wikidata.org/wiki/Q60\">w</a></sup> and a graduate student at Columbia <sup><a href=\"https://www.wikidata.org/wiki/Q49088\">w</a></sup> asked me if it meant \"Circa 282\", like circa 282, like approximately 282, and it is of course the catalogue number for the Mozart <sup><a href=\"https://www.wikidata.org/wiki/Q254\">w</a></sup> piano sonata, and it's a piano sonata, I forget which, what key it's in.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2422.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"K. 282\" [from Meat Air: Poems 1957-1969].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2464.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And the last poem is the title poem of the book, \"Meat Air\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2522.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Meat Air\" from Meat Air: Poems 1957-1969.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Ron Loewinsohn",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2528.0"
+        }
+      }
+    }
+  ]
+}

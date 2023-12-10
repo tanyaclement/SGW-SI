@@ -8,6 +8,24 @@
         "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2580.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-ron-loewinsohn.json",
+            "label": {
+              "none": ["Ron Loewinsohn"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/paintings",

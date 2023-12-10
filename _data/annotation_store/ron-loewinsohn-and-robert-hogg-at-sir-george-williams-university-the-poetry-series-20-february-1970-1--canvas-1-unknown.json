@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-unknown.json",
+  "type": "AnnotationPage",
+  "label": "Unknown",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1--canvas-1-unknown-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Ambient Sound [bell].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Unknown",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/ron-loewinsohn-and-robert-hogg-at-sir-george-williams-university-the-poetry-series-20-february-1970-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1280.0"
+        }
+      }
+    }
+  ]
+}
