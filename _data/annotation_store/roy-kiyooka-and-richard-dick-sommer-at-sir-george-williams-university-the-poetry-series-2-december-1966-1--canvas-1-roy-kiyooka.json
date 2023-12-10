@@ -1,0 +1,3362 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka.json",
+  "type": "AnnotationPage",
+  "label": "Roy Kiyooka",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "--want to start off this evening by reading a few poems from my earlier book, the one that Stan mentioned. These poems were written as a result of a summer in Japan <sup><a href=\"https://www.wikidata.org/wiki/Q17\">w</a></sup>, and they are very much occasional poems, they address themselves to the particular occasion of having been there, and they were meant in part to account for that experience of having been there, to my numerable friends in Vancouver. I'll begin by reading three very short little poems, they all relate to, what should we call it, the various contexts in which I saw the sculptured image of the Buddha. The first one is called \"Waiting Out the Rain\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "85.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Waiting Out the Rain\" [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "171.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is \"Buddha in the Garden\". Again, very brief.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "193.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Buddha in the Garden\" [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "203.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is \"Sunday at the Temple\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "227.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Sunday at the Temple\" [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "233.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this is the image of a Buddha seen in the Kyoto Museum, a reclining figure.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "260.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now the next is a sequence of four little poems, very much like the traditional Japanese poems called the Haiku. This is a sequence, the title of which is \"The Stone Garden of Ryoanji\". The first one goes like this:",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "301.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “The Stone Garden of Ryoanji\", part 1 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "327.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “The Stone Garden of Ryoanji\", part 2 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "345.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “The Stone Garden of Ryoanji\", part 3 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "367.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “The Stone Garden of Ryoanji\", part 4 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "384.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now this one is called \"Children's Shrine\". Throughout most of the cities and towns and villages all over Japan you'll find way-side shrines, they're frequently just built into the wall in a very narrow street and people on whatever religious occasion come to worship there. This is a shrine particularly for children. And it goes like this:",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "409.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Children's Shrine\" [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "444.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well this is rather a long sequence, once more very short poems, there are eleven of them, and the title of the sequence is simply \"Higashiyama\", now 'higashiyama' means, in English, 'east mountain'.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "521.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 1 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "562.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 2 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "579.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 3 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "604.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 4 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "620.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 5 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "638.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 6 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "654.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 7 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "673.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 8 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "698.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 9 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "715.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 10 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "737.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Higashiyama\", part 11 [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "763.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well I'll go on to the last poem in the book, this is an attempt, as it were, to sum up the varied experiences that I had there. The poem is called \"Itinerary of a View\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "781.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Itinerary of a View\" [from Kyoto Airs].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "809.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think I need to say a few words about this next group of poems, they were, they're from the book that I am having done at the moment, I started these poems in June 1965 in Montreal when I first came here. I don't know how to tell you this, except that at the time I came, I stayed with Alfred Pinsky <sup><a href=\"https://www.wikidata.org/wiki/Q21997094\">w</a></sup>, or rather I stayed at his home, at his invitation, while I was looking for a place to live. Now, this took me about two weeks, it was very hot, and in the evenings I used to go through his library and pick up things and scanned them. One evening I came across this book, which was a biography of the English painter, Stanley Spencer <sup><a href=\"https://www.wikidata.org/wiki/Q1282413\">w</a></sup>. Spencer, we could say is perhaps the co-partner in the origin and the form and the content of this book. The book is in three parts, the first part is called the mirror, \"The Song the Mirror Sang at Midnight\", and it is prefaced by a quotation from Spencer, which goes like this: \"I am meeting you all the time, and sending my longing for you into chaos, into the darkness, beyond these walls\". I may add that these poems, likewise, are on the whole, very brief, though some are longer.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1027.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 1 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1171.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 2 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 3 published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1315.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 4 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1369.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 5 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1403.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 6 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1458.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 7 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1486.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 8 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1524.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 9 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1551.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 10 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1587.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 11 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1622.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 12 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1646.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 13 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1686.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 14 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1716.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 15 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1761.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The last one in this section.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1805.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Song the Mirror Sang at Midnight\", part 16 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1811.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "There's a terrible draft coming in from the back, I think you're right Dick, we're going to end up with arthritic ankles. Well, this is the second section, and it is called \"The Proposal\". Once more, prefaced with a remark from Stanley Spencer, a very beautiful one. They are set down, as I found them in the book, I have used them in the context of this section of the book and these four poems, taken from his writings are meant to define certain of her attributes. Now I have given a title to each one of these four poems, and I hope they will clarify the context in which they belong here. \"Portrait of the Beloved\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1853.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Portrait of the Beloved\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1926.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This I called \"The Marriage\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Marriage\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1985.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is called \"The Separation\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2017.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Separation\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2025.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this, is \"Her Apotheosis\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2047.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Her Apotheosis\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2057.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That incidentally, is a description he wrote to a friend about a painting that he in fact had made. From your response, I gathered, it has a comic element, but I don't think that he himself made it that way. [Laughter].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2123.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2165.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2284.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The first stanza of this two-stanza poem is from Spencer, once again.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2316.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2323.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The reference in this poem is to an exemplary sculptor who died many years ago, who obsessionally sculpted the human female form, his name is Gaston Lachaise <sup><a href=\"https://www.wikidata.org/wiki/Q1495586\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2374.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2402.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The title of this poem is the same as the title of the second section, it's \"The Proposal\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2459.5"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Proposal\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2474.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This one is called \"The Dance\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2547.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Dance\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2553.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The title of this poem is called \"Her Admonition\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2639.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Her Admonition\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2646.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now the following five poems are called \"Poems of Resurrection\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2728.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poems of Resurrection\", part 1 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2746.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Second \"Resurrection\" poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2847.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poems of Resurrection\", part 2 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2848.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poems of Resurrection\", part 3 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2913.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poems of Resurrection\", part 4 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2947.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The last Resurrection poem, which concludes with a very brief, two-line coda.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2989.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poems of Resurrection\", part 5 [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3001.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Now, the second to last poem is called \"The Visitation\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3051.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Visitation\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3076.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And finally,",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3194.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3202.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Well, this is the final section. This is called \"Nevertheless These Eyes\" and briefly, and again from Spencer, a preface that goes like this: \"I am on this side of angels and dirt\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3236.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Nevertheless These Eyes\" [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3325.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And finally, by way of acknowledging the nature of this book.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3620.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem [published later in Nevertheless These Eyes].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3631.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you very much--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3657.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "--and I were reading together, decided we should write one for the occasion, so we have each come up with a haiku. This is my haiku, it's especially for Dick. I have in brackets here, \"A gentle admonition to the audience following my reading, and preceding his\" and it goes like this: \"Let the stone tell how /snow-covered in whiteness, /these words, when his words come.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Roy Kiyooka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3660.0"
+        }
+      }
+    }
+  ]
+}

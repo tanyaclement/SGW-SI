@@ -8,6 +8,32 @@
         "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3702.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-stanton-hoffman.json",
+            "label": {
+              "none": ["Stanton Hoffman"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-roy-kiyooka.json",
+            "label": {
+              "none": ["Roy Kiyooka"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/paintings",

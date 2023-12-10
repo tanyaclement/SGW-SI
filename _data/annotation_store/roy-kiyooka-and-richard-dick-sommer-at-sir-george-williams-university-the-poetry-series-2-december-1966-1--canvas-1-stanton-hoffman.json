@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-stanton-hoffman.json",
+  "type": "AnnotationPage",
+  "label": "Stanton Hoffman",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1--canvas-1-stanton-hoffman-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "On behalf of the Poetry Reading Committee of Sir George Williams University <sup><a href=\"https://www.wikidata.org/wiki/Q326342\">w</a></sup> I wish to welcome you to this, the fifth, in a series of poetry readings, given at this University during 1966-67. Tonight there will be readings by two poets living in Montreal <sup><a href=\"https://www.wikidata.org/wiki/Q340\">w</a></sup>, and members of the faculty of this university. There will be a fifteen minute intermission in between each reading. Roy Kiyooka <sup><a href=\"https://www.wikidata.org/wiki/Q3445789\">w</a></sup> was born in Moose Jaw <sup><a href=\"https://www.wikidata.org/wiki/Q1019496\">w</a></sup>, Saskatchewan <sup><a href=\"https://www.wikidata.org/wiki/Q1989\">w</a></sup>, he studied at the Provincial Institute of Technology and Art, the Instituto Allende <sup><a href=\"https://www.wikidata.org/wiki/Q17989128\">w</a></sup> in Mexico <sup><a href=\"https://www.wikidata.org/wiki/Q96\">w</a></sup>, and the University of Saskatchewan <sup><a href=\"https://www.wikidata.org/wiki/Q1514848\">w</a></sup> Emma Lake Workshops. He has had one-man exhibitions in Edmonton <sup><a href=\"https://www.wikidata.org/wiki/Q2096\">w</a></sup>, Calgary <sup><a href=\"https://www.wikidata.org/wiki/Q36312\">w</a></sup>, San Miguel de Allende <sup><a href=\"https://www.wikidata.org/wiki/Q4063467\">w</a></sup>, Saskatoon <sup><a href=\"https://www.wikidata.org/wiki/Q10566\">w</a></sup>, Regina <sup><a href=\"https://www.wikidata.org/wiki/Q2123\">w</a></sup>, Toronto <sup><a href=\"https://www.wikidata.org/wiki/Q172\">w</a></sup>, Vancouver <sup><a href=\"https://www.wikidata.org/wiki/Q24639\">w</a></sup>, Victoria <sup><a href=\"https://www.wikidata.org/wiki/Q2132\">w</a></sup>, New York City <sup><a href=\"https://www.wikidata.org/wiki/Q60\">w</a></sup> and Montreal. He exhibited at the Sao Paulo Biennial <sup><a href=\"https://www.wikidata.org/wiki/Q653360\">w</a></sup>, where he was one of four painters representing Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup>, and where he received honourable mention and a Silver Medal. His most recent show was held last month at the Laing Galleries <sup><a href=\"https://www.wikidata.org/wiki/Q28846441\">w</a></sup> in Toronto. In 1964, his first volume of poems, Kyoto Airs, was published by the Periwinkle Press in Vancouver. His second volume, Nevertheless These Eyes is being published this month, in Montreal by Bev Leech. Ladies and Gentlemen, Mr. Roy Kiyooka.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Stanton Hoffman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/roy-kiyooka-and-richard-dick-sommer-at-sir-george-williams-university-the-poetry-series-2-december-1966-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
