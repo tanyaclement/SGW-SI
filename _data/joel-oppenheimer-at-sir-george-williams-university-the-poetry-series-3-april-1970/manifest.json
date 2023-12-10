@@ -20,6 +20,14 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-end.json",
             "label": {
               "none": ["END"]
