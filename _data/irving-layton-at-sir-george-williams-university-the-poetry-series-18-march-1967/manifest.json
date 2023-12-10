@@ -8,6 +8,32 @@
         "id": "https://tanyaclement.github.io/SGW-SI/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5023.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967-canvas-1-irving-layton.json",
+            "label": {
+              "none": ["Irving Layton"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967-canvas-1-audience.json",
+            "label": {
+              "none": ["Audience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967/canvas-1/paintings",
