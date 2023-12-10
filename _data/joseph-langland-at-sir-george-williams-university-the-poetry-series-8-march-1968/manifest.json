@@ -41,6 +41,14 @@
               "none": ["Joseph Langland"]
             }
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-toc.json",
+            "label": {
+              "none": ["TOC"]
+            }
+          }
         ],
         "items": [
           {
