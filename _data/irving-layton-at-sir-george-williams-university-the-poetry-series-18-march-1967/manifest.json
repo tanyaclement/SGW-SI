@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Irving Layton at Sir George Williams University, The Poetry Series, 18 March 1967" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 5023.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/irving_layton_i086-11-031.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 5023.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/irving-layton-at-sir-george-williams-university-the-poetry-series-18-march-1967/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
