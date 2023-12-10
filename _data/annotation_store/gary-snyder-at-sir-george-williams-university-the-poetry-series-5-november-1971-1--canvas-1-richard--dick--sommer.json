@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-richard--dick--sommer.json",
+  "type": "AnnotationPage",
+  "label": "Richard (Dick) Sommer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-richard--dick--sommer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Probably some of us are here in order to look at or touch the Gary Snyder <sup><a href=\"https://www.wikidata.org/wiki/Q315963\">w</a></sup> who actually went and did all those semi-mythological things, who has climbed mountains and traveled in India with Allen Ginsberg <sup><a href=\"https://www.wikidata.org/wiki/Q6711\">w</a></sup>, who provided Kerouac <sup><a href=\"https://www.wikidata.org/wiki/Q160534\">w</a></sup> with a book character, who has lived in or on the edges of several different kinds of wilderness, who has lived in the precincts of Japanese Buddhist monasteries, who has fought, I think has fought hard, to keep other cultures than ours, and other kinds of life than human life, from obliteration. And who has written poems out of the consciousness of these things. For myself, Gary Snyder hasn't made poems so much as he has provided me with windows made out of words. These are windows that have had a way of, themselves disappearing, leaving me usually standing where I think I want to be, out in the open world. So, I came here, I've come here, to meet whoever it is that makes so many good windows. I'll let you discover for yourselves how much this window-maker is what a windowmaker should be, himself, just open and clear. I'd like to present Gary Snyder.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Richard (Dick) Sommer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}

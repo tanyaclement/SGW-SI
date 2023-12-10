@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder.json",
+  "type": "AnnotationPage",
+  "label": "Gary Snyder",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And so these poems, in the cycle called \"Charms\", reflect those debts and reflect the search for that knowledge, insofar as I've gotten into it up to this point. It starts with a little chant, called \"Grace for Love\". Before we...grace, in the sense of the grace that we say before meals. Which is, grace is gratitude, an expression of gratitude for a meal. And the gratitude that we say at my rancheria is a kind of a rough translation from a Japanese Buddhist grace which goes like this in English: \"We venerate the three treasures and are thankful for this meal, the work of other people, and the suffering of other forms of life.\" The need for grace, for love, is something I became aware of when I realized that there was a level of validity in the Catholic Church's objection to contraceptive devices, insofar as love, like food, is a sacrament, and that there is level in which the act of love should inevitably be connected with the consciousness of its role in moving the seed, in transmitting the energy of the knowledge of the biomass, as transmitted down through time. But I felt that the church is far too simple-minded in assuming that the energy aroused in the sacrament of love, in the direction of fertility, has to mean literally that the people who are acting that sacrament out have to necessarily procreate their own kind. And so we came to this, I and several other people, came to this, as what primitive people would call the transferral of merit, or species-increase ritual. In other words, we make love with gratitude to other beings, and wish to transfer our fertility from the human race to the vanishing species.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "482.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Performs \"Grace for Love\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "669.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Curse on the Man In the Pentagon, Washington\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "860.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That's from a Cheyenne ghost dance song, that little last chorus.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "997.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"I went into the Maverick Bar\" [published later  in Turtle Island].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1003.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The Navajo word \"Anasazi\" means \"the ancient ones.\" It's the name that the Navajo gave to the people who lived in the canyons and cliffs of Chaco Canyon <sup><a href=\"https://www.wikidata.org/wiki/Q49786970\">w</a></sup> and Canyon De Chelly <sup><a href=\"https://www.wikidata.org/wiki/Q41679118\">w</a></sup> and Mesa Verde <sup><a href=\"https://www.wikidata.org/wiki/Q6821095\">w</a></sup> and many other sites. Probably the people were the ancestors of the present Pueblo people, living there probably up until the twelfth century, till the great drought of the thirteenth century. The people who more than any others, to judge from what the Pueblo people are still able to transmit today, the people who more than any others have achieved what could truly be called \"civilization\" on this continent, and whose lore embodies perhaps two millennia of deep experience. I wrote this at Canyon De Chelly.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1105.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “Anasazi” [published later in Turtle Island].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1192.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "The Canyon De Chelly, which will come up in another poem I'm going to read later today, and in fact, all over the West, all over the Great Basin <sup><a href=\"https://www.wikidata.org/wiki/Q966943\">w</a></sup>, and in other parts of North America <sup><a href=\"https://www.wikidata.org/wiki/Q49\">w</a></sup> too, notably on the granite outcroppings on th]e northern shores of Lake Superior <sup><a href=\"https://www.wikidata.org/wiki/Q1066\">w</a></sup>, for example, are designs pecked into the rocks, petroglyphs. Anthropologists, Americanists, whatever you call 'em, haven't had much time to study those petroglyphs yet, because they've been engaged through all the years of this century in a hasty, half-successful salvage operation. Salvaging the remnants of this or that dying culture, recording and taping the last words of a dying language, and they've had no time to give to studying these older things that they know are there, such as the petroglyphs. But the petroglyphs have a repeated vocabulary of motifs which are found in patterns distributed all over North America, and particularly in the West. One of the most widespread is a hand, that someone has put on a cliff or a boulder face, apparently outlined, and then filled it in with red, hematite, or a red hand. That red hand often is lacking a finger, or lacking a finger-joint. This would not be notable in itself if it weren't that in the caves of southern France <sup><a href=\"https://www.wikidata.org/wiki/Q142\">w</a></sup> and northern Spain <sup><a href=\"https://www.wikidata.org/wiki/Q29\">w</a></sup>, there are dated, back as far as 40,000 years, the same red hands, with missing fingers and missing finger-joints are found. This is only one of a number of things which are found all the way. And so this next poem, \"The Way West Underground\", is one of a number of poems, and this is perhaps the most intellectual of them, in which I'm trying to trace out how you get back to make the line of connection between what I know the American knows, what I am beginning to know the American Indian knew, and what I am beginning to know our prehistoric ancestors knew, which was not a different knowledge. And the question of why our prehistoric ancestors lost it is another question. Actually the main impetus of this poem deals with the bears, because there's an international mystery religion called the Bear Cult, that runs all the way from Finland <sup><a href=\"https://www.wikidata.org/wiki/Q33\">w</a></sup> to Utah <sup><a href=\"https://www.wikidata.org/wiki/Q829\">w</a></sup>, across Siberia <sup><a href=\"https://www.wikidata.org/wiki/Q5428\">w</a></sup>, and it shares the mysterious central theme, which is a girl who marries a bear. I've written several poems about that girl. And about the bears. And so this is coming in on that from another angle.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1271.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1--canvas-1-gary-snyder-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Way West Underground\" [published later in Turtle Island].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Gary Snyder",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1512.0"
+        }
+      }
+    }
+  ]
+}
