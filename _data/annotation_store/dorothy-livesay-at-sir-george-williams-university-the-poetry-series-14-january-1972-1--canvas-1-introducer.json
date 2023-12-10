@@ -1,0 +1,47 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-1--canvas-1-introducer.json",
+  "type": "AnnotationPage",
+  "label": "Introducer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-1--canvas-1-introducer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I was going to talk on about Dorothy Livesay's <sup><a href=\"https://www.wikidata.org/wiki/Q1250325\">w</a></sup> distinguished career, as a poet, and a critic and a teacher, but after what she told me tonight, I'm not sure if distinguished is exactly the right word, she says that at the age of nineteen, she snubbed the Prince of Wales <sup><a href=\"https://www.wikidata.org/wiki/Q590227\">w</a></sup>. Nevertheless, two books should be mentioned, her selected and uncollected poems to appear this September and a book which was called 39 Women Poets which has gained another poet and another title at the last moment and as 40 Women Poets of Canada <sup><a href=\"https://www.wikidata.org/wiki/Q16\">w</a></sup> is now on sale outside, as you may have seen as you came in. Back in 1965, I guess it was, Wynne Francis managed to catch Dorothy Livesay as she was passing through Montreal <sup><a href=\"https://www.wikidata.org/wiki/Q340\">w</a></sup>, and Dorothy gave a really private reading in Wynne's office. Ever since then, we have been trying to convince her to come back and read to us all in the series. I'm extremely happy this year that we have been successful and that I can present to you Dorothy Livesay.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Introducer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2.0"
+        }
+      }
+    }
+  ]
+}
