@@ -8,6 +8,40 @@
         "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3805.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-annotation.json",
+            "label": {
+              "none": ["Annotation"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-end.json",
+            "label": {
+              "none": ["END"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer.json",
+            "label": {
+              "none": ["Joel Oppenheimer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/paintings",

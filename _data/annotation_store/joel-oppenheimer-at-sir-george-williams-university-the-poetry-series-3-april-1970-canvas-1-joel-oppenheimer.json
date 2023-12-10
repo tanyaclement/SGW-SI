@@ -1,0 +1,2621 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer.json",
+  "type": "AnnotationPage",
+  "label": "Joel Oppenheimer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I really didn't like, George <sup><a href=\"https://www.wikidata.org/wiki/Q1239280\">w</a></sup>, being referred to as being a Black Mountain blah blah blah. I happen to be the finest softball pitcher Black Mountain ever had. And so that none of you lose any sleep tonight, the uniform is genuine United States <sup><a href=\"https://www.wikidata.org/wiki/Q30\">w</a></sup> Merchant Marine <sup><a href=\"https://www.wikidata.org/wiki/Q865132\">w</a></sup> uniform and the fifth stripe, the purple stripe denotes me as a chief poet, which I was appointed by three captains, two chief engineers and several assorted mates of United States lines and we invented the uniform one night and they threw in all the materials and my wife gave it to me for a Christmas present, so I am responsible for the moral, religious, emotional and sexual life of the crew while at sea. It's a very serious duty! The book that's out now is actually my fourth book of poems, the first to some of you may be familiar with some of the poems from The New American Poetry <sup><a href=\"https://www.wikidata.org/wiki/Q7753501\">w</a></sup>and so on, The Dutiful Son and The Love Bit. And In Time is the fourth book. The third book is a little known book because Jonathan Williams <sup><a href=\"https://www.wikidata.org/wiki/Q6274797\">w</a></sup> has been carrying it around in his briefcase for eight years and sends me postcards every six month saying he's bringing it out. I thought maybe since it probably will never get published I should read some poems from there, it's called Friends and Lovers and most of the poems have initialed inscriptions, some of which I will name to you, and some of which somebody going for his Master's thirty years from now will have to do a lot of research to figure out. It's divided into two parts, obviously in the first part is friends and in the second part is lovers. This is the dedicatory poem. \"Orpheus\" <sup><a href=\"https://www.wikidata.org/wiki/Q174353\">w</a></sup>.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "44.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Orpheus\" [published later in Just Friends/Friends and Lovers].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "172.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is a poem called \"Lesson I\" and it's for Charles Olson <sup><a href=\"https://www.wikidata.org/wiki/Q922978\">w</a></sup>. It's also as sure you all recognize upon a parody on one of Pound's <sup><a href=\"https://www.wikidata.org/wiki/Q163366\">w</a></sup> Usury Cantos <sup><a href=\"https://www.wikidata.org/wiki/Q2701465\">w</a></sup> and it's based on an actual softball incident in which Charles was supposed to be coaching third base and instead was discussing Etruscan sculpture when I was rounding second on a long drive to left centre field.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "200.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Lesson I\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Charles got very upset about that. This is a poem for Franz Kline <sup><a href=\"https://www.wikidata.org/wiki/Q374492\">w</a></sup>. Do I need to tell you who Franz was? Alright, if anybody doesn't know should ask the person next to them after the reading…”Pablo Nerruda--” It’s called “The Boys Whose Fathers\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "270.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Boys Whose Fathers\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "297.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "And this is for Cubby Selby <sup><a href=\"https://www.wikidata.org/wiki/Q551487\">w</a></sup> who wrote Last Exit to Brooklyn <sup><a href=\"https://www.wikidata.org/wiki/Q1400274\">w</a></sup>. “A Poem In Tune With Its Time”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "511.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads “A Poem In Tune With Its Time”.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "519.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is for Phillip Guston <sup><a href=\"https://www.wikidata.org/wiki/Q701952\">w</a></sup>. That's very strange, I find that now I can say the names. Philip is a still surviving member of the New York <sup><a href=\"https://www.wikidata.org/wiki/Q60\">w</a></sup> Abstract Expressionist school, or whatever they call it these days. And a marvelous painter.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "553.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Grace for Painters\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This is another poem for Charles Olson. It's called \"Okay\". This is a funny book because it was written about 1961, as I say literally, it's been carried around in manuscript form for eight years and why I never pulled it back except that those damn postcards kept coming in so I kept saying, okay, six months more and it just was a scene I got into where I, personal poems to people became a thing that I was doing at that time. It's called \"Okay\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "681.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Okay\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "730.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Thank you. I don't know how many of you knew Charles, that was a visit to New York and we did have a marvelous meal in New York's Chinatown <sup><a href=\"https://www.wikidata.org/wiki/Q866332\">w</a></sup> and I just said to the guy, you know, bring us so many dollars worth of food, and there were eleven of us, Ed Dorn <sup><a href=\"https://www.wikidata.org/wiki/Q5334756\">w</a></sup> and his wife were with us and LeRoi Jones <sup><a href=\"https://www.wikidata.org/wiki/Q354783\">w</a></sup> and his wife and Charles, and we sat there and they kept bringing dishes out everybody stuffed themselves and we were all sitting there and Charles, as most of you know was about 6'7” and about 250 pounds and after all this food had come out and been consumed, the guy came out with a sea bass about this big, and everybody sorta looked and Charles said, \"Oh, thank you Joel\" and proceeded to demolish this thing. Well, everybody just sitting...[audience laughter]. Ah, yes! I have a Canadian poem for you. I didn't even know that. This is a poem for Ed Dorn and it's called \"The Fourth Ark Royal\". One night at a bar called Dylan's, Ed and I had seen each other for the first time for about six years and a couple of sailors came in and they had Ark Royal on their caps and Canadian badges and finally after a couple of drinks I asked one of them what the Ark Royal was, and to their shame and my chagrin, and they really were abashed when they said it, it turns out now that the Ark Royal is now a Corvette, uh, after a long distinguished history and not that--I'm sure that it's a great Corvette, but still, a Corvette is a Corvette, you know.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "834.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Fourth Ark Royal\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "963.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Does anybody know where the Fourth Ark Royal is anchored? I'll go see it tomorrow. I have to make a confession, I pulled a dreadful gaff yesterday and I'm sure that Stan and George are going to spread it around after I leave, so I'm going to confess it in public. I said \"Gee, we're going to be here for a couple of days and there's one thing I'd really like to see. And do you suppose somebody might, you know, give us a lift to the Plains of Abraham <sup><a href=\"https://www.wikidata.org/wiki/Q2726825\">w</a></sup>\", and they both looked at me and said \"It's 100 miles away in Quebec <sup><a href=\"https://www.wikidata.org/wiki/Q176\">w</a></sup>\" and I said \"Oh my god, you're right\" and then I got home, to the hotel, and I was reading through, what's the name of that lovely magazine they give you at the hotel? Canada Today or something, and I was reading through, and when I saw them today, I said \"Oh well, I was wrong about the Plains of Abraham, but we guys captured Montreal once\" and it made me feel much better. Of course, we didn't hold it very long, I think a day we were here. This is a thing called \"Spring Poem\". And let's hope that it gets here.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1203.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Spring Poem\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1284.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Ahah! Yes, gee, I don't know if you're liking these, but I'm so delighted, I really haven't looked at these poems in moons, and it's...this is a poem for Gil Sorrentino <sup><a href=\"https://www.wikidata.org/wiki/Q326773\">w</a></sup> called \"The Aces\", and it starts with a quote from Antony and Cleopatra <sup><a href=\"https://www.wikidata.org/wiki/Q606830\">w</a></sup>. And it's when, it's the speech that's always quoted where the death is announced to her, and everybody always quotes the crown he bestride the continents like [unintelligible] and crowns--the crown would drop from his pocket, but I always love the end of it, near the end, she says \"His delights were dolphin-like, they showed his back above the element they lived in\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1299.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Aces\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1348.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "For J.C. Just to add a little mystery.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1416.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads unnamed poem \"There are waterfalls pour straight down\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1436.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"La Revolución\", for J.S.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1488.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"La Revolución\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1491.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think what I'll do is read one--this is kind of a long poem, are you up to a longish poem and then we'll call a break? \"A Little Mayan Head\", for E.W.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1555.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Little Mayan Head\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1583.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's titled \"N.B.\", but that isn't for a lady, that's Nota Bene, if I am correcting--if I am pronouncing that correctly, or correcting that pronouncedly.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1823.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"N.B.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1834.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Poem for New Children\", for E. and L.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1870.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poem for New Children\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1874.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Peire Vidal at Thirty-Two\" and any of you who don't know Peire Vidal <sup><a href=\"https://www.wikidata.org/wiki/Q5269\">w</a></sup> are instructed to report to George Bowering on Monday morning and he will give you a lecture on Peire Vidal. And George, if you don't have a lecture prepared, you better by then. Peire Vidal was the most marvelous poet in the world, his vida begins, Peire Vidal was the son of a rich fourrier in Toulouse <sup><a href=\"https://www.wikidata.org/wiki/Q7880\">w</a></sup>, he sang better than any man in the world and he wrote good songs and he was the biggest fool the world has ever known because he believed that what a woman told him in love was true. He also [audience laughter] wrote a poem, this will get an even bigger hit when he was an old man he wrote a gorgeous poem that I can't quote, and you can thank me for that, he wrote a gorgeous poem in which in the first stanza, he avowed his eternal love to four different chicks [audience laughter]. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1895.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Peire Vidal at Thirty-Two\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1924.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Truck Farmer\", for R. F.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1996.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Truck Farmer\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2005.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Dutch Interior: Sewing\", also for R.F. R.F. was my first wife.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2101.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Dutch Interior: Sewing\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2107.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Clams on the Half-Shelf\" for M.M. And I must say I've been very disappointed, because everybody kept telling me what great seafood restaurants Montreal has and the only seafood I can really stand is fresh clams and every restaurant I go into says, \"Oh, yeah, we have oysters but we don't serve clams\". Does anyone know a restaurant where I can get fresh clams?...This is for M.M.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2136.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Clams on the Half-Shelf\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2169.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I must confess to the ladies in the audience that my book has been branded by women's lib in New York as insulting to women, and I have great fights with all of them, I praise their bosoms, and they sort of calm down then, but they still keep putting up stickers on my book jackets. It's amazing what you can do to a women's lib chick if you just tell her that she has very nice tits, really. Immediately they desert the movement. \"New Blues for the Moon\" for D.D.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"New Blues for the Moon\" [from In Time: 1962-1968].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2254.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It took me four years after, I got the rhyme line to \"I know your door better than my own\" but now it's too late to write the blues, but if anybody's interested, it's \"And if you won't have me I still ain't goin' home.\" \"A Love Poem\" for M.S.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2290.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Love Poem\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2313.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Oh yeah, that's a nice poem for today. \"Third of April\", for M.R.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2348.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Third of April\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2356.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"A Five Act Play\" for B.J.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2399.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"A Five Act Play\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2402.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Nature Boy\" for B.C. Helen, are you keeping notes on these initials?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2427.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Nature Boy\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2441.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Flora\" for J.G.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2482.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I'm not sure I like this poem but the story behind it is funny. The really, the fairest break-up, for very strange reasons, and this one literally broke up because the first day that the chick made me sunny-side up eggs, she mashed the yolk with her fork. [Audience laughter]. I knew that no matter how beautiful the scene had been I couldn't stay there anymore. It's called \"Purple Flowers\" and it's for S.G., wherever you might be.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2524.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Purple Flowers\" [audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2574.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Apples\" for D.R.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2609.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Apples\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2615.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I have--this is the last poem in the book and if you want to hear some stuff from--this is a longish one, why don't we call a stop after this, and if people want to split, split and if people want to stay I'll read a little bit more from the new book. \"When What You Dream\" for F.E.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2650.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"When What You Dream\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2685.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "This book starts with a poem that was turned down by at least 37 little magazines, and I finally blackjacked it in as the introductory poem. It's called \"The Poem\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3067.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Poem\" [from In Time: 1962-1968].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3096.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Nobody liked it. Dan Rice is the only person in the world I know that likes that poem. And I think it's the best poem I ever wrote. This is a poem for the other poet I have to most love for, Li Po <sup><a href=\"https://www.wikidata.org/wiki/Q7071\">w</a></sup>, the Chinese poet from 700, 800, roughly. It's called \"shooting the moon\". Li Po, his particular distinctions were that he seduced the emperor of China's <sup><a href=\"https://www.wikidata.org/wiki/Q148\">w</a></sup> favourite courtesan, and showed up two hours late for the date, bombed out of his skull, and fell asleep on her bosom before doing anything, and the emperor was not terribly amused by it but at the same time he was impressed by the enormity of the action so he exiled him to the mountains but he gave him like 50 thousand acres and bread for life, it's just he was not to show up in court ever again. While there, he did several notable things, one of which is writing the best lush poem that's ever been written cause he got up on a beautiful spring day and was sitting out on his terrace and his servant brought him breakfast and he ate it and he started drinking some sake and the next thing he knew it was nine o'clock at night and like he had sorta missed spring so he started drinking again, and the last line of the poem is something like \"two hours later I was dancing with the moon\". So, he worked it out. The only problem was, that he was literally in love with the moon, and this image runs through his poem, and one night on the way home from a wine tavern, he decided finally to make it with the moon and he sat down at the edge of the river, left it under a rock with his clothes and dove in to screw the moon, literally, the reflection in the water, and drowned. And one hopes that--I don't know what the autopsy showed, but one hopes that he did make it before he drowned, you know, like, you have to love, you know, a guy like that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3105.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Shooting the Moon\" [from In Time: 1962-1968].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3268.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Helen, do you remember, by any chance, where the other moon poem is? Hold on one--I think I have it. Marvelous picture in the Times <sup><a href=\"https://www.wikidata.org/wiki/Q9684\">w</a></sup> one day, the first time they took a--the first time one of the things went around the moon, and I wrote a very funny poem about it I think, if I can find it here. Oh well, while I'm looking for it, I'll read you \"Zeus, in May, Reflects on a Recent Letter from Astarte\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3397.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Zeus, in May, Reflects on a Recent Letter from Astarte\" [from In Time: 1962-1968].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3473.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Am I allowed to read dirty poems here? Yeah? This is a poem called \"Poem in Praise of Perseverance\". And anybody who doesn't want to hear it should close their ears. This is another poem that was rejected by about 40 magazines.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3517.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Poem in Praise of Perseverance\" [from In Time: 1962-1968].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3545.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I really do want to find that damn moon poem. Alright, \"The New Standard Simplified American Cabala for Home Use\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3574.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The New Standard Simplified American Cabala for Home Use\" [from In Time: 1962-1968].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3593.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"The Three Old Ladies\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3612.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"The Three Old Ladies\" [from In Time: 1962-1968].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3624.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "That poem incidentally was because of a little incident in a college in Brooklyn <sup><a href=\"https://www.wikidata.org/wiki/Q18419\">w</a></sup> because they had a lady faculty member as a cop and she listened to me read and she objected to only one word in the entire reading and that was 'hard-on' and I suggested gently to the woman who called me about it that that might be that lady's problem, if she could listen to my--I found the moon poem, thank god--if that was the only word she found to object to that I really thought she might need a little help somewhere from somebody. \"Wrong Again\".",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3674.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970-canvas-1-joel-oppenheimer-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Reads \"Wrong Again\" [from In Time: 1962-1968; audience laughter throughout].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Joel Oppenheimer",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/joel-oppenheimer-at-sir-george-williams-university-the-poetry-series-3-april-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3731.0"
+        }
+      }
+    }
+  ]
+}
