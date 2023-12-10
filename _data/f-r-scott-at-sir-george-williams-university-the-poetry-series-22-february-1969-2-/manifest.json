@@ -8,6 +8,16 @@
         "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-2-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1081.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-2--canvas-1-f-r--scott.json",
+            "label": {
+              "none": ["F.R. Scott"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://tanyaclement.github.io/SGW-SI/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-2-/canvas-1/paintings",
