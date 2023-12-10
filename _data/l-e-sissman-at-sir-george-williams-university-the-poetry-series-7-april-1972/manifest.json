@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "L.E. Sissman at Sir George Williams University, The Poetry Series, 7 April 1972" ] },
+    "items": [
+      {
+        "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3052.0,
+        "items": [
+          {
+            "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://files.spokenweb.ca/concordia/sgw/audio/all_mp3/le_sissman_i006-11-110.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 3052.0
+                },
+                "target": "https://tanyaclement.github.io/SGW-SI/l-e-sissman-at-sir-george-williams-university-the-poetry-series-7-april-1972/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
