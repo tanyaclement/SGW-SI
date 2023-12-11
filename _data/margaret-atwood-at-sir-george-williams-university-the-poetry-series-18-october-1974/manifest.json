@@ -12,17 +12,9 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience.json",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--audience--font-.json",
             "label": {
-              "none": ["Audience"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--henry-beissel--font-.json",
-            "label": {
-              "none": ["\u003cfont color=\"#ff0000\"\u003eHenry Beissel\u003c/font\u003e"]
+              "none": ["\u003cfont color=\"#ff0000\"\u003eAudience\u003c/font\u003e"]
             }
           }
           ,
@@ -36,121 +28,9 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-howard-fink.json",
-            "label": {
-              "none": ["Howard Fink"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--audience--font-.json",
-            "label": {
-              "none": ["\u003cfont color=\"#ff0000\"\u003eAudience\u003c/font\u003e"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-15.json",
-            "label": {
-              "none": ["Audience Member 15"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-14.json",
-            "label": {
-              "none": ["Audience Member 14"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--margaret-atwood--font-.json",
-            "label": {
-              "none": ["\u003cfont color=\"#ff0000\"\u003eMargaret Atwood\u003c/font\u003e"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-13.json",
-            "label": {
-              "none": ["Audience Member 13"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-10.json",
-            "label": {
-              "none": ["Audience Member 10"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-margaret-atwood.json",
-            "label": {
-              "none": ["Margaret Atwood"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-12.json",
-            "label": {
-              "none": ["Audience Member 12"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-17.json",
-            "label": {
-              "none": ["Audience Member 17"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-5.json",
-            "label": {
-              "none": ["Audience Member 5"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-annotation.json",
             "label": {
               "none": ["Annotation"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-8.json",
-            "label": {
-              "none": ["Audience Member 8"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-3.json",
-            "label": {
-              "none": ["Audience Member 3"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-6.json",
-            "label": {
-              "none": ["Audience Member 6"]
             }
           }
           ,
@@ -164,49 +44,41 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-henry-beissel.json",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience.json",
             "label": {
-              "none": ["Henry Beissel"]
+              "none": ["Audience"]
             }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-wynne-francis.json",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-13.json",
             "label": {
-              "none": ["Wynne Francis"]
+              "none": ["Audience Member 13"]
             }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-9.json",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-3.json",
             "label": {
-              "none": ["Audience Member 9"]
+              "none": ["Audience Member 3"]
             }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member--7.json",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-14.json",
             "label": {
-              "none": ["Audience Member  7"]
+              "none": ["Audience Member 14"]
             }
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--recording-equipment--font-.json",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-12.json",
             "label": {
-              "none": ["\u003cfont color=\"#ff0000\"\u003eRecording Equipment\u003c/font\u003e"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-1.json",
-            "label": {
-              "none": ["Audience Member 1"]
+              "none": ["Audience Member 12"]
             }
           }
           ,
@@ -220,9 +92,97 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-4.json",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-margaret-atwood.json",
             "label": {
-              "none": ["Audience Member 4"]
+              "none": ["Margaret Atwood"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-henry-beissel.json",
+            "label": {
+              "none": ["Henry Beissel"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-9.json",
+            "label": {
+              "none": ["Audience Member 9"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-8.json",
+            "label": {
+              "none": ["Audience Member 8"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-17.json",
+            "label": {
+              "none": ["Audience Member 17"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--henry-beissel--font-.json",
+            "label": {
+              "none": ["\u003cfont color=\"#ff0000\"\u003eHenry Beissel\u003c/font\u003e"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-5.json",
+            "label": {
+              "none": ["Audience Member 5"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-wynne-francis.json",
+            "label": {
+              "none": ["Wynne Francis"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-1.json",
+            "label": {
+              "none": ["Audience Member 1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-15.json",
+            "label": {
+              "none": ["Audience Member 15"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member--7.json",
+            "label": {
+              "none": ["Audience Member  7"]
             }
           }
           ,
@@ -236,9 +196,49 @@
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-unknown.json",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-4.json",
             "label": {
-              "none": ["Unknown"]
+              "none": ["Audience Member 4"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--recording-equipment--font-.json",
+            "label": {
+              "none": ["\u003cfont color=\"#ff0000\"\u003eRecording Equipment\u003c/font\u003e"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-6.json",
+            "label": {
+              "none": ["Audience Member 6"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-howard-fink.json",
+            "label": {
+              "none": ["Howard Fink"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-10.json",
+            "label": {
+              "none": ["Audience Member 10"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--margaret-atwood--font-.json",
+            "label": {
+              "none": ["\u003cfont color=\"#ff0000\"\u003eMargaret Atwood\u003c/font\u003e"]
             }
           }
         ],
