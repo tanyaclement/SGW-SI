@@ -1,0 +1,164 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tanyaclement.github.io/SGW-SI/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--margaret-atwood--font-.json",
+  "type": "AnnotationPage",
+  "label": "<font color=\"#ff0000\">Margaret Atwood</font>",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--margaret-atwood--font--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "What he put his fingerprint on it?.... It's fucking hot, too. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "244.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--margaret-atwood--font--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "It's fucking hot, too.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "255.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--margaret-atwood--font--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "I think we better start fairly shortly. Hahah, yeah, here's the mic. It tends to make horrible noises. Really? [Inaudible]? They won't move, they wanna stay here.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "263.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--margaret-atwood--font--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "You take my hand, and suddenly, I'm in a bad movie.\" [Audience laughter in conversation with her earlier reference to the setting of being in the Saturday movies].",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Margaret Atwood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": {
+          "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://tanyaclement.github.io/SGW-SI/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1340.0"
+        }
+      }
+    }
+  ]
+}
